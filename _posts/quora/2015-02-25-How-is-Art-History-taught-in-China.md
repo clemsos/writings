@@ -16,6 +16,6 @@ approach is more about the history and evolution of technics than
 movement and biographies. Artists from the 20th century and more
 abstract painting are often not even mentioned. A few years before,
 there were very few courses about Chinese traditional painting but I
-heard this has been changing recently.\
+heard this has been changing recently. 
 Students usually know more than what they have been taught in school
 because they spend long hours in libraries and bookshops for their exams

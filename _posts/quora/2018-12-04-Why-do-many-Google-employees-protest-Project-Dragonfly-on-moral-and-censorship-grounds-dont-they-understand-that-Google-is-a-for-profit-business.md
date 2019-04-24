@@ -5,7 +5,7 @@ original_url: 'https://quora.com/Why-do-many-Google-employees-protest-Project-Dr
 source: quora
 title: |
     Why do many Google employees protest Project Dragonfly on moral and
-    censorship grounds; don\'t they understand that Google is a for-profit
+    censorship grounds; don 't they understand that Google is a for-profit
     business?
 ---
 

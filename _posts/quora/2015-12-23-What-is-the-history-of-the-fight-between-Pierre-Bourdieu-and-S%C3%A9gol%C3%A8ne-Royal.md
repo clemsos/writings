@@ -13,12 +13,12 @@ that, when Royal was a student at ENA (French top administration
 school), she chose the left-wing only for career purposes. What Bourdieu
 said is that she may have been closer to the right-wing in thoughts and
 education but career-wise the socialist party was a better choice for
-her.\
-\
+her. 
+ 
 This is actually pretty common, despite the supposed left/right
 ideological distinction. One of the main reason of the current success
 of National Front in France is because they are having an easy time
 recruiting because career in traditional parties are blocked by sarkozy
-or hollande crews.\
-\
-Bourdieu\'s interview\
+or hollande crews. 
+ 
+Bourdieu 's interview 

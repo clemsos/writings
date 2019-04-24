@@ -4,7 +4,7 @@ language: fr
 original_url: 'https://quora.com/Why-does-China-prohibit-foreigners-from-staying-in-low-class-hotels-Is-there-any-other-country-that-does-this/answer/Clément-Renaud'
 source: quora
 title: |
-    Why does China prohibit foreigners from staying in \'low class\' hotels?
+    Why does China prohibit foreigners from staying in  'low class ' hotels?
     Is there any other country that does this?
 ---
 
@@ -22,4 +22,4 @@ will tell you not to register because your presence can bring troubles.
 
 Hotels even very 'low-class' that operate in places like downtown
 Shanghai will accept you because you are just one foreigner in a million
-and city gov of jingan or huangpu don't give a d\*\*\* about you.
+and city gov of jingan or huangpu don't give a d * * * about you.

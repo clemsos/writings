@@ -4,7 +4,7 @@ language: fr
 original_url: 'https://quora.com/Why-is-Frances-President-Macron-talking-tough-about-China-when-he-is-facing-so-many-problems-in-French-society-and-in-the-EU/answer/Clément-Renaud'
 source: quora
 title: |
-    Why is France\'s President Macron talking tough about China when he is
+    Why is France 's President Macron talking tough about China when he is
     facing so many problems in French society and in the EU?
 ---
 

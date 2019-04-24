@@ -28,9 +28,9 @@ tarnishing the credibility of French diplomacy even more, he helped
 China to prove once again how easy it was to divide Europe.
 
 Macron knows better and has been grooming Xi quite well, offering him a
-horse from his own personal guard[\[1\]](#OQAxB)as a payback for
-involving his wife[\[2\]](#FEWBb) in the cuteness powerhouse that is
-China's panda politics[\[3\]](#itFoW).
+horse from his own personal guard[ [1 ]](#OQAxB)as a payback for
+involving his wife[ [2 ]](#FEWBb) in the cuteness powerhouse that is
+China's panda politics[ [3 ]](#itFoW).
 
 In many regards, both countries share a lot. Their political traditions
 are a long story of inflated administration headed by omnipotent
@@ -39,12 +39,12 @@ It just have to look good and taste fabulous.
 
 Footnotes
 
-[\[1\]](#cite-OQAxB)[Vésuve de Brekka -
+[ [1 ]](#cite-OQAxB)[Vésuve de Brekka -
 Wikipedia](https://en.wikipedia.org/wiki/V%C3%A9suve_de_Brekka)
 
-[\[2\]](#cite-FEWBb)[Brigitte Macron a baptisé le bébé panda prêté par
+[ [2 ]](#cite-FEWBb)[Brigitte Macron a baptisé le bébé panda prêté par
 la Chine «Yuan
 Meng»](http://www.lefigaro.fr/politique/le-scan/2017/12/04/25001-20171204ARTFIG00196-brigitte-macron-a-baptise-le-bebe-panda-prete-par-la-chine-yuan-meng.php)
 
-[\[3\]](#cite-itFoW)[Panda diplomacy -
+[ [3 ]](#cite-itFoW)[Panda diplomacy -
 Wikipedia](https://en.wikipedia.org/wiki/Panda_diplomacy#Pandas_in_Chinese_politics)

@@ -4,7 +4,7 @@ language: fr
 original_url: 'https://quora.com/Whats-your-reaction-when-you-visit-China-eating-at-restaurants-there-and-find-out-none-of-the-dishes-are-the-typical-Chinese-food-you-get-here-in-America/answer/Clément-Renaud'
 source: quora
 title: |
-    What\'s your reaction when you visit China, eating at restaurants there
+    What 's your reaction when you visit China, eating at restaurants there
     and find out none of the dishes are the typical Chinese food you get
     here in America?
 ---

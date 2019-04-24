@@ -16,7 +16,7 @@ It could be a woman, but she will wear a veil which is also problematic
 for a Western audience who usually sees that as a sign of oppression.
 
 The main problem to create an icon for the Western audience is that
-Uighurs aren\'t Buddhist, they are Muslim. Promoting a Muslim as a
+Uighurs aren 't Buddhist, they are Muslim. Promoting a Muslim as a
 defensor of freedom goes against another enormous media trend of
 depicting Muslims as enemies of freedom. You have to start to explain
 that the world is complicated, and your binary discourse immediately

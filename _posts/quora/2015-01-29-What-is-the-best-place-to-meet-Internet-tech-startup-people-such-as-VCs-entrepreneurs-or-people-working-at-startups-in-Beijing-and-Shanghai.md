@@ -12,6 +12,6 @@ You should try a coworking space called People Squared in Shanghai. They
 have a space near Jing An Temple that they share with a hackerspace
 (Xinchejian) and a fablab (Xinfab). Another of their space has a cafe
 (Xincafe). Look also for Tekyzu events, always a lot of fun and nice
-people to meet there.\
-\
+people to meet there. 
+ 
 <http://www.people-squared.com/en/>

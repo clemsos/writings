@@ -6,7 +6,7 @@ source: quora
 title: 'How can I store or save data as a draft in MongoDB?'
 ---
 
-There is no such thing as a draft in Mongo. Some approaches could be :\
+There is no such thing as a draft in Mongo. Some approaches could be : 
 
 -   Just save the whole document, display it to the user for review and
     update the fields where the user have made changes.

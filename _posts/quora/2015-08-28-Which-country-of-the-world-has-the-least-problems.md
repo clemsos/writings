@@ -6,7 +6,7 @@ source: quora
 title: 'Which country of the world has the least problems?'
 ---
 
-Originally Answered: [What are the world\'s least dysfunctional
+Originally Answered: [What are the world 's least dysfunctional
 countries?](http://quora.com/What-are-the-worlds-least-dysfunctional-countries?no_redirect=1)Belgium.
 Their administration manage to run the country during [589 days without
 a

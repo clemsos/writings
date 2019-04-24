@@ -41,7 +41,7 @@ leaders will go. Their newly-acquired Western education is at their
 disadvantage here. One elected, the new guys do not really want business
 achievements, they want military victories. They see war as an
 opportunity and international trade as a risk. You can not buy out this
-people with money because they don\'t really care about it. They want to
+people with money because they don 't really care about it. They want to
 win big time and make noise, not to be rich and quiet like the old
 technocrats before.
 

@@ -6,5 +6,5 @@ source: quora
 title: 'As a multilingual, what draws you to learn new languages?'
 ---
 
-Talk to people that could tell me about a world I didn\'t know. Make
+Talk to people that could tell me about a world I didn 't know. Make
 friends. Learn about humans. Learn about myself.

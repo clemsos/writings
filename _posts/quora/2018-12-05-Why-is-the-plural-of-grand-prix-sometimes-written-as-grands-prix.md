@@ -4,8 +4,8 @@ language: fr
 original_url: 'https://quora.com/Why-is-the-plural-of-grand-prix-sometimes-written-as-grands-prix/answer/Clément-Renaud'
 source: quora
 title: |
-    Why is the plural of \'grand prix\' sometimes written as \'grands
-    prix\'?
+    Why is the plural of  'grand prix ' sometimes written as  'grands
+    prix '?
 ---
 
 It is a French word. "Prix" means price and does not change in plural

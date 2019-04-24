@@ -7,4 +7,4 @@ title: 'What has Quora taught you?'
 ---
 
 that I can spend an incredible amount of time reading useless stuff when
-it is labelled as \"knowledge\"
+it is labelled as  "knowledge "

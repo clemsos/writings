@@ -9,8 +9,8 @@ title: |
 ---
 
 Yes, average duration of a phD in Europe is 3 years in most disciplines
-(EU standards).\
-\
+(EU standards). 
+ 
 More theoretical fields like philosophy and social sciences accept more
 but you still need special administrative dispensation to pursue in 4th
 or 5th year.

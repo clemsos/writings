@@ -4,7 +4,7 @@ language: fr
 original_url: 'https://quora.com/How-will-Apples-announcement-to-open-a-research-and-development-center-in-Shenzhen-affect-the-startup-and-makers-movements-there/answer/Clément-Renaud'
 source: quora
 title: |
-    How will Apple\'s announcement to open a research and development center
+    How will Apple 's announcement to open a research and development center
     in Shenzhen affect the startup and makers movements there?
 ---
 

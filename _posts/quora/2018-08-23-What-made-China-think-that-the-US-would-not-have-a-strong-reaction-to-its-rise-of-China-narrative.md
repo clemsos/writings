@@ -40,6 +40,6 @@ pride in the administration that ended up being blindsided. Any wise
 person will tell you that claims of greatness just bring you that far.
 While Beijing was bragging, the Chinese kept on working hard to have a
 better life. No Chinese outside a few brainwashed CCP officials ever
-believed in the "China dream". Now it\'s time for them to change tune
+believed in the "China dream". Now it 's time for them to change tune
 and get back to some solid work because there is a huge mess coming
 ahead.

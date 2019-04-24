@@ -4,7 +4,7 @@ language: fr
 original_url: 'https://quora.com/What-is-Alibabas-strategy-to-surpass-Amazon-globally-in-the-coming-years/answer/Clément-Renaud'
 source: quora
 title: |
-    What is Alibaba\'s strategy to surpass Amazon globally in the coming
+    What is Alibaba 's strategy to surpass Amazon globally in the coming
     years?
 ---
 

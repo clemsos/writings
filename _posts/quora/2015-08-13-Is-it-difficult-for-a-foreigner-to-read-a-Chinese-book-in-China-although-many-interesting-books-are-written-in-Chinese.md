@@ -8,23 +8,23 @@ title: |
     many interesting books are written in Chinese?
 ---
 
-Most of your question is irrelevant, and should be : *\" It is difficult
-to read a book in a foreign language ?\".* Answer is : yes, and
+Most of your question is irrelevant, and should be : * " It is difficult
+to read a book in a foreign language ? ".* Answer is : yes, and
 difficulty may vary according to your knowledge of the language and the
-specific book.\
-\
+specific book. 
+ 
 Despite all interesting texts in ancient Sanskrit, I can absolutely not
 read those languages - which makes it immensely difficult for me to read
 them. A Japanese may understand partly a text in Chinese without prior
-knowledge, while a German or Qatari won\'t.\
-\
+knowledge, while a German or Qatari won 't. 
+ 
 Some books are boring, unpleasant or dealing with totally new concepts,
 which makes them more difficult to read. Modern Chinese books are easier
 to read than classical texts, because the writing is less formal and
 closer to the spoken language. Novels are usually harder than
 non-fiction, because even if you understood the story you still may have
-missed the novel itself.\
-\
+missed the novel itself. 
+ 
 For a new learner, the slow pace make reading books in foreign languages
 difficult. Reading a French or English book will takes me a few hours,
 while it may require a complete week for one in Chinese. It is

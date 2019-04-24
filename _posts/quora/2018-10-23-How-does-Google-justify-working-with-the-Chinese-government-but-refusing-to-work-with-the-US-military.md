@@ -29,5 +29,5 @@ Google is more than ready to happily do anything Beijing will ask on any
 possible day - like Apple did before. Their current problem is that
 Beijing does not want to work with them, despite them trying very hard.
 
-See also : [Clément Renaud\'s answer to Why should Google stay out of
+See also : [Clément Renaud 's answer to Why should Google stay out of
 China?](http://quora.com/Why-should-Google-stay-out-of-China/answer/Cl%C3%A9ment-Renaud)

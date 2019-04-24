@@ -8,6 +8,6 @@ title: |
     to Infomous?
 ---
 
-Try [D3.js](http://d3js.org/).\
+Try [D3.js](http://d3js.org/). 
 Here is a tutorial to get started : [How to Make an Interactive Network
 Visualization](http://flowingdata.com/2012/08/02/how-to-make-an-interactive-network-visualization/)

@@ -3,10 +3,10 @@ date: '2012-11-19'
 language: fr
 original_url: 'https://quora.com/Whats-so-great-about-Baidu/answer/Clément-Renaud'
 source: quora
-title: 'What\''s so great about Baidu?'
+title: 'What ''s so great about Baidu?'
 ---
 
-From a user perspective :\
+From a user perspective : 
 
 -   It is by far the best option to find any practical answer about
     something that is in China. About politics / history do check
@@ -14,7 +14,7 @@ From a user perspective :\
 -   It is 10 times faster and 100 times more reliable than Google within
     mainland China (Google works less than 1/3 of a time recently)
 -   The Baidu groups [百度知道](http://zhidao.baidu.com) are a golden
-    mine for tips that makes one\'s life  easier : recipes, opening
+    mine for tips that makes one 's life  easier : recipes, opening
     hours, transportation, etc.
 -   Baidu Groups will even provide you with things like direct download
     links for softwares and activation keys - for outlaws only, of
@@ -31,7 +31,7 @@ From a user perspective :\
     something in a Western language
 -   As [**Ajeet Gupta**](http://quora.com/profile/Ajeet-Gupta-1) said,
     Baidu is absolutely ubiquitous on the Chinese Web. You can do
-    everything from browsing to paying using Baidu\'s products. Just
-    have a look at Baidu\'s product list :
+    everything from browsing to paying using Baidu 's products. Just
+    have a look at Baidu 's product list :
     [百度产品大全](http://www.baidu.com/more/)
 -   Their Chinese language input system for Android is just great

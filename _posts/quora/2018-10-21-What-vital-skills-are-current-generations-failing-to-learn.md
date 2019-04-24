@@ -11,9 +11,9 @@ They fail to learn what the generations before fail to pass them.
 They fail to save money because their parents live their whole life on
 credit. They fail to work hard because schools spoiled them instead of
 teaching them the value of building things by themselves. They lack
-empathy because they parents didn\'t even raise an eyebrow while looking
+empathy because they parents didn 't even raise an eyebrow while looking
 to death and war on TV every night. They think they deserve more because
-society made them think they were so important. They don\'t know the
+society made them think they were so important. They don 't know the
 first think about nature and agriculture because all food they ever ate
 came from Walmart.
 

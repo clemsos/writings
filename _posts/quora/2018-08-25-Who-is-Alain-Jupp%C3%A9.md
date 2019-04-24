@@ -13,7 +13,7 @@ highest levels of the state.
 
 Trained as an administrator and tax inspector, he was Chirac's fidel
 lieutenant in charge of the financials. As a loyal soldier, he took a
-bullet for him during a case[\[1\]](#LBMUn) which lead him to lose the
+bullet for him during a case[ [1 ]](#LBMUn) which lead him to lose the
 mayor office in Bordeaux, his political fief. He spent a year in exile
 in Montreal and reappeared to be immediately reelected in Bordeaux. When
 Sarkozy got elected, first thing he did was to give Juppé a "super
@@ -25,6 +25,6 @@ ranks of Macron after his defeat.
 
 Footnotes
 
-[\[1\]](#cite-LBMUn)[Affaire des emplois fictifs de la mairie de Paris
+[ [1 ]](#cite-LBMUn)[Affaire des emplois fictifs de la mairie de Paris
 ---
 Wikipédia](https://fr.m.wikipedia.org/wiki/Affaire_des_emplois_fictifs_de_la_mairie_de_Paris)

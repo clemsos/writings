@@ -11,13 +11,13 @@ title: |
 ---
 
 My guess is that they chose Angular because 1) client-only is very easy
-to deploy (no install, just download a folder) and 2) the \"directive\"
+to deploy (no install, just download a folder) and 2) the  "directive "
 approach makes it very modular, which fits the need of a tailor-made
-dashboard.\
-\
+dashboard. 
+ 
 The 2-ways data binding is an issue only if you load a lot of data on
-the client, which doesn\'t happen because Kibana requests are written
+the client, which doesn 't happen because Kibana requests are written
 using things like count, facets and now aggregations. Elasticsearch
 actually does the data-intensive part and Kibana just need a neat way to
-inject graph representations in specific parts of the dashboard\'s DOM.
+inject graph representations in specific parts of the dashboard 's DOM.
 Angular is good at this.

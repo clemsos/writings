@@ -16,10 +16,10 @@ how awesome China is. That is why the Chinese gov is distributing
 scholarships.
 
 From the 2nd year on, things change as only the most motivated are left.
-Most students are Korean or Japanese and teacher\'s expectations raise
+Most students are Korean or Japanese and teacher 's expectations raise
 drastically. At that point, univ can be of some help if you are really
 committed to learning Chinese.
 
-Truth is, you don\'t need univ to learn Chinese. Just go where life is
-cheaper, so you don\'t have to worry about money. Try Wuhan or Chengdu.
+Truth is, you don 't need univ to learn Chinese. Just go where life is
+cheaper, so you don 't have to worry about money. Try Wuhan or Chengdu.
 These are nice places to live as a student.

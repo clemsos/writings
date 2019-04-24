@@ -8,27 +8,27 @@ title: |
     taken down on Sina Weibo? Is there a way just to keep a history of that?
 ---
 
-An extensive answer to this question can be found in the paper behind.\
-\
+An extensive answer to this question can be found in the paper behind. 
+ 
 Deletion rate of posts on Sina Weibo is estimated to 16%, growing up to
-50+ % in region like Tibet ot Ningxia.\
-\
-\--\
-Censorship and deletion practices in Chinese social media\
-\
-by David Bamman, Brendan O'Connor, Noah A. Smith\
-in First Monday - March 2012\
-\
+50+ % in region like Tibet ot Ningxia. 
+ 
+ -- 
+Censorship and deletion practices in Chinese social media 
+ 
+by David Bamman, Brendan O'Connor, Noah A. Smith 
+in First Monday - March 2012 
+ 
 
 > With Twitter and Facebook blocked in China, the stream of information
 > from Chinese domestic social media provides a case study of social
-> media behavior under the inﬂuence of active censorship.\
+> media behavior under the inﬂuence of active censorship. 
 > While much work has looked at efforts to prevent access to information
 > in China (including IP blocking of foreign websites or search engine
 > ﬁltering), we present here the ﬁrst large-scale analysis of political
 > content censorship in social media, i.e., the active deletion of
-> messages published by individuals.\
-> \
+> messages published by individuals. 
+>  
 > In a statistical analysis of 56 million messages (212,583 of which
 > have been deleted out of 1.3 million checked, more than 16%) from the
 > domestic Chinese microblog site Sina Weibo, and 11 million
@@ -38,8 +38,8 @@ in First Monday - March 2012\
 > deletion is not uniform throughout the country, with messages
 > originating in the outlying provinces of Tibet and Qinghai exhibiting
 > much higher deletion rates than those from eastern areas like
-> Beijing.\
+> Beijing. 
 
-\
-Read the whole paper here :\
-[http://brenocon.com/censorship.b\...](http://brenocon.com/censorship.bamman+oconnor+smith.fm2012.pdf)
+ 
+Read the whole paper here : 
+[http://brenocon.com/censorship.b ...](http://brenocon.com/censorship.bamman+oconnor+smith.fm2012.pdf)

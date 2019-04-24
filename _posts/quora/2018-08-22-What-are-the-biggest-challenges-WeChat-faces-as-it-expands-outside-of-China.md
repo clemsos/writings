@@ -8,7 +8,7 @@ title: |
     China?
 ---
 
-Outside China, it won\'t benefit from the giant user base Tencent had
+Outside China, it won 't benefit from the giant user base Tencent had
 already when it launched in China.
 
 People tends to consider Wechat as a brand new app which quickly

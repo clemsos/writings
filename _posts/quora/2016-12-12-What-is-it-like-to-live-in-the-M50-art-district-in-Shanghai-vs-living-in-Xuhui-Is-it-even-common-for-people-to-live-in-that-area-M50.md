@@ -21,4 +21,4 @@ Xuhui is very diverse, so hard to say which one is better.
 
 ![](/img/quora/main-qimg-a67a83fc2b16f07c9a1ea05b966aee79-c.png)![](/img/quora/main-qimg-80b0a7085e1513cc3b93142b37533e34.png)
 
-Source : [中远两湾城\_百度百科](http://baike.baidu.com/view/3577342.htm)
+Source : [中远两湾城 _百度百科](http://baike.baidu.com/view/3577342.htm)

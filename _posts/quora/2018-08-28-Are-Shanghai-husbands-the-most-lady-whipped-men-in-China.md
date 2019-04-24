@@ -29,12 +29,12 @@ Such planned marriage economy leads to disastrous consequences for
 Shanghai men that are forced to supply for Shanghai families' demand.
 They are raised to please their wives. leaving them without a choice but
 becoming the most persecuted husbands in China, as this very serious
-study seems to indicate[\[1\]](#igLZu).
+study seems to indicate[ [1 ]](#igLZu).
 
 Disclaimer : this answer should not be used to chose or persecute a
 partner.
 
 Footnotes
 
-[\[1\]](#cite-igLZu)[上海男人怕老婆全国第一！嫁人就嫁上海男！ - 侬好上海
+[ [1 ]](#cite-igLZu)[上海男人怕老婆全国第一！嫁人就嫁上海男！ - 侬好上海
 - 新民网](http://ish.xinmin.cn/xnhsh/2014/07/31/24950350.html)

@@ -17,22 +17,22 @@ Rosenbaum, one of Hitler's biographers.
 > What I want to suggest is an actual comparison with Hitler that
 > deserves thought. It's what you might call the secret technique, a
 > kind of rhetorical control that both Hitler and Trump used on their
-> opponents, especially the media. \[1\]
+> opponents, especially the media.  [1 ]
 
 On a sidenote, I have no idea how someone can claim that Trump has "very
-little ideology". Please check his books \[2\] and let me know if you
-see any absence of ideology \[3\] in it.
+little ideology". Please check his books  [2 ] and let me know if you
+see any absence of ideology  [3 ] in it.
 
 ------------------------------------------------------------------------
 
-\[1\] [Against Normalization: The Lesson of the "Munich Post" - Los
+ [1 ] [Against Normalization: The Lesson of the "Munich Post" - Los
 Angeles Review of
 Books](https://lareviewofbooks.org/article/normalization-lesson-munich-post/)
 
-\[2\] [Donald J. Trump: Books, Biography, Blog, Audiobooks,
+ [2 ] [Donald J. Trump: Books, Biography, Blog, Audiobooks,
 Kindle](https://www.amazon.com/Donald-J.-Trump/e/B001H6O8M2)
 
-\[3\] Ideology being defined as : *"A set of doctrines or beliefs that
+ [3 ] Ideology being defined as : *"A set of doctrines or beliefs that
 are shared by the members of a social group or that form the basis of a
 political, economic, or other system.",* [*The Free
 Dictionary*](http://www.thefreedictionary.com/ideology)

@@ -3,7 +3,7 @@ date: '2019-01-01'
 language: fr
 original_url: 'https://quora.com/What-are-your-predictions-for-Chinas-economy-in-2019/answer/Clément-Renaud'
 source: quora
-title: 'What are your predictions for China\''s economy in 2019?'
+title: 'What are your predictions for China ''s economy in 2019?'
 ---
 
 The difficulty to predict what is going to happen in 2019 in China shows
@@ -34,7 +34,7 @@ positions. This is not very good, to say the least. That could lead them
 to prefer short-sighted decision based on their own political survival
 to longer term investment in economic stability and global prosperity.
 
-There is many ways this could ultimately unfold and I won\'t risk
+There is many ways this could ultimately unfold and I won 't risk
 pronostics here.
 
 Still, I am amazed that, after thousands of years, we humans have not

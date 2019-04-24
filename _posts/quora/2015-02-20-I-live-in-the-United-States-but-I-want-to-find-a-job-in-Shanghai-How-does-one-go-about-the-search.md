@@ -17,12 +17,12 @@ can attend events (look on [meetup](http://meetup.com)), meet tons of
 people and you should find something quickly. The city is booming and
 there is tons of interesting opportunities there but as [Nicholas
 Krapels](http://quora.com/profile/Nicholas-Krapels) said : you need to
-be in Shanghai first.\
-\
-If you are in tech, check here : [Clément Renaud\'s answer to What is
+be in Shanghai first. 
+ 
+If you are in tech, check here : [Clément Renaud 's answer to What is
 the best place to meet Internet tech startup people such as VCs,
 entrepreneurs, or people working at startups in Beijing and
-Shanghai?](http://quora.com/What-is-the-best-place-to-meet-Internet-tech-startup-people-such-as-VCs-entrepreneurs-or-people-working-at-startups-in-Beijing-and-Shanghai/answer/Cl%C3%A9ment-Renaud)\
-\
-Good luck and enjoy.\
+Shanghai?](http://quora.com/What-is-the-best-place-to-meet-Internet-tech-startup-people-such-as-VCs-entrepreneurs-or-people-working-at-startups-in-Beijing-and-Shanghai/answer/Cl%C3%A9ment-Renaud) 
+ 
+Good luck and enjoy. 
 Shanghai is a fantastic city !

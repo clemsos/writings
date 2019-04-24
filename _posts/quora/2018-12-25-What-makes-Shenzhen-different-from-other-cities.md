@@ -20,7 +20,7 @@ after it was declared an Special Economic Zone in 1980. Most were young
 and entrepreneurial, and came with the straight goal of getting out of
 poverty - or exploiting poverty by sourcing cheap suppliers and labor.
 At that time, there were still no property laws in China. Shenzhen was
-designed as a buffer for China\'s experiments with capitalism.
+designed as a buffer for China 's experiments with capitalism.
 
 As today, you could walk around Shenzhen for a day without seeing
 anybody more than 50 years old. Everyone in the city is busy running
@@ -39,7 +39,7 @@ absolutely fascinating.
 You have to imagine this very huge and modern city where there is
 virtually no locals. In Beijing you have the Beijingers, in New York the
 Newyorkers and in Paris les Parisiens. They were there first and
-whatever you try, they own the place and you don\'t.
+whatever you try, they own the place and you don 't.
 
 When Shenzhen was originally planned in the 1980s, they were only a few
 villages. The CCP officials decided to make some deals with the

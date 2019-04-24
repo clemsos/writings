@@ -3,10 +3,10 @@ date: '2017-08-24'
 language: fr
 original_url: 'https://quora.com/What-do-Chinas-teenagers-think-of-the-Chinese-government/answer/Clément-Renaud'
 source: quora
-title: 'What do China\''s teenagers think of the Chinese government?'
+title: 'What do China ''s teenagers think of the Chinese government?'
 ---
 
-As Paul mentioned, the kids don\'t think much about the government, but
+As Paul mentioned, the kids don 't think much about the government, but
 they do think a lot about people in charge of their class. The teacher
 (班主任) represent the authority they have to answer to, which comply
 with education guidelines provided by the Party.
@@ -23,10 +23,10 @@ up in Communist youth or with party cards, and later on become leaders
 in their own right.
 
 You can read my answer for more precision about that : [Clément
-Renaud\'s answer to How does promotion work within the Chinese Communist
+Renaud 's answer to How does promotion work within the Chinese Communist
 party?](http://quora.com/How-does-promotion-work-within-the-Chinese-Communist-party/answer/Cl%C3%A9ment-Renaud)
 
-So if kids don\'t think about the Party and politics itself, they are
+So if kids don 't think about the Party and politics itself, they are
 exposed early to rules or situations that reproduce what they will
 experience later in their adult life (at work, etc).
 

@@ -11,4 +11,4 @@ title: |
 Go to China, especially into the Central regions and seek for friends
 and fun. They may be some pain imvolved about the language at start but
 this is such a unique and rewarding experience that it should soon go
-away. Learn with the people you like, that\'s the easiest way.
+away. Learn with the people you like, that 's the easiest way.

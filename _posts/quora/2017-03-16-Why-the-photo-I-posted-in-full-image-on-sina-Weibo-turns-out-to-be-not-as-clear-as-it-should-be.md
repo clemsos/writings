@@ -12,8 +12,8 @@ To avoid large images (especially photos from mobiles), most websites
 will resize your image on-the-fly when you post it.
 
 The idea is that they don't want to store and force users to download
-large images (usually \<500k) so they modify it to have an appropriate
-size (likely \>200k). That is why quality appear downgraded once you
+large images (usually  <500k) so they modify it to have an appropriate
+size (likely  >200k). That is why quality appear downgraded once you
 have uploaded it.
 
 It is not specific to Weibo, most websites do that

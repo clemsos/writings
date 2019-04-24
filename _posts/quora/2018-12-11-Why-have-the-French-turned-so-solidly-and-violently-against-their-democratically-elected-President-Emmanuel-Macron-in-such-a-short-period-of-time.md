@@ -13,14 +13,14 @@ Macron's political strategy was to personify the young French investment
 banker that knows how to make money. That is how he wanted to be
 perceived by the European and global investing world, so he could direct
 more money to come to France and boost the economy. His communication
-plan of making France a "*Startup Nation*"[\[1\]](#HmGxE) actually
+plan of making France a "*Startup Nation*"[ [1 ]](#HmGxE) actually
 worked very well during the first two years.
 
 The problem is, that was not exactly what many French people wanted to
 see from their president, especially at a time where the struggle to
 make ends meet is very real at so many level of the society. The persona
 Macron created for himself attracted a lot of hate inside France. The
-announcement of a new fuel tax makes things break loose[\[2\]](#ERUJz).
+announcement of a new fuel tax makes things break loose[ [2 ]](#ERUJz).
 
 Looking back, we can see three main political reasons that have made the
 situation so explosive for Macron.
@@ -45,9 +45,9 @@ apparently understood better the international audience than the French.
 They designed a figure that pleased foreign media a lot but was totally
 unfit to what French people needed. Between public apparitions abroad,
 Macron appears repeatedly lecturing poor people about money management,
-education and even job search[\[3\]](#TaPep). Actually he even lectured
-foreign presidents[\[4\]](#ycmWS). When you are weak, behaving like an
-a\*\*hole is not a very clever option.
+education and even job search[ [3 ]](#TaPep). Actually he even lectured
+foreign presidents[ [4 ]](#ycmWS). When you are weak, behaving like an
+a * *hole is not a very clever option.
 
 Third. Problems of poverty in France are real, and have been getting
 worst for a long time. Politicians have avoided to look at them because
@@ -78,19 +78,19 @@ the needs of our world today.
 
 Footnotes
 
-[\[1\]](#cite-HmGxE)[Macron Vowed to Make France a 'Start-Up Nation.' Is
+[ [1 ]](#cite-HmGxE)[Macron Vowed to Make France a 'Start-Up Nation.' Is
 It Getting
 There?](https://www.nytimes.com/2018/05/23/business/emmanuel-macron-france-technology.html)
 
-[\[2\]](#cite-ERUJz)[Clément Renaud\'s answer to Why are French people
+[ [2 ]](#cite-ERUJz)[Clément Renaud 's answer to Why are French people
 protesting so massively? Is it only for the fuel tax or there is more
 behind
 it?](http://quora.com/Why-are-French-people-protesting-so-massively-Is-it-only-for-the-fuel-tax-or-there-is-more-behind-it/answer/Cl%C3%A9ment-Renaud)
 
-[\[3\]](#cite-TaPep)[Macron under fire for telling jobseeker to \'cross
-the street\' to get
+[ [3 ]](#cite-TaPep)[Macron under fire for telling jobseeker to  'cross
+the street ' to get
 work](https://www.france24.com/en/20180917-macron-france-under-fire-telling-jobseeker-cross-street-get-work-unemployment)
 
-[\[4\]](#cite-ycmWS)[Nationalism is a betrayal of patriotism: Macron
+[ [4 ]](#cite-ycmWS)[Nationalism is a betrayal of patriotism: Macron
 lectures
 Trump](https://www.stuff.co.nz/world/europe/108523416/nationalism-is-a-betrayal-of-patriotism-macron-lectures-trump)

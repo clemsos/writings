@@ -68,7 +68,7 @@ of China during the last decades has required tech companies to walk
 unique paths and develop entirely new tech solutions to face entirely
 new problems.
 
-As more countries will try to reproduce China\'s experience (with
+As more countries will try to reproduce China 's experience (with
 incentives from large Chinese investment programs), they will encounter
 difficulties and issues closer to what China has faced, leading them to
 adopt similar technologies and policies. For the Internet, it will

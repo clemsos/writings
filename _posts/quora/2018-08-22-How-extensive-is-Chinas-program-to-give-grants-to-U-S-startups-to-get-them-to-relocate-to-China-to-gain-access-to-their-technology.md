@@ -4,7 +4,7 @@ language: fr
 original_url: 'https://quora.com/How-extensive-is-Chinas-program-to-give-grants-to-U-S-startups-to-get-them-to-relocate-to-China-to-gain-access-to-their-technology/answer/Clément-Renaud'
 source: quora
 title: |
-    How extensive is China\'s program to give grants to U.S. startups to get
+    How extensive is China 's program to give grants to U.S. startups to get
     them to relocate to China to gain access to their technology?
 ---
 

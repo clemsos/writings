@@ -11,8 +11,8 @@ title: |
 Despite what the answers here seems to imply, it is still absolutely
 unproved that this guy's motivations was anyhow related to fanatic
 religious belief. Actually, his close friends have said to the press
-that he mostly did not care about religion \[1\]. Most likely, he was an
-alcoholic with serious violence and mental health problems \[2\]. So,
+that he mostly did not care about religion  [1 ]. Most likely, he was an
+alcoholic with serious violence and mental health problems  [2 ]. So,
 despite what has been repeatedly said on TV and online, the relationship
 between this attack and the Islamic State is non-existent - even though
 they seem to have claimed the attack (of course they did).
@@ -28,7 +28,7 @@ The interesting thing in this guys' story is that since he arrived from
 Tunisia in France few years ago, he changed completely, became weird and
 apparently cut all links with his family. *"He was not welcome at home
 in Tunisia, because he did not come back for many years ",* explains one
-of his workmate \[3\].
+of his workmate  [3 ].
 
 When you think about the motivations of the guy, you also have to
 consider what it means to arrive from Africa in France, and what a shock
@@ -77,15 +77,15 @@ Attackers are pushed by hate and revenge, not by books.
 
 Sources (in French only, sorry) :
 
-\[1\] Les Dernières Nouvelles d'Alsace : [Un ami du conducteur de Nice :
-\"La religion, il s\'en
-foutait\"](http://www.dna.fr/actualite/2016/07/15/un-ami-du-conducteur-de-nice-la-religion-il-s-en-foutait)
+ [1 ] Les Dernières Nouvelles d'Alsace : [Un ami du conducteur de Nice :
+ "La religion, il s 'en
+foutait "](http://www.dna.fr/actualite/2016/07/15/un-ami-du-conducteur-de-nice-la-religion-il-s-en-foutait)
 
-\[2\] La Provence : [Qui était Mohamed Lahouaiej-Bouhlel, l\'auteur de
-l\'attentat de Nice
+ [2 ] La Provence : [Qui était Mohamed Lahouaiej-Bouhlel, l 'auteur de
+l 'attentat de Nice
 ?](http://www.laprovence.com/article/faits-divers-justice/4034658/qui-etait-mohamed-lahouaiej-bouhlel-lauteur-de-lattentat-de-nice.html)
 
-\[3\] Le Monde : [Nice : les enquêteurs s'intéressent à l'entourage de
+ [3 ] Le Monde : [Nice : les enquêteurs s'intéressent à l'entourage de
 Mohamed Lahouaiej
 Bouhlel](http://www.lemonde.fr/societe/article/2016/07/16/attaque-de-nice-les-motivations-troubles-de-mohamed-lahouaiej-bouhlel_4970489_3224.html)
 

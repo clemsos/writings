@@ -3,7 +3,7 @@ date: '2018-11-23'
 language: fr
 original_url: 'https://quora.com/What-do-you-think-about-Chinas-Social-Credit-System/answer/Clément-Renaud'
 source: quora
-title: 'What do you think about China\''s Social Credit System?'
+title: 'What do you think about China ''s Social Credit System?'
 ---
 
 I think that the directives published by Beijing and their local
@@ -95,7 +95,7 @@ country](https://www.geschkult.fu-berlin.de/e/oas/sinologie/institut/news/Study_
 
 Why will Chinese people view this "social credit system" in a positive
 light? For sure, it is because they are brainwashed or because they can
-not voice their opinion because, you know, they have no freedom\...
+not voice their opinion because, you know, they have no freedom ...
 Well, it turns out that the world is more complicated than that.
 
 Until very recently China had no legal system. Compared to centuries of

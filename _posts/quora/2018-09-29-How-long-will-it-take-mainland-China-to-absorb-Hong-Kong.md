@@ -6,7 +6,7 @@ source: quora
 title: 'How long will it take mainland China to absorb Hong Kong?'
 ---
 
-What do you mean absorb? Countries don\'t absorb cities. Real life is
+What do you mean absorb? Countries don 't absorb cities. Real life is
 more complicated than that.
 
 Hong Kong is one of the cities in the Pearl River Delta that benefits

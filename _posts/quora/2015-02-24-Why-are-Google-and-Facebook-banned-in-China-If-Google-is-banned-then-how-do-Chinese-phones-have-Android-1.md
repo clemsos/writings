@@ -12,10 +12,10 @@ Google and Facebook are banned so it give space to local players like
 Sina, Baidu and Tencent to develop into billion dollars companies. Also,
 the government can keep better control of the information that
 circulates and easily monitor user data as they have full control on
-China-based services.\
-\
+China-based services. 
+ 
 About Android, China is actually lost to Google as the Google Play
-market is closed. All Chinese phone brands ship with Android \*without\*
+market is closed. All Chinese phone brands ship with Android  *without *
 Google, like Xiaomi that use a fork called MiUI. So Google makes zero
 revenue from ads or apps on Android in China. In many cases, you have to
 flash the phone to enable Google apps. They are many other different app

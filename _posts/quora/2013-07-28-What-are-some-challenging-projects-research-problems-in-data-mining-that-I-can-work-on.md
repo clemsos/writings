@@ -8,4 +8,4 @@ title: |
     that I can work on?
 ---
 
-\"Can data mining help us to live better?\" seems a good place to start
+ "Can data mining help us to live better? " seems a good place to start

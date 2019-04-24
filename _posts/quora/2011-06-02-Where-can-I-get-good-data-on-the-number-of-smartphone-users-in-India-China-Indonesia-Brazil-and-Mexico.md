@@ -9,4 +9,4 @@ title: |
 ---
 
 Have a look here
-[http://www.itu.int/ITU-D/ict/sta\...](http://www.itu.int/ITU-D/ict/statistics/)
+[http://www.itu.int/ITU-D/ict/sta ...](http://www.itu.int/ITU-D/ict/statistics/)

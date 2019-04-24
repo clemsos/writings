@@ -6,4 +6,4 @@ source: quora
 title: 'What cars do Chinese people drive in order to be identified as Chinese?'
 ---
 
-They don\'t drive Japanese cars.
+They don 't drive Japanese cars.

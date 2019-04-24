@@ -17,8 +17,8 @@ title: 'What are the things that can only be done in Wuhan, China?'
     hour on the banks of the Yangzi river.
 -   Taste the typical Wuhanese breakfast by going in a small backstreet
     behind a university in the early morning. Enjoy the crowd and the
-    life there and just \"get across the morning\" (*guozao)* with some
+    life there and just  "get across the morning " (*guozao)* with some
     delicious food ( hot noodles, tofu and eggs, etc.)
 
-\
+ 
 Only in Wuhan !

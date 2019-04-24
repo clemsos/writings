@@ -9,15 +9,15 @@ title: |
 ---
 
 Yes, totally. As long as you host your website outside China, language
-doesn\'t matter.\
-\
+doesn 't matter. 
+ 
 Then if you want something like a .cn domain name or a proper host in a
 Chinese data center, you will have to go through the registration
 process which includes signing papers in a dedicated police office,
 giving all details about your company and activities, provide the ID of
 a person in charge, etc.) 
-[Miibeian.gov.cn](http://www.miibeian.gov.cn)\
-\
+[Miibeian.gov.cn](http://www.miibeian.gov.cn) 
+ 
 Another thing is that if you want to sell things in China, most of
 Chinese people use [支付宝 Alipay](http://alipay.com) (from Alibaba). So
 you will have to open an Alipay account which is not possible for

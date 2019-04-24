@@ -8,5 +8,5 @@ title: |
     in French?
 ---
 
-\"*T\'as de beaux yeux, tu sais*\" - You have beautiful eyes, you know\
+ "*T 'as de beaux yeux, tu sais* " - You have beautiful eyes, you know 
 in [Port of Shadows](https://en.wikipedia.org/wiki/Port_of_Shadows)

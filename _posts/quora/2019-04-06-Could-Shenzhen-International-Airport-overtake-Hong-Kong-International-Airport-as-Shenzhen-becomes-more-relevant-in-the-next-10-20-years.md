@@ -9,7 +9,7 @@ title: |
 ---
 
 SZIA was developed to raise the international profile of the city with a
-\$1.4 bn facade - the gorgeous terminal 3. Still despite its name, most
+ $1.4 bn facade - the gorgeous terminal 3. Still despite its name, most
 traffic in SZIA goes towards the mainland.
 
 International traffic is funnelled through HKIA where travellers can
@@ -34,6 +34,6 @@ seen.
 
 ![](/img/quora/main-qimg-1b4df1a854da45b2126a48d1e13cc2f2.png)
 
-*source:* [*Terminal 3 at Shenzhen Bao\'an International Airport by
+*source:* [*Terminal 3 at Shenzhen Bao 'an International Airport by
 Studio
 Fuksas*](https://www.dezeen.com/2013/11/26/studio-fuksas-terminal-3-shenzhen-baoan-international-airport/)

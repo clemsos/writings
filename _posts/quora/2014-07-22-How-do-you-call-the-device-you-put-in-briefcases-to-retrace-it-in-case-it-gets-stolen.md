@@ -8,7 +8,7 @@ title: |
     it gets stolen?
 ---
 
-A suitcase tracker.\
-\
+A suitcase tracker. 
+ 
 See [Trakdot](http://www.trakdot.com/en)or
 [Bluetrack](http://bluetrackgpstrackers.co.uk/shop/gps-trackers/bluetrack-prime-1-gps-tracker/).

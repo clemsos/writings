@@ -4,7 +4,7 @@ language: fr
 original_url: 'https://quora.com/Why-are-millennials-becoming-artists-Doesnt-the-world-need-more-scientists/answer/Clément-Renaud'
 source: quora
 title: |
-    Why are millennials becoming artists? Doesn\'t the world need more
+    Why are millennials becoming artists? Doesn 't the world need more
     scientists?
 ---
 

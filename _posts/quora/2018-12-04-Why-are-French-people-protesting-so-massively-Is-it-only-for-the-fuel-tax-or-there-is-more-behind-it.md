@@ -26,7 +26,7 @@ The consequence is that people who didn't get into high-paying jobs
 (mostly services or management) were excluded from the city centers,
 especially if they had families to support. The best example is Paris.
 Families have been gradually removed from Paris to the extent that many
-primary schools are now closing[\[1\]](#QegyR). Most families have been
+primary schools are now closing[ [1 ]](#QegyR). Most families have been
 pushed back to suburbs or nearby countryside. Meanwhile, the public
 infrastructure that was the backbone of this project (e.g. the French
 train network) degraded quickly following the disengagement of the
@@ -36,7 +36,7 @@ making fuel a very important expense in their budget.
 
 The fuel tax is an attack directed to people who lives outside the city
 centers. Most of the "yellow vests" movement started as a "peripheral"
-movement located on roundabouts in the suburbs[\[2\]](#WuEVT), which
+movement located on roundabouts in the suburbs[ [2 ]](#WuEVT), which
 says a lot about the urban/suburb/rural divide in France. This is
 absolutely NOT a new topic and has been clearly identified for decades
 already. Still, no politician has ever acted on it.
@@ -66,7 +66,7 @@ target of lots of hate from all sides --- "yellow vests", public
 servants, college students, etc. He has managed to personify the broken
 project of France as an elite country that can work without its people.
 He will now collect the anger and we should see what he will make of it.
-His interior minister just resigned a few weeks ago[\[3\]](#OpzrA),
+His interior minister just resigned a few weeks ago[ [3 ]](#OpzrA),
 anticipating the current situation.
 
 There will be many similarities with Trump's supporters or UK Brexiters
@@ -92,13 +92,13 @@ Europe.
 
 Footnotes
 
-[\[1\]](#cite-QegyR)[Paris se vide de ses élèves : la carte des écoles
+[ [1 ]](#cite-QegyR)[Paris se vide de ses élèves : la carte des écoles
 primaires qui
 ferment](https://www.lemonde.fr/education/visuel/2018/08/28/demographie-scolaire-a-paris-ces-ecoles-primaires-qui-ferment_5347198_1473685.html)
 
-[\[2\]](#cite-WuEVT)[Les «gilets jaunes», ou la révolte de la France des
+[ [2 ]](#cite-WuEVT)[Les «gilets jaunes», ou la révolte de la France des
 ronds-points](https://www.slate.fr/story/169626/blocage-17-novembre-gilets-jaunes-revolte-ronds-points-france-peripherique-diesel)
 
-[\[3\]](#cite-OpzrA)[Démission de Collomb : l'exécutif minimise, les
+[ [3 ]](#cite-OpzrA)[Démission de Collomb : l'exécutif minimise, les
 policiers s'inquiètent et, à Lyon, on
 attend](https://www.lemonde.fr/politique/article/2018/10/03/demission-de-gerard-collomb-l-executif-en-crise-lyon-sur-ses-gardes_5364226_823448.html)

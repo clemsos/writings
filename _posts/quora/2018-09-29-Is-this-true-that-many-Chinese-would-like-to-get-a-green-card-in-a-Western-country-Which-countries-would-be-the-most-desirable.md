@@ -8,7 +8,7 @@ title: |
     Western country? Which countries would be the most desirable?
 ---
 
-No, most Chinese don\'t want to live abroad. They love China and don\'t
+No, most Chinese don 't want to live abroad. They love China and don 't
 care about some far countries that seem unwelcoming, violent and somehow
 falling apart.
 
@@ -22,7 +22,7 @@ well. He went to a very prestigious university in China. We were having
 dinner with a famous professor form the Chinese Academy of Sciences that
 was visiting from Beijing. The professor literally said to my friend :
 "If you have been to such a great Chinese university, how come you end
-up in such a small and unimportant city as Lyon?" He didn\'t use the
+up in such a small and unimportant city as Lyon?" He didn 't use the
 term "shithole" but that is pretty much what he meant.
 
 Compared to cities in China, most Western cities feels small, old and

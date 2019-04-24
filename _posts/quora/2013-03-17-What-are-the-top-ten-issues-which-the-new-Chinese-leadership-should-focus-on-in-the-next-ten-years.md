@@ -14,7 +14,7 @@ title: |
     universities based on their real estate value.
 -   **Law enforcement**, more specifically to address all industrial
     issues that actually lead to pollution,  workers exploitation,
-    unsafe products\...
+    unsafe products ...
 
 <!-- -->
 
@@ -38,7 +38,7 @@ title: |
     to cope with top Chinese cities entering the club of the most
     expensive places in the world, and the gap it will create with other
     cities and villages in China.
--   **Generation clash** : China\'s elder population will be soon a vast
+-   **Generation clash** : China 's elder population will be soon a vast
     majority with only their unique son or daughter to sustain them. It
     will be both a problem of resources and culture. The differences
     between post 80s young adults and their parents who grew up during

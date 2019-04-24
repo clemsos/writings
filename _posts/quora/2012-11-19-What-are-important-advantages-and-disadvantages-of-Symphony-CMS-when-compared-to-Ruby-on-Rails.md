@@ -9,10 +9,10 @@ title: |
 ---
 
 **Basically, Symphony is designed to build websites and Rails to build
-web applications.**\
-\
-Advantages of Symphony CMS over Rails\
-\
+web applications.** 
+ 
+Advantages of Symphony CMS over Rails 
+ 
 
 -   **Deployment** : Symphony CMS use PHP/mySQL so it is pretty cheap
     and easy to find a good hosting solution
@@ -25,9 +25,9 @@ Advantages of Symphony CMS over Rails\
 -   **Community :** People working on Symphony are very active so the
     forum is a very good place to ask questions and be answered quickly
 
-\
-Advantages of Rails over Symphony :\
-\
+ 
+Advantages of Rails over Symphony : 
+ 
 
 -   **Controllers :** As you build everything from scratch, you have
     better control on the methods to be used with your classes, so you
@@ -43,7 +43,7 @@ Advantages of Rails over Symphony :\
     courses about Rails.
 -   **Unit testing :** No unit testing for Symphony so far
 
-\
+ 
 Another thing about Symphony is that you may have to learn XSLT - and
 use PHP. The framework outputs very clean and efficient code, but it is
 way less convenient to write than Rails.

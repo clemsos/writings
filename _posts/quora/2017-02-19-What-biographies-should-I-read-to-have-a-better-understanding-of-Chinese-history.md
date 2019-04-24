@@ -29,5 +29,5 @@ acquainted with this astonishing character.
 [TIME Magazine Cover: Chiang Kai-shek & Mme. Chiang - Oct. 26,
 1931](http://content.time.com/time/covers/0,16641,19311026,00.html)
 
-Historic Archival Stock Footage WWII : China\'s First Lady Addresses
+Historic Archival Stock Footage WWII : China 's First Lady Addresses
 U.S. Congress (1943)
