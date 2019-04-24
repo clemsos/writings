@@ -8,4 +8,4 @@ title: 'What is 2019 animal in Chinese calendar?'
 
 Pig.
 
-![](main-qimg-28f06b25d0e00befad775f830c39b188.png)
+![](/img/quora/main-qimg-28f06b25d0e00befad775f830c39b188.png)

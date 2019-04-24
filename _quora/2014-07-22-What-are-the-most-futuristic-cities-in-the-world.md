@@ -8,5 +8,5 @@ title: 'What are the most futuristic cities in the world?'
 
 **Dubai**\
 \
-![](main-qimg-1f916e6e20ced49216b51409c3d8ce45-c.png)\
+![](/img/quora/main-qimg-1f916e6e20ced49216b51409c3d8ce45-c.png)\
 photo : [Beno Saradzic](http://500px.com/BenoSaradzic)

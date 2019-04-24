@@ -11,4 +11,4 @@ No.
 They may be some very minor drops in the day-to-day, but here is an
 overview of the trend in the last few years.
 
-![](main-qimg-0d933ff5508b5ab7ccf4f56b118dd37c.png)
+![](/img/quora/main-qimg-0d933ff5508b5ab7ccf4f56b118dd37c.png)

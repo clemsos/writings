@@ -31,7 +31,7 @@ self-reliance, constructive feedback, etc. Companies in China also love
 to hire returnees for this reason. This BBC show is a good example of
 the contrast in purposes between British and Chinese education.\
 \
-![](main-qimg-f1c5a2e149220b17531703b4af67bd6c.png)source : [For Wealthy
+![](/img/quora/main-qimg-f1c5a2e149220b17531703b4af67bd6c.png)source : [For Wealthy
 Chinese Students, Studying Abroad Becomes the
 Norm](http://awesome.good.is/transparency/web/1205/export-of-students/flat.html)\
 \
@@ -103,7 +103,7 @@ strong work division and chain of command. New management is now asking
 employees for more mobility and flexibility, changing the traditional
 corporation and danwei labour division. Schools may adapt, slowly.\
 \
-![](main-qimg-27a175d103b382e835f4474d3b523b28-c.png)*UX in 1902 :
+![](/img/quora/main-qimg-27a175d103b382e835f4474d3b523b28-c.png)*UX in 1902 :
 machines were designed to be used by children - pictured taken in
 Lancaster Cotton Mills. Nov. 30, 1908 -* source :
 [NARA](https://commons.wikimedia.org/wiki/File:Sadie_Pfeifer,_48_inches_high._Has_worked_half_a_year._One_of_the_many_small_children_at_work_in_Lancaster_Cotton..._-_NARA_-_523128.jpg)\
@@ -136,7 +136,7 @@ your job well (too much work, too less, or whatever they dislike about
 you). Then, the whole society think you are some sort of lazy civil
 servant that has found a quiet place to hide in his classroom.\
 \
-![](main-qimg-d3c268d5815783a29ae6894529742f99-c.png)*\"Let\'s go ! Be
+![](/img/quora/main-qimg-d3c268d5815783a29ae6894529742f99-c.png)*\"Let\'s go ! Be
 brave !\" \--* source : CHAUNV\
 \
 I remember this Chinese guy who came to teach Chinese in an association

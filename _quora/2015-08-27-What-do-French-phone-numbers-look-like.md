@@ -22,7 +22,7 @@ A landline in Bordeaux : 05 56 10 20 30
 International prefix is +33 or +590/596/594 for French overseas
 departments and territories.
 
-![](main-qimg-e3e1539ef8fa16bc2eb09fe8e209ff35-c.png)
+![](/img/quora/main-qimg-e3e1539ef8fa16bc2eb09fe8e209ff35-c.png)
 
 ​
 

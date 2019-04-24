@@ -9,7 +9,7 @@ title: 'What does the typical meal in China consist of?'
 One of the most traditional form of Chinese meal is made of \"*four
 dishes and one soup*\"  (四菜一汤). \
 \
-![](main-qimg-2d8cf0b3013c00e6894a618df377b634-c.png)​\
+![](/img/quora/main-qimg-2d8cf0b3013c00e6894a618df377b634-c.png)​\
 \
 **The legend**\
  \
@@ -18,7 +18,7 @@ the reign of the emperor Zhu Yuanzhang. Originally a peasant, Zhu
 Yuanzhang has lead the revolt that forced the Yuan dynasty to retreat,
 becoming Ming Hongwu, the first emperor of the Ming dynasty. \
 \
-![](main-qimg-589db27f970b13fac22764fad344d18c-c.png)​\
+![](/img/quora/main-qimg-589db27f970b13fac22764fad344d18c-c.png)​\
 *Zhu Yuanzhang, first emperor of the Ming dinasty*\
 \
 Under his reign, the country regained prosperity but its people still
@@ -55,10 +55,10 @@ When Obama came in 2009, he had 1) cold dishes , 2)  Chinese-flavored
 beef, 3) steer-fried wild rice and bamboo sprouts and 4) grilled groper
 + a tofu chicken soup. \[2\]\
 \
-![](main-qimg-939b803c03a978c007f95bda1f9a23b0-c.png)​\
+![](/img/quora/main-qimg-939b803c03a978c007f95bda1f9a23b0-c.png)​\
 *Obama having its four dishes and a soup in Peking.*\
 \
-![](main-qimg-e4357f204085fdce5c5f3d1d27b29d68-c.png)​\
+![](/img/quora/main-qimg-e4357f204085fdce5c5f3d1d27b29d68-c.png)​\
 *Each US president had its own specific menu.*\
 \
 This is so popular that it has become ubiquitous in advertisements for
@@ -81,7 +81,7 @@ first, prior to any other warm dishes.  Its role is to warm your stomach
 up and help you quench the thirst and hunger, so you can slowly enjoy
 the rest of the meal.\
 \
-![](main-qimg-83b55527bbea8316a6106303b5f630d5-c.png)​\
+![](/img/quora/main-qimg-83b55527bbea8316a6106303b5f630d5-c.png)​\
 \
 The rest of the dishes may vary according to regions, restaurant,
 families, tastes and so on, so there is almost infinite possibility to
@@ -92,7 +92,7 @@ usually more salty, while people from the center eat really spicy. The
 Southerners like *\"bland\"* food, which is seen as a positive quality
 of being tasty without being strong.\
 \
-![](main-qimg-de634115ade2d51f91c8f15064455eb2-c.png)​\
+![](/img/quora/main-qimg-de634115ade2d51f91c8f15064455eb2-c.png)​\
 \
 \
 As a French, I have an eternal respect for the Chinese cuisine. I have
