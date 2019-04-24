@@ -27,15 +27,15 @@ The goals are :
   - [ ] Scientific papers and conferences
   - [ ] old Wordpress Blog
   - [ ] Quora fr (require some date conversion)
-  - [ ] twitter (worth it ?)
-  - [ ] facebook (worth it ?)
+  - [ ] twitter (not worth it ?)
+  - [ ] facebook (not worth it ?)
 - Convert
-  - [ ] Define proper meta format
-  - [ ] HTML > markdown
-- Tools
-  - [ ] make UI / website
+  - [x] Define proper meta format: date, title, source, original_url
+  - [x] HTML > markdown
+- Tools / stats
+  - [x] make UI / website
   - [ ] proper indexation for easy search
-  - [ ] words/ signs counter
+  - [x] words/ signs counter
   - [ ] trending words
 
 
