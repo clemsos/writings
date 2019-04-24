@@ -21,7 +21,7 @@ The goals are :
 - Backup
   - [x] Quora
   - [X] Blogspot
-  - [ ] Tumblr Blog
+  - [x] Tumblr Blogs
   - [ ] Quora fr (require some date conversion)
   - [ ] Scientific papers and conferences
   - [ ] Jekylls (Ecriture Exemplaire, RW, etc)
@@ -50,3 +50,13 @@ The goals are :
 
 1. Get XML file from admin panel Settings/Others/Backup
 2. Run `node bin/blogger2jekyll YOUR_FILE.xml _posts` to convert (based on a modified version of [blogger2jekyll](https://github.com/solderjs/blogger2jekyll))
+
+### Backup Tumblr
+
+Very straightforward: just use the official [Jekyll importer](https://import.jekyllrb.com/docs/tumblr/), then some grep/replace to fix folders.
+
+```
+bundle exec jekyll import tumblr --url=http://clementrenaud.tumblr.com --format=md --grab_images --rewrite_urls
+```
+
+NB: Add some trouble due to GRDP policy that were preventing API calls... Finally found [a fix](https://github.com/jekyll/jekyll-import/issues/379).

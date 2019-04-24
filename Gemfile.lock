@@ -1,3 +1,14 @@
+GIT
+  remote: https://github.com/lambada/jekyll-import.git
+  revision: a7fb34a2d8f2128440082003fa0fcefd6ce90faa
+  branch: fix-tumblr-gdpr
+  specs:
+    jekyll-import (0.17.1)
+      fastercsv (~> 1.0)
+      jekyll (~> 3.0)
+      nokogiri (~> 1.0)
+      reverse_markdown (~> 1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -27,6 +38,7 @@ GEM
     execjs (2.7.0)
     faraday (0.15.2)
       multipart-post (>= 1.2, < 3)
+    fastercsv (1.5.5)
     ffi (1.10.0)
     forwardable-extended (2.6.0)
     gemoji (3.0.0)
@@ -215,6 +227,8 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
+    reverse_markdown (1.1.0)
+      nokogiri
     rouge (2.2.1)
     ruby-enum (0.7.2)
       i18n
@@ -243,6 +257,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-import!
 
 BUNDLED WITH
    1.16.1
