@@ -1,10 +1,9 @@
 ---
 date: '2013-01-09'
+language: fr
+original_url: 'https://quora.com/Why-Sina-Weibo-blocked-the-account-called-zuoyeben/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Why Sina Weibo blocked the account called
-    \'zuoyeben\'?
+title: 'Why Sina Weibo blocked the account called \''zuoyeben\''?'
 ---
 
 Surely because he bypass one of the non-written, unknown rules of Sina

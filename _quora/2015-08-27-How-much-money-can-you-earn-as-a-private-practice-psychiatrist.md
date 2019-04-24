@@ -1,10 +1,9 @@
 ---
 date: '2015-08-27'
+language: fr
+original_url: 'https://quora.com/How-much-money-can-you-earn-as-a-private-practice-psychiatrist/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    How much money can you earn as a private
-    practice psychiatrist?
+title: 'How much money can you earn as a private practice psychiatrist?'
 ---
 
 Looking at the details of your question, I strongly suggest you never

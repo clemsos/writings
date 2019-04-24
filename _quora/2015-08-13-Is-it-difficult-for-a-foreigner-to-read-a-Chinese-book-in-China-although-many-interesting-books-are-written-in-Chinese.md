@@ -1,11 +1,11 @@
 ---
 date: '2015-08-13'
+language: fr
+original_url: 'https://quora.com/Is-it-difficult-for-a-foreigner-to-read-a-Chinese-book-in-China-although-many-interesting-books-are-written-in-Chinese/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Is it difficult for a foreigner to read a
-    Chinese book in China although many interesting books are written in
-    Chinese?
+    Is it difficult for a foreigner to read a Chinese book in China although
+    many interesting books are written in Chinese?
 ---
 
 Most of your question is irrelevant, and should be : *\" It is difficult

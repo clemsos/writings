@@ -1,10 +1,9 @@
 ---
 date: '2015-02-15'
+language: fr
+original_url: 'https://quora.com/What-should-I-know-about-SEO-when-targeting-Chinese-in-China/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What should I know about SEO when targeting
-    Chinese in China?
+title: 'What should I know about SEO when targeting Chinese in China?'
 ---
 
 Google is difficult to access from mainland China and most people don\'t

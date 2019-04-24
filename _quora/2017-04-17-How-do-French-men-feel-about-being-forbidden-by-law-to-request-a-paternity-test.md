@@ -1,10 +1,11 @@
 ---
 date: '2017-04-17'
+language: fr
+original_url: 'https://quora.com/How-do-French-men-feel-about-being-forbidden-by-law-to-request-a-paternity-test/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    How do French men feel about being forbidden
-    by law to request a paternity test?
+    How do French men feel about being forbidden by law to request a
+    paternity test?
 ---
 
 The restrictions on paternity tests are the expression of an idea that

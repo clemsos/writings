@@ -1,10 +1,9 @@
 ---
 date: '2019-01-01'
+language: fr
+original_url: 'https://quora.com/How-can-I-find-a-job-in-Shenzhen-for-expats-preferably-non-teaching/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    How can I find a job in Shenzhen for expats,
-    preferably non-teaching?
+title: 'How can I find a job in Shenzhen for expats, preferably non-teaching?'
 ---
 
 If you can, take a plane and get there.

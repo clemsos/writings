@@ -1,10 +1,11 @@
 ---
 date: '2014-07-16'
+language: fr
+original_url: 'https://quora.com/What-relevance-does-the-subject-of-history-hold-in-the-current-world-led-by-science-and-technology/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What relevance does the subject of history
-    hold in the current world led by science and technology?
+    What relevance does the subject of history hold in the current world led
+    by science and technology?
 ---
 
 History is about memory, which has 3 main forms :\
@@ -27,4 +28,4 @@ To answer your question, history still relevant because it is the sum of
 all existing human and natural processes.\
 \
 \
-![](./img/main-qimg-6d4f2e5b05bb37c75ae192e965edea4d-c.png)
+![](main-qimg-6d4f2e5b05bb37c75ae192e965edea4d-c.png)

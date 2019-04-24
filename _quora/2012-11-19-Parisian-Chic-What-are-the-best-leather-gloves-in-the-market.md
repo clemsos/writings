@@ -1,10 +1,9 @@
 ---
 date: '2012-11-19'
+language: fr
+original_url: 'https://quora.com/Parisian-Chic-What-are-the-best-leather-gloves-in-the-market/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Parisian Chic: What are the best leather
-    gloves in the market?
+title: 'Parisian Chic: What are the best leather gloves in the market?'
 ---
 
 If you pass by Lyon in France, I strongly advise you make a halt in [Au

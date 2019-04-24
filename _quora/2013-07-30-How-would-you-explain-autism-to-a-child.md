@@ -1,9 +1,9 @@
 ---
 date: '2013-07-30'
+language: fr
+original_url: 'https://quora.com/How-would-you-explain-autism-to-a-child/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    How would you explain autism to a child?
+title: 'How would you explain autism to a child?'
 ---
 
 Originally Answered: [How do you explain autism to a

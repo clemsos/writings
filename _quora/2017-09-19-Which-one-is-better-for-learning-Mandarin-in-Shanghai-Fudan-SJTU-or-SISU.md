@@ -1,10 +1,11 @@
 ---
 date: '2017-09-19'
+language: fr
+original_url: 'https://quora.com/Which-one-is-better-for-learning-Mandarin-in-Shanghai-Fudan-SJTU-or-SISU/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Which one is better for learning Mandarin in
-    Shanghai, Fudan, SJTU, or SISU?
+    Which one is better for learning Mandarin in Shanghai, Fudan, SJTU, or
+    SISU?
 ---
 
 The first year of Chinese language classes at any univ in China is

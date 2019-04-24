@@ -1,11 +1,11 @@
 ---
 date: '2015-02-21'
+language: fr
+original_url: 'https://quora.com/If-you-have-the-opportunity-to-work-at-investment-banking-in-mainland-China-Hong-Kong-and-Taiwan-which-one-would-you-choose-Why/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    If you have the opportunity to work at
-    investment banking in mainland China, Hong Kong, and Taiwan, which one
-    would you choose? Why?
+    If you have the opportunity to work at investment banking in mainland
+    China, Hong Kong, and Taiwan, which one would you choose? Why?
 ---
 
 I will chose mainland China because it will allow me to learn a lot more

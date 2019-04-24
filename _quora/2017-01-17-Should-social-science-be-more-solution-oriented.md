@@ -1,10 +1,9 @@
 ---
 date: '2017-01-17'
+language: fr
+original_url: 'https://quora.com/Should-social-science-be-more-solution-oriented/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Should social science be more
-    solution-oriented?
+title: 'Should social science be more solution-oriented?'
 ---
 
 The idea of applied research in social sciences is of great interest.

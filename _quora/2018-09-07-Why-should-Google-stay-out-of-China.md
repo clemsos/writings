@@ -1,8 +1,9 @@
 ---
 date: '2018-09-07'
+language: fr
+original_url: 'https://quora.com/Why-should-Google-stay-out-of-China/answer/Clément-Renaud'
 source: quora
-language: en
-title: 'Clément Renaud\''s answer to Why should Google stay out of China?'
+title: 'Why should Google stay out of China?'
 ---
 
 Because nobody in China has forgotten how Google shamefully blamed the

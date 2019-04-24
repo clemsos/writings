@@ -1,10 +1,9 @@
 ---
 date: '2015-01-29'
+language: fr
+original_url: 'https://quora.com/Is-there-a-blog-software-that-runs-on-top-of-GitHub/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Is there a blog software that runs on top of
-    GitHub?
+title: 'Is there a blog software that runs on top of GitHub?'
 ---
 
 Every rep, organization or user on Github can have its own blog pages

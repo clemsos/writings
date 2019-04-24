@@ -1,10 +1,9 @@
 ---
 date: '2017-05-22'
+language: fr
+original_url: 'https://quora.com/What-cars-do-Chinese-people-drive-in-order-to-be-identified-as-Chinese/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What cars do Chinese people drive in order
-    to be identified as Chinese?
+title: 'What cars do Chinese people drive in order to be identified as Chinese?'
 ---
 
 They don\'t drive Japanese cars.

@@ -1,10 +1,9 @@
 ---
 date: '2018-09-07'
+language: fr
+original_url: 'https://quora.com/When-learning-Mandarin-what-mistakes-waste-time-for-beginners/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    When learning Mandarin, what mistakes waste
-    time for beginners?
+title: 'When learning Mandarin, what mistakes waste time for beginners?'
 ---
 
 Forgetting that they should be willing to talk to Chinese peoplebefore

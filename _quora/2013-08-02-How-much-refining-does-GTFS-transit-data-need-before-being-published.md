@@ -1,10 +1,9 @@
 ---
 date: '2013-08-02'
+language: fr
+original_url: 'https://quora.com/How-much-refining-does-GTFS-transit-data-need-before-being-published/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    How much refining does GTFS transit data
-    need before being published?
+title: 'How much refining does GTFS transit data need before being published?'
 ---
 
 Preparing a data set for a public release is an important part of the

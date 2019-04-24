@@ -1,8 +1,9 @@
 ---
 date: '2018-09-20'
+language: fr
+original_url: 'https://quora.com/Does-Shenzhen-have-a-good-airport/answer/Clément-Renaud'
 source: quora
-language: en
-title: 'Clément Renaud\''s answer to Does Shenzhen have a good airport?'
+title: 'Does Shenzhen have a good airport?'
 ---
 
 One of my favorite. Brand new, spacious, with very good services and

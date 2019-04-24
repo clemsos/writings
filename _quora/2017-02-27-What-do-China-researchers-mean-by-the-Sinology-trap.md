@@ -1,10 +1,9 @@
 ---
 date: '2017-02-27'
+language: fr
+original_url: 'https://quora.com/What-do-China-researchers-mean-by-the-Sinology-trap/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What do China researchers mean by \'the
-    Sinology trap\'?
+title: 'What do China researchers mean by \''the Sinology trap\''?'
 ---
 
 As a researcher working in China, what I will call "the sinology trap"

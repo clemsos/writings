@@ -1,10 +1,9 @@
 ---
 date: '2015-08-28'
+language: fr
+original_url: 'https://quora.com/How-can-I-store-or-save-data-as-a-draft-in-MongoDB/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    How can I store or save data as a draft in
-    MongoDB?
+title: 'How can I store or save data as a draft in MongoDB?'
 ---
 
 There is no such thing as a draft in Mongo. Some approaches could be :\

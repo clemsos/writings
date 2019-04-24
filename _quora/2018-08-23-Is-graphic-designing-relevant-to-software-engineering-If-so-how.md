@@ -1,10 +1,9 @@
 ---
 date: '2018-08-23'
+language: fr
+original_url: 'https://quora.com/Is-graphic-designing-relevant-to-software-engineering-If-so-how/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Is graphic designing relevant to software
-    engineering? If so, how?
+title: 'Is graphic designing relevant to software engineering? If so, how?'
 ---
 
 Yes, a lot. It is call frontend engineering and involves making good

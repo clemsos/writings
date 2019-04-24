@@ -1,9 +1,9 @@
 ---
 date: '2015-07-21'
+language: fr
+original_url: 'https://quora.com/My-IQ-is-84-How-can-I-get-into-Stanford/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    My IQ is 84. How can I get into Stanford?
+title: 'My IQ is 84. How can I get into Stanford?'
 ---
 
 Don\'t take IQ test results too seriously, they are usually worthless.

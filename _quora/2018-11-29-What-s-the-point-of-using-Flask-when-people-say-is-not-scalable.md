@@ -1,10 +1,9 @@
 ---
 date: '2018-11-29'
+language: fr
+original_url: 'https://quora.com/What-s-the-point-of-using-Flask-when-people-say-is-not-scalable/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What's the point of using Flask when people
-    say is not scalable?
+title: 'What''s the point of using Flask when people say is not scalable?'
 ---
 
 Pinterest and LinkedIn use Flask.

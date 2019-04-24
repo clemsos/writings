@@ -1,10 +1,9 @@
 ---
 date: '2013-08-02'
+language: fr
+original_url: 'https://quora.com/Node-js-Has-anyone-gotten-to-try-programming-a-Nodecopter/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Node.js: Has anyone gotten to try
-    programming a Nodecopter?
+title: 'Node.js: Has anyone gotten to try programming a Nodecopter?'
 ---
 
 You can check the doc of a project by guys at Shanghai hackerspace named

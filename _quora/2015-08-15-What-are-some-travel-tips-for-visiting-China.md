@@ -1,10 +1,9 @@
 ---
 date: '2015-08-15'
+language: fr
+original_url: 'https://quora.com/What-are-some-travel-tips-for-visiting-China/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What are some travel tips for visiting
-    China?
+title: 'What are some travel tips for visiting China?'
 ---
 
 Originally Answered: [What are some useful tips when traveling to

@@ -1,10 +1,9 @@
 ---
 date: '2018-08-28'
+language: fr
+original_url: 'https://quora.com/Are-Shanghai-husbands-the-most-lady-whipped-men-in-China/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Are Shanghai husbands the most lady-whipped
-    men in China?
+title: 'Are Shanghai husbands the most lady-whipped men in China?'
 ---
 
 I was once in Shanghai, waiting for someone who was late. It was on

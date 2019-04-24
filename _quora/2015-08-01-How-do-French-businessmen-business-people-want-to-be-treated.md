@@ -1,10 +1,9 @@
 ---
 date: '2015-08-01'
+language: fr
+original_url: 'https://quora.com/How-do-French-businessmen-business-people-want-to-be-treated/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    How do French businessmen (business people)
-    want to be treated?
+title: 'How do French businessmen (business people) want to be treated?'
 ---
 
 Be straightforward and emphasize the quality of your relationship over

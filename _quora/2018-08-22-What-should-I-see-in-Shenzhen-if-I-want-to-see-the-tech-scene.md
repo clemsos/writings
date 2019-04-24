@@ -1,10 +1,9 @@
 ---
 date: '2018-08-22'
+language: fr
+original_url: 'https://quora.com/What-should-I-see-in-Shenzhen-if-I-want-to-see-the-tech-scene/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What should I see in Shenzhen if I want to
-    see the tech scene?
+title: 'What should I see in Shenzhen if I want to see the tech scene?'
 ---
 
 If you want a condensed, international-friendly and English-speaking

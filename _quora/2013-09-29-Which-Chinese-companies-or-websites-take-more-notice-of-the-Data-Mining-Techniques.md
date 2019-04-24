@@ -1,10 +1,11 @@
 ---
 date: '2013-09-29'
+language: fr
+original_url: 'https://quora.com/Which-Chinese-companies-or-websites-take-more-notice-of-the-Data-Mining-Techniques/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Which Chinese companies or websites take
-    more notice of the Data Mining Techniques?
+    Which Chinese companies or websites take more notice of the Data Mining
+    Techniques?
 ---
 
 [果壳网 Guokr](http://guokr.com)is quite active in the data mining field

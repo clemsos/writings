@@ -1,10 +1,9 @@
 ---
 date: '2015-02-13'
+language: fr
+original_url: 'https://quora.com/How-do-people-benefit-from-building-free-open-source-frameworks/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    How do people benefit from building free
-    open source frameworks?
+title: 'How do people benefit from building free open source frameworks?'
 ---
 
 Presenting open-source as a hobby is an untrue way to look at it. Most

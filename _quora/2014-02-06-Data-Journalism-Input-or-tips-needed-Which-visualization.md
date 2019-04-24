@@ -1,10 +1,9 @@
 ---
 date: '2014-02-06'
+language: fr
+original_url: 'https://quora.com/Data-Journalism-Input-or-tips-needed-Which-visualization/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Data Journalism: Input or tips needed: Which
-    visualization?
+title: 'Data Journalism: Input or tips needed: Which visualization?'
 ---
 
 As mentioned below by [Matt Lutze](http://quora.com/profile/Matt-Lutze),

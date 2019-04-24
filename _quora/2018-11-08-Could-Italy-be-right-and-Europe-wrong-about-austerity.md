@@ -1,10 +1,9 @@
 ---
 date: '2018-11-08'
+language: fr
+original_url: 'https://quora.com/Could-Italy-be-right-and-Europe-wrong-about-austerity/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Could Italy be right and Europe wrong about
-    austerity?
+title: 'Could Italy be right and Europe wrong about austerity?'
 ---
 
 Those are two different questions. I can not answer about Italy but

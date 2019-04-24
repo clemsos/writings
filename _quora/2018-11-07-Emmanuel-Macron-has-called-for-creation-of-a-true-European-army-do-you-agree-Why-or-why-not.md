@@ -1,10 +1,11 @@
 ---
 date: '2018-11-07'
+language: fr
+original_url: 'https://quora.com/Emmanuel-Macron-has-called-for-creation-of-a-true-European-army-do-you-agree-Why-or-why-not/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Emmanuel Macron has called for creation of a
-    'true European army' do you agree? Why or why not?
+    Emmanuel Macron has called for creation of a 'true European army' do you
+    agree? Why or why not?
 ---
 
 To share a common army requires a common strategy, which does not exist

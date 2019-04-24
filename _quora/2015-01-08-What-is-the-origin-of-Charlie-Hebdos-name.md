@@ -1,10 +1,9 @@
 ---
 date: '2015-01-08'
+language: fr
+original_url: 'https://quora.com/What-is-the-origin-of-Charlie-Hebdos-name/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What is the origin of Charlie Hebdo\'s name?
-   
+title: 'What is the origin of Charlie Hebdo\''s name?'
 ---
 
 The journal was given this nickname as a joke about Charles de Gaulle,
@@ -23,4 +22,4 @@ Hebdo* (*hebdo* means weekly in French).\
 Image : The famous cover that ended *Hara-Kiri* and therefore started
 *Charlie Hebdo *\
 * *\
-![](./img/main-qimg-e364b5f2dae00ebb16432dc438270ad1.png)
+![](main-qimg-e364b5f2dae00ebb16432dc438270ad1.png)

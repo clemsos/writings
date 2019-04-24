@@ -1,10 +1,11 @@
 ---
 date: '2019-01-01'
+language: fr
+original_url: 'https://quora.com/What-should-Europe-learn-from-the-dynamic-fast-developing-countries-of-Asia/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What should Europe learn from the dynamic,
-    fast developing countries of Asia?
+    What should Europe learn from the dynamic, fast developing countries of
+    Asia?
 ---
 
 That you need to let some things go in order to make space for the new.

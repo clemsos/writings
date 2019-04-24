@@ -1,11 +1,11 @@
 ---
 date: '2013-01-07'
+language: fr
+original_url: 'https://quora.com/What-do-the-average-French-think-of-actor-Gerard-D%C3%A9pardieu-being-offered-Russian-citizenship-and-accepting-to-avoid-high-French-taxes/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What do the average French think of actor
-    Gerard Dépardieu being offered Russian citizenship, and accepting, to
-    avoid high French taxes?
+    What do the average French think of actor Gerard Dépardieu being offered
+    Russian citizenship, and accepting, to avoid high French taxes?
 ---
 
 This is a scandal that happened already before with other stars in

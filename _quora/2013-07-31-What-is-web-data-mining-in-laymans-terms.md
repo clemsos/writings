@@ -1,10 +1,9 @@
 ---
 date: '2013-07-31'
+language: fr
+original_url: 'https://quora.com/What-is-web-data-mining-in-laymans-terms/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What is web data mining in layman\'s terms?
-   
+title: 'What is web data mining in layman\''s terms?'
 ---
 
 Think about the web as a big dump of data (web pages, posts, images,

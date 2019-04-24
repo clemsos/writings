@@ -1,10 +1,11 @@
 ---
 date: '2014-07-05'
+language: fr
+original_url: 'https://quora.com/As-a-non-Chinese-how-do-you-feel-about-the-Occupy-Central-movement-of-Hong-Kong/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    As a non-Chinese, how do you feel about the
-    \'Occupy Central\' movement of Hong Kong?
+    As a non-Chinese, how do you feel about the \'Occupy Central\' movement
+    of Hong Kong?
 ---
 
 It is originaly an interesting initiative following Occupy Wall Street

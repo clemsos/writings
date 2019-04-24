@@ -1,9 +1,9 @@
 ---
 date: '2018-10-05'
+language: fr
+original_url: 'https://quora.com/When-did-Hong-Kong-first-get-democracy/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    When did Hong Kong first get democracy?
+title: 'When did Hong Kong first get democracy?'
 ---
 
 It never did. Hong Kong has been integrated in China successive empires

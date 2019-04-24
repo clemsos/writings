@@ -1,10 +1,11 @@
 ---
 date: '2014-07-21'
+language: fr
+original_url: 'https://quora.com/Given-the-same-exact-text-in-English-and-Chinese-which-would-take-less-time-to-read/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Given the same exact text in English and
-    Chinese, which would take less time to read?
+    Given the same exact text in English and Chinese, which would take less
+    time to read?
 ---
 
 It depends on the reader, not the text.\

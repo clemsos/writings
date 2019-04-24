@@ -1,10 +1,9 @@
 ---
 date: '2015-07-20'
+language: fr
+original_url: 'https://quora.com/How-do-ordinary-Greeks-see-the-Greece-debt-crisis/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    How do ordinary Greeks see the Greece debt
-    crisis?
+title: 'How do ordinary Greeks see the Greece debt crisis?'
 ---
 
 For what I have seen during the last days, people are exhausted by the

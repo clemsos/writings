@@ -1,10 +1,11 @@
 ---
 date: '2018-08-26'
+language: fr
+original_url: 'https://quora.com/How-do-you-expect-students-to-learn-What-is-your-understanding-of-learning/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    How do you expect students to learn? What is
-    your understanding of learning?
+    How do you expect students to learn? What is your understanding of
+    learning?
 ---
 
 Originally Answered: [How do you expect a student to learn? What is your

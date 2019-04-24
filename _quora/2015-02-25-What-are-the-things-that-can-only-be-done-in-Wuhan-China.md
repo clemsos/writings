@@ -1,10 +1,9 @@
 ---
 date: '2015-02-25'
+language: fr
+original_url: 'https://quora.com/What-are-the-things-that-can-only-be-done-in-Wuhan-China/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What are the things that can only be done in
-    Wuhan, China?
+title: 'What are the things that can only be done in Wuhan, China?'
 ---
 
 -   Attend a crowded show of a Chinese punk band playing bagpipes and

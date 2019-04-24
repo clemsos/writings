@@ -1,10 +1,11 @@
 ---
 date: '2015-07-16'
+language: fr
+original_url: 'https://quora.com/What-hardships-are-Greek-citizens-facing-under-the-ongoing-economic-crisis/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What hardships are Greek citizens facing
-    under the ongoing economic crisis?
+    What hardships are Greek citizens facing under the ongoing economic
+    crisis?
 ---
 
 More than the economic crisis itself, many greeks have suffered from the

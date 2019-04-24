@@ -1,10 +1,11 @@
 ---
 date: '2018-08-31'
+language: fr
+original_url: 'https://quora.com/What-is-a-smart-entry-strategy-for-a-westerner-who-wants-to-live-and-work-in-China/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What is a smart entry strategy for a
-    westerner who wants to live and work in China?
+    What is a smart entry strategy for a westerner who wants to live and
+    work in China?
 ---
 
 If you are serious about it, to enter China is a major investment. It

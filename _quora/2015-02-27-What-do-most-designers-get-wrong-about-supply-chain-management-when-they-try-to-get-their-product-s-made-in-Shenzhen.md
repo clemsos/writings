@@ -1,11 +1,11 @@
 ---
 date: '2015-02-27'
+language: fr
+original_url: 'https://quora.com/What-do-most-designers-get-wrong-about-supply-chain-management-when-they-try-to-get-their-product-s-made-in-Shenzhen/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What do most designers get wrong about
-    supply chain management when they try to get their product/s made in
-    Shenzhen?
+    What do most designers get wrong about supply chain management when they
+    try to get their product/s made in Shenzhen?
 ---
 
 **Most of the people don\'t** **come to Shenzhen to meet business

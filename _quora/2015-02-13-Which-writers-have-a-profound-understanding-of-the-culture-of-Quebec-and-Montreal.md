@@ -1,10 +1,11 @@
 ---
 date: '2015-02-13'
+language: fr
+original_url: 'https://quora.com/Which-writers-have-a-profound-understanding-of-the-culture-of-Quebec-and-Montreal/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Which writers have a profound understanding
-    of the culture of Quebec and Montreal?
+    Which writers have a profound understanding of the culture of Quebec and
+    Montreal?
 ---
 
 The greatest things I have read on this topic were written by Fernand
@@ -16,7 +17,7 @@ One of my favorite quote from him is : *\"Culture is the house were we
 live together\".* Simple and powerful. For me, he is Quebec\'s
 Levi-Strauss.\
 \
-![](./img/main-qimg-423707f7b58fadbaeea6c0da22a2c5d0-c.png)​\
+![](main-qimg-423707f7b58fadbaeea6c0da22a2c5d0-c.png)​\
 ​\
 \
 \

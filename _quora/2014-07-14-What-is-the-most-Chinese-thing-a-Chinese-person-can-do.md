@@ -1,10 +1,9 @@
 ---
 date: '2014-07-14'
+language: fr
+original_url: 'https://quora.com/What-is-the-most-Chinese-thing-a-Chinese-person-can-do/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What is the most Chinese thing a Chinese
-    person can do?
+title: 'What is the most Chinese thing a Chinese person can do?'
 ---
 
 Lose on purpose while playing Mahjong with your mother-in-law to give

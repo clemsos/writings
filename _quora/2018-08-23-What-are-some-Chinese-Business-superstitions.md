@@ -1,10 +1,9 @@
 ---
 date: '2018-08-23'
+language: fr
+original_url: 'https://quora.com/What-are-some-Chinese-Business-superstitions/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What are some Chinese Business
-    superstitions?
+title: 'What are some Chinese Business superstitions?'
 ---
 
 Some numbers means something.

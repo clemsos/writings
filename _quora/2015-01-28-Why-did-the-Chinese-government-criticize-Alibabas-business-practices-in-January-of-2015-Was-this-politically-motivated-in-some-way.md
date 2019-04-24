@@ -1,11 +1,11 @@
 ---
 date: '2015-01-28'
+language: fr
+original_url: 'https://quora.com/Why-did-the-Chinese-government-criticize-Alibabas-business-practices-in-January-of-2015-Was-this-politically-motivated-in-some-way/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Why did the Chinese government criticize
-    Alibaba\'s business practices in January of 2015? Was this politically
-    motivated in some way?
+    Why did the Chinese government criticize Alibaba\'s business practices
+    in January of 2015? Was this politically motivated in some way?
 ---
 
 I think it has to do with an attempt to turn \"made in China\" into a
@@ -26,7 +26,7 @@ great concern for the CCP.\
 As taobao is the new visage of Chinese Internet, it should also give
 some face to China.\
 ​\
-![](./img/main-qimg-060d00eeac43d9972f4da6401c894f59-c.png)​\
+![](main-qimg-060d00eeac43d9972f4da6401c894f59-c.png)​\
 ​\
 \
 *Premier Li Keqiang visiting Chaihuo maker space in Shenzhen*

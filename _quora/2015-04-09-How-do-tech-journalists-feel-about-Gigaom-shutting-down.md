@@ -1,10 +1,9 @@
 ---
 date: '2015-04-09'
+language: fr
+original_url: 'https://quora.com/How-do-tech-journalists-feel-about-Gigaom-shutting-down/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    How do tech journalists feel about Gigaom
-    shutting down?
+title: 'How do tech journalists feel about Gigaom shutting down?'
 ---
 
 This article offers an interesting reflection on why Gigaom fails and

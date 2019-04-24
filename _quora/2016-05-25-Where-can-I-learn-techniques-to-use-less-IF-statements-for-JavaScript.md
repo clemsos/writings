@@ -1,10 +1,9 @@
 ---
 date: '2016-05-25'
+language: fr
+original_url: 'https://quora.com/Where-can-I-learn-techniques-to-use-less-IF-statements-for-JavaScript/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Where can I learn techniques to use less IF
-    statements for JavaScript?
+title: 'Where can I learn techniques to use less IF statements for JavaScript?'
 ---
 
 You can write if statement inline.

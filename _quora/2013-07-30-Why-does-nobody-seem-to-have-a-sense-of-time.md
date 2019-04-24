@@ -1,10 +1,9 @@
 ---
 date: '2013-07-30'
+language: fr
+original_url: 'https://quora.com/Why-does-nobody-seem-to-have-a-sense-of-time/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Why does nobody seem to have a sense of
-    time?
+title: 'Why does nobody seem to have a sense of time?'
 ---
 
 The people you met may have some different views on why you should or

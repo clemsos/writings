@@ -1,11 +1,12 @@
 ---
 date: '2015-09-05'
+language: fr
+original_url: 'https://quora.com/What-does-it-tell-us-about-Chinese-culture-and-society-that-according-to-an-article-on-Slate-drivers-in-China-ensure-that-they-kill-people-who-they-hit/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What does it tell us about Chinese culture
-    and society that, according to an article on Slate, drivers in China
-    ensure that they kill people who they hit?
+    What does it tell us about Chinese culture and society that, according
+    to an article on Slate, drivers in China ensure that they kill people
+    who they hit?
 ---
 
 This tells us nothing about China, but it tell us that having a proper

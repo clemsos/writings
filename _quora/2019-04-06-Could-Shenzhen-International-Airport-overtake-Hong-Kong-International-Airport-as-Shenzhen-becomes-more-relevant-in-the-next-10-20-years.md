@@ -1,11 +1,11 @@
 ---
 date: '2019-04-06'
+language: fr
+original_url: 'https://quora.com/Could-Shenzhen-International-Airport-overtake-Hong-Kong-International-Airport-as-Shenzhen-becomes-more-relevant-in-the-next-10-20-years/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Could Shenzhen International Airport
-    overtake Hong Kong International Airport as Shenzhen becomes more
-    relevant in the next 10-20+ years?
+    Could Shenzhen International Airport overtake Hong Kong International
+    Airport as Shenzhen becomes more relevant in the next 10-20+ years?
 ---
 
 SZIA was developed to raise the international profile of the city with a
@@ -32,7 +32,7 @@ take the form of small cross-border black buses or containers shipment.
 How it will carve its own centrality in global networks remains to be
 seen.
 
-![](./img/main-qimg-1b4df1a854da45b2126a48d1e13cc2f2.png)
+![](main-qimg-1b4df1a854da45b2126a48d1e13cc2f2.png)
 
 *source:* [*Terminal 3 at Shenzhen Bao\'an International Airport by
 Studio

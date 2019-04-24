@@ -1,10 +1,11 @@
 ---
 date: '2015-08-01'
+language: fr
+original_url: 'https://quora.com/What-is-the-easiest-way-to-learn-Chinese-language-skills-with-the-least-effort/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What is the easiest way to learn Chinese
-    language skills with the least effort?
+    What is the easiest way to learn Chinese language skills with the least
+    effort?
 ---
 
 Go to China, especially into the Central regions and seek for friends

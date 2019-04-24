@@ -1,10 +1,11 @@
 ---
 date: '2018-10-23'
+language: fr
+original_url: 'https://quora.com/How-does-Google-justify-working-with-the-Chinese-government-but-refusing-to-work-with-the-US-military/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    How does Google justify working with the
-    Chinese government but refusing to work with the US military?
+    How does Google justify working with the Chinese government but refusing
+    to work with the US military?
 ---
 
 Originally Answered: [Why is Google refusing to work with the US
@@ -28,5 +29,5 @@ Google is more than ready to happily do anything Beijing will ask on any
 possible day - like Apple did before. Their current problem is that
 Beijing does not want to work with them, despite them trying very hard.
 
-See also : [Why should Google stay out of
+See also : [Clément Renaud\'s answer to Why should Google stay out of
 China?](http://quora.com/Why-should-Google-stay-out-of-China/answer/Cl%C3%A9ment-Renaud)

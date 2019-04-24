@@ -1,11 +1,11 @@
 ---
 date: '2018-02-04'
+language: fr
+original_url: 'https://quora.com/How-has-the-Chinese-governments-regulation-of-Internet-content-affected-the-business-models-for-Chinese-Internet-companies/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    How has the Chinese government\'s regulation
-    of Internet content affected the business models for Chinese Internet
-    companies?
+    How has the Chinese government\'s regulation of Internet content
+    affected the business models for Chinese Internet companies?
 ---
 
 In China, regulations on content are very strict. Broadcasting news or

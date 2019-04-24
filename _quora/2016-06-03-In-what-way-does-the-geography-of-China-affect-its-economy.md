@@ -1,10 +1,9 @@
 ---
 date: '2016-06-03'
+language: fr
+original_url: 'https://quora.com/In-what-way-does-the-geography-of-China-affect-its-economy/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    In what way does the geography of China
-    affect its economy?
+title: 'In what way does the geography of China affect its economy?'
 ---
 
 Like in any places in the world, it is not that China's geography
@@ -18,7 +17,7 @@ Pro-tip : even though there is a strong bias in current studies to think
 that econometrics equlas economics, numbers and metrics can barely touch
 the surface of how economies really develop. Understanding economics
 means understanding history, geography and ultimately culture. See this
-answer : [What are the most significant
+answer : [Clément Renaud\'s answer to What are the most significant
 flawed assumptions in economics? In particular, what assumptions have
 led to incorrect theories which have been used to justify harmful and
 failed public

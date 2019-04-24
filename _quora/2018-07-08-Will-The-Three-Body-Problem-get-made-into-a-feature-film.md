@@ -1,10 +1,9 @@
 ---
 date: '2018-07-08'
+language: fr
+original_url: 'https://quora.com/Will-The-Three-Body-Problem-get-made-into-a-feature-film/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Will \'The Three-Body Problem\' get made
-    into a feature film?
+title: 'Will \''The Three-Body Problem\'' get made into a feature film?'
 ---
 
 There is a first version of the movie made by a Chinese studio that was

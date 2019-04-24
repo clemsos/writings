@@ -1,10 +1,9 @@
 ---
 date: '2019-02-21'
+language: fr
+original_url: 'https://quora.com/We-have-human-rights-and-animal-rights-Should-there-be-computer-rights/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    We have human rights and animal rights.
-    Should there be computer rights?
+title: 'We have human rights and animal rights. Should there be computer rights?'
 ---
 
 Interesting question. Let\'s first consider the rights of nonhuman
@@ -123,6 +122,6 @@ of algorithms](https://reticular.hypotheses.org/366)
 [\[7\]](#cite-WYKqv)[The Human Use of Human Beings -
 Wikipedia](https://en.wikipedia.org/wiki/The_Human_Use_of_Human_Beings)
 
-[\[8\]](#cite-XiZgf)[What do you think about
+[\[8\]](#cite-XiZgf)[Clément Renaud\'s answer to What do you think about
 China\'s Social Credit
 System?](http://quora.com/What-do-you-think-about-Chinas-Social-Credit-System/answer/Cl%C3%A9ment-Renaud)

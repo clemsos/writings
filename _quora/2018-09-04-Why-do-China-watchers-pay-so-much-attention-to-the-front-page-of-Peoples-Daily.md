@@ -1,10 +1,11 @@
 ---
 date: '2018-09-04'
+language: fr
+original_url: 'https://quora.com/Why-do-China-watchers-pay-so-much-attention-to-the-front-page-of-Peoples-Daily/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Why do China watchers pay so much attention
-    to the front page of People\'s Daily?
+    Why do China watchers pay so much attention to the front page of
+    People\'s Daily?
 ---
 
 That is a tradition inherited from the time of the Soviet Union. There

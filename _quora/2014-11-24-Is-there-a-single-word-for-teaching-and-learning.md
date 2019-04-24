@@ -1,10 +1,9 @@
 ---
 date: '2014-11-24'
+language: fr
+original_url: 'https://quora.com/Is-there-a-single-word-for-teaching-and-learning/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Is there a single word for teaching and
-    learning?
+title: 'Is there a single word for teaching and learning?'
 ---
 
 Not really an answer to your question but in French, the verb

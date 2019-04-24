@@ -1,10 +1,11 @@
 ---
 date: '2015-01-11'
+language: fr
+original_url: 'https://quora.com/Did-Marine-Le-Pen-participate-in-the-massacre-solidarity-demonstration-in-Paris/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Did Marine Le Pen participate in the
-    massacre solidarity demonstration in Paris?
+    Did Marine Le Pen participate in the massacre solidarity demonstration
+    in Paris?
 ---
 
 She ends up in Beaucaire, a small village which the mayor from her party

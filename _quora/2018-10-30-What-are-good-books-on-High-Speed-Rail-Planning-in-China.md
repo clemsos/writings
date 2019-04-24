@@ -1,10 +1,9 @@
 ---
 date: '2018-10-30'
+language: fr
+original_url: 'https://quora.com/What-are-good-books-on-High-Speed-Rail-Planning-in-China/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What are good books on High Speed Rail
-    Planning in China?
+title: 'What are good books on High Speed Rail Planning in China?'
 ---
 
 There is a very good summary in French called Geopolitique du Train

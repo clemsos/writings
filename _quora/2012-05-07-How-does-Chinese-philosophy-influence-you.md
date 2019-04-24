@@ -1,9 +1,9 @@
 ---
 date: '2012-05-07'
+language: fr
+original_url: 'https://quora.com/How-does-Chinese-philosophy-influence-you/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    How does Chinese philosophy influence you?
+title: 'How does Chinese philosophy influence you?'
 ---
 
 Think about a \"Chinese Philosophy\" can be very misleading. In fact,

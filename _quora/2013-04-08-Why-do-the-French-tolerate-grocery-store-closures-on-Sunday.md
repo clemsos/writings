@@ -1,10 +1,9 @@
 ---
 date: '2013-04-08'
+language: fr
+original_url: 'https://quora.com/Why-do-the-French-tolerate-grocery-store-closures-on-Sunday/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Why do the French tolerate grocery store
-    closures on Sunday?
+title: 'Why do the French tolerate grocery store closures on Sunday?'
 ---
 
 I think we tolerate it because it is not so bad to have one day a week

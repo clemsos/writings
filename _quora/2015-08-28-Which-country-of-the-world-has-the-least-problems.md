@@ -1,10 +1,9 @@
 ---
 date: '2015-08-28'
+language: fr
+original_url: 'https://quora.com/Which-country-of-the-world-has-the-least-problems/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Which country of the world has the least
-    problems?
+title: 'Which country of the world has the least problems?'
 ---
 
 Originally Answered: [What are the world\'s least dysfunctional

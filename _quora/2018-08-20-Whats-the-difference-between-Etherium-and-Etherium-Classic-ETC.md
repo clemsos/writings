@@ -1,10 +1,9 @@
 ---
 date: '2018-08-20'
+language: fr
+original_url: 'https://quora.com/Whats-the-difference-between-Etherium-and-Etherium-Classic-ETC/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What\'s the difference between Etherium and
-    Etherium Classic (ETC)?
+title: 'What\''s the difference between Etherium and Etherium Classic (ETC)?'
 ---
 
 ETC is a fork of ETH that happened after the DAO hack. The ETH community

@@ -1,10 +1,9 @@
 ---
 date: '2018-12-25'
+language: fr
+original_url: 'https://quora.com/What-makes-Shenzhen-different-from-other-cities/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What makes Shenzhen different from other
-    cities?
+title: 'What makes Shenzhen different from other cities?'
 ---
 
 Its energy.

@@ -1,8 +1,9 @@
 ---
 date: '2018-08-25'
+language: fr
+original_url: 'https://quora.com/Who-is-Alain-Jupp%C3%A9/answer/Clément-Renaud'
 source: quora
-language: en
-title: 'Clément Renaud\''s answer to Who is Alain Juppé?'
+title: 'Who is Alain Juppé?'
 ---
 
 Alain Juppé is a French political animal. He has a formidable ability to

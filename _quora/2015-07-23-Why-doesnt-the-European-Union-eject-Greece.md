@@ -1,10 +1,9 @@
 ---
 date: '2015-07-23'
+language: fr
+original_url: 'https://quora.com/Why-doesnt-the-European-Union-eject-Greece/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Why doesn\'t the European Union eject
-    Greece?
+title: 'Why doesn\''t the European Union eject Greece?'
 ---
 
 Just to add a complementary point of view, because most of the answers
@@ -33,7 +32,7 @@ down the walls, which is one very bold move against EU core policies
 racist and inhuman migration policies that have lead to the deaths of so
 much people trying to reach the EU during the last decade.\
 \
-![](./img/main-qimg-f681ca1f935d16ed75147e0fa10a9a11-c.png)*Map of migrations
+![](main-qimg-f681ca1f935d16ed75147e0fa10a9a11-c.png)*Map of migrations
 in Europe* - from Migreurop\
 \
 **Greece is of the highest strategic importance for the defense plan of
@@ -47,12 +46,12 @@ ones. Despite political turmoil of the last decades, Greece have kept a
 quite modern and powerful army \[6\], which represents a key assets for
 NATO.\
 \
-![](./img/main-qimg-5945cb0e5005a5dd2cb8d5b6338617c7.png) source : [The
+![](main-qimg-5945cb0e5005a5dd2cb8d5b6338617c7.png) source : [The
 Economist](http://www.economist.com/news/europe/21645254-america-much-more-europe-sees-strategic-stakes-aegean-semi-guided-missile)\
 \
 Bases from Russia and the US are just a few kilometers from it coasts.\
 \
-![](./img/main-qimg-aac4541c04a26f004b8cd38de000d754.png)source : [The
+![](main-qimg-aac4541c04a26f004b8cd38de000d754.png)source : [The
 Guardian](http://www.theguardian.com/world/2015/jul/10/greece-euro-drama-geopolitical-concerns-europe-eu)\
 \
 **Greece is on the road map for important energy projects going from
@@ -64,7 +63,7 @@ gas from the Caspian sea to Europe. This is an important friction point
 with Russia - it provides an alternate route to avoid the gas going
 through Ukraine.\
 \
-![](./img/main-qimg-0d333d20efabedf81718d77a69804bb0-c.png)source : [Oil & Gas
+![](main-qimg-0d333d20efabedf81718d77a69804bb0-c.png)source : [Oil & Gas
 Mediterranean](http://www.oilandgascyprus.com/?p=104)\
 \
 So, despite the common currency and economic reasons, there is also real

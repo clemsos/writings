@@ -1,10 +1,11 @@
 ---
 date: '2018-10-24'
+language: fr
+original_url: 'https://quora.com/What-does-spending-20bn-on-the-worlds-longest-bridge-say-about-the-strength-of-Chinas-economy/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What does spending \$20bn on the world\'s
-    longest bridge say about the strength of China\'s economy?
+    What does spending \$20bn on the world\'s longest bridge say about the
+    strength of China\'s economy?
 ---
 
 There is this very interesting book by French writer Georges Bataille

@@ -1,10 +1,9 @@
 ---
 date: '2018-10-21'
+language: fr
+original_url: 'https://quora.com/What-would-a-Uighur-version-of-Joshua-Wong-or-the-Dalai-Lama-look-like/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What would a Uighur version of Joshua Wong
-    or the Dalai Lama look like?
+title: 'What would a Uighur version of Joshua Wong or the Dalai Lama look like?'
 ---
 
 It will look much less relatable to a Western audience than those two.

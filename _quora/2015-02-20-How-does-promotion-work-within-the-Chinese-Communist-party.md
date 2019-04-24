@@ -1,10 +1,9 @@
 ---
 date: '2015-02-20'
+language: fr
+original_url: 'https://quora.com/How-does-promotion-work-within-the-Chinese-Communist-party/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    How does promotion work within the Chinese
-    Communist party?
+title: 'How does promotion work within the Chinese Communist party?'
 ---
 
 To rise within the Communist party is a lifelong process and the

@@ -1,10 +1,11 @@
 ---
 date: '2018-08-31'
+language: fr
+original_url: 'https://quora.com/What-do-French-people-think-about-Indians-who-are-studying-and-working-in-France/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What do French people think about Indians
-    who are studying and working in France?
+    What do French people think about Indians who are studying and working
+    in France?
 ---
 
 For the most part, they don't think about them at all.

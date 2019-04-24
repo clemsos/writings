@@ -1,10 +1,11 @@
 ---
 date: '2015-02-15'
+language: fr
+original_url: 'https://quora.com/Are-there-any-special-ways-to-learn-to-differentiate-between-the-four-Mandarin-tones/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Are there any special ways to learn to
-    differentiate between the four Mandarin tones?
+    Are there any special ways to learn to differentiate between the four
+    Mandarin tones?
 ---
 
 Actually, don\'t focus too much on showing tones one by one. It is

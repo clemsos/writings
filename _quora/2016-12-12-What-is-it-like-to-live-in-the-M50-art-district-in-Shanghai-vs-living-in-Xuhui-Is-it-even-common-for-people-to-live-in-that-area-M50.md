@@ -1,11 +1,11 @@
 ---
 date: '2016-12-12'
+language: fr
+original_url: 'https://quora.com/What-is-it-like-to-live-in-the-M50-art-district-in-Shanghai-vs-living-in-Xuhui-Is-it-even-common-for-people-to-live-in-that-area-M50/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What is it like to live in the M50 art
-    district in Shanghai vs living in Xuhui? Is it even common for people to
-    live in that area (M50)?
+    What is it like to live in the M50 art district in Shanghai vs living in
+    Xuhui? Is it even common for people to live in that area (M50)?
 ---
 
 As others mentioned, nobody lives inside M50 (only art spaces and caffes
@@ -19,6 +19,6 @@ there...
 
 Xuhui is very diverse, so hard to say which one is better.
 
-![](./img/main-qimg-a67a83fc2b16f07c9a1ea05b966aee79-c.png)![](./img/main-qimg-80b0a7085e1513cc3b93142b37533e34.png)
+![](main-qimg-a67a83fc2b16f07c9a1ea05b966aee79-c.png)![](main-qimg-80b0a7085e1513cc3b93142b37533e34.png)
 
 Source : [中远两湾城\_百度百科](http://baike.baidu.com/view/3577342.htm)

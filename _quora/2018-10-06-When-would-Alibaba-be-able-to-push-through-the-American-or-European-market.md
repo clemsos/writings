@@ -1,10 +1,11 @@
 ---
 date: '2018-10-06'
+language: fr
+original_url: 'https://quora.com/When-would-Alibaba-be-able-to-push-through-the-American-or-European-market/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    When would Alibaba be able to push through
-    the American or European market?
+    When would Alibaba be able to push through the American or European
+    market?
 ---
 
 Aliexpress has already been launched in several countries in Europe.

@@ -1,10 +1,9 @@
 ---
 date: '2015-08-27'
+language: fr
+original_url: 'https://quora.com/What-are-secrets-psychiatrists-keep-from-lay-people/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What are secrets psychiatrists keep from lay
-    people?
+title: 'What are secrets psychiatrists keep from lay people?'
 ---
 
 The names and secrets of his patients. Any decent and professional

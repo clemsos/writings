@@ -1,10 +1,9 @@
 ---
 date: '2015-07-09'
+language: fr
+original_url: 'https://quora.com/How-do-I-read-console-window-errors-from-Chrome-using-JavaScript/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    How do I read console window errors from
-    Chrome using JavaScript?
+title: 'How do I read console window errors from Chrome using JavaScript?'
 ---
 
 This lib seems to catch console messages :

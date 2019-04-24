@@ -1,7 +1,8 @@
 ---
 date: '2014-07-14'
+language: fr
+original_url: 'https://quora.com/What-is-the-best-beer-in-China/answer/Clément-Renaud'
 source: quora
-language: en
 title: 'What is the best beer in China?'
 ---
 

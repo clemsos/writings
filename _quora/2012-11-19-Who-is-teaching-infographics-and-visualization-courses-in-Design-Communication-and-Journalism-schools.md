@@ -1,11 +1,11 @@
 ---
 date: '2012-11-19'
+language: fr
+original_url: 'https://quora.com/Who-is-teaching-infographics-and-visualization-courses-in-Design-Communication-and-Journalism-schools/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Who is teaching infographics and
-    visualization courses in Design, Communication, and Journalism schools?
-   
+    Who is teaching infographics and visualization courses in Design,
+    Communication, and Journalism schools?
 ---
 
 My coworker Yong Liu has put together one of the first MOOC in China

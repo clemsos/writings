@@ -1,10 +1,11 @@
 ---
 date: '2014-02-21'
+language: fr
+original_url: 'https://quora.com/In-what-ways-are-Chinese-social-trends-and-behavior-ahead-of-US-social-trends-and-behavior/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    In what ways are Chinese social trends and
-    behavior ahead of US social trends and behavior?
+    In what ways are Chinese social trends and behavior ahead of US social
+    trends and behavior?
 ---
 
 Social media in China are already largely made of leisure content

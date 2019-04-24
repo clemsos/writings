@@ -1,8 +1,9 @@
 ---
 date: '2013-05-03'
+language: fr
+original_url: 'https://quora.com/What-is-object-oriented-ontology/answer/Clément-Renaud'
 source: quora
-language: en
-title: 'Clément Renaud\''s answer to What is object-oriented ontology?'
+title: 'What is object-oriented ontology?'
 ---
 
 Not a specialist, but I will define OOO as an attempt to bring back

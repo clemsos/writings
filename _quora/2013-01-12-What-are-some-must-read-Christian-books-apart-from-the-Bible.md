@@ -1,10 +1,9 @@
 ---
 date: '2013-01-12'
+language: fr
+original_url: 'https://quora.com/What-are-some-must-read-Christian-books-apart-from-the-Bible/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What are some must-read Christian books,
-    apart from the Bible?
+title: 'What are some must-read Christian books, apart from the Bible?'
 ---
 
 The Golden Legend tells the stories of all saints\' life and death.

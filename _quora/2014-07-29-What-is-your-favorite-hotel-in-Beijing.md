@@ -1,9 +1,9 @@
 ---
 date: '2014-07-29'
+language: fr
+original_url: 'https://quora.com/What-is-your-favorite-hotel-in-Beijing/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What is your favorite hotel in Beijing?
+title: 'What is your favorite hotel in Beijing?'
 ---
 
 [Beijing EAST Hotel](http://www.east-beijing.com/en/default.aspx). A

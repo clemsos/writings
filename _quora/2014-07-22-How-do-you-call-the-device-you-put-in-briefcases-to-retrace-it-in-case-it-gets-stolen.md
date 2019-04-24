@@ -1,10 +1,11 @@
 ---
 date: '2014-07-22'
+language: fr
+original_url: 'https://quora.com/How-do-you-call-the-device-you-put-in-briefcases-to-retrace-it-in-case-it-gets-stolen/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    How do you call the device you put in
-    briefcases to retrace it in case it gets stolen?
+    How do you call the device you put in briefcases to retrace it in case
+    it gets stolen?
 ---
 
 A suitcase tracker.\

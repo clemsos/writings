@@ -1,10 +1,9 @@
 ---
 date: '2018-10-05'
+language: fr
+original_url: 'https://quora.com/Is-the-mean-stack-mean-io-the-best-fullstack-JavaScript-framework/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Is the mean stack (mean.io) the best
-    fullstack JavaScript framework?
+title: 'Is the mean stack (mean.io) the best fullstack JavaScript framework?'
 ---
 
 To do what? The main characteristic of Javascript is that it is very

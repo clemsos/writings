@@ -1,10 +1,9 @@
 ---
 date: '2015-08-15'
+language: fr
+original_url: 'https://quora.com/Is-the-expression-bonjour-mon-ami-still-used-in-France/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Is the expression \'bonjour mon ami\' still
-    used in France?
+title: 'Is the expression \''bonjour mon ami\'' still used in France?'
 ---
 
 Calling each other \"mon ami\" is not very common today,  but I may use

@@ -1,7 +1,8 @@
 ---
 date: '2012-11-19'
+language: fr
+original_url: 'https://quora.com/Whats-so-great-about-Baidu/answer/Clément-Renaud'
 source: quora
-language: en
 title: 'What\''s so great about Baidu?'
 ---
 

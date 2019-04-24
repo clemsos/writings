@@ -1,8 +1,9 @@
 ---
 date: '2018-09-20'
+language: fr
+original_url: 'https://quora.com/Does-Lyon-have-a-good-airport/answer/Clément-Renaud'
 source: quora
-language: en
-title: 'Clément Renaud\''s answer to Does Lyon have a good airport?'
+title: 'Does Lyon have a good airport?'
 ---
 
 Not really. It is good enough if you fly to Europe or Mediterranean

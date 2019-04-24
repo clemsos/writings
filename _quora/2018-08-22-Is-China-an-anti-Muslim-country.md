@@ -1,8 +1,9 @@
 ---
 date: '2018-08-22'
+language: fr
+original_url: 'https://quora.com/Is-China-an-anti-Muslim-country/answer/Clément-Renaud'
 source: quora
-language: en
-title: 'Clément Renaud\''s answer to Is China an anti-Muslim country?'
+title: 'Is China an anti-Muslim country?'
 ---
 
 China as a country is not against any religion particularly. Its people

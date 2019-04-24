@@ -1,10 +1,9 @@
 ---
 date: '2013-02-14'
+language: fr
+original_url: 'https://quora.com/How-many-tweets-per-day-are-there-on-Sina-Weibo/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    How many tweets per day are there on Sina
-    Weibo?
+title: 'How many tweets per day are there on Sina Weibo?'
 ---
 
 As Mentionned by Quora User, Sina claims in his 2011 Q3 earning calls

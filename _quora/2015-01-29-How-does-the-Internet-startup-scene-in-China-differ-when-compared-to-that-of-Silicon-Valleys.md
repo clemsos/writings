@@ -1,10 +1,11 @@
 ---
 date: '2015-01-29'
+language: fr
+original_url: 'https://quora.com/How-does-the-Internet-startup-scene-in-China-differ-when-compared-to-that-of-Silicon-Valleys/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    How does the Internet startup scene in China
-    differ when compared to that of Silicon Valley\'s?
+    How does the Internet startup scene in China differ when compared to
+    that of Silicon Valley\'s?
 ---
 
 There is a very large scope of startup cultures and styles in China.\

@@ -1,8 +1,9 @@
 ---
 date: '2013-05-16'
+language: fr
+original_url: 'https://quora.com/What-has-Quora-taught-you/answer/Clément-Renaud'
 source: quora
-language: en
-title: 'Clément Renaud\''s answer to What has Quora taught you?'
+title: 'What has Quora taught you?'
 ---
 
 that I can spend an incredible amount of time reading useless stuff when

@@ -1,10 +1,9 @@
 ---
 date: '2018-08-25'
+language: fr
+original_url: 'https://quora.com/What-was-the-importance-of-the-Rhone-Valley/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What was the importance of the Rhone Valley?
-   
+title: 'What was the importance of the Rhone Valley?'
 ---
 
 The Rhône takes his source in one of the most prosperous part of Europe

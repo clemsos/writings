@@ -1,10 +1,11 @@
 ---
 date: '2015-02-20'
+language: fr
+original_url: 'https://quora.com/I-live-in-the-United-States-but-I-want-to-find-a-job-in-Shanghai-How-does-one-go-about-the-search/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    I live in the United States, but I want to
-    find a job in Shanghai. How does one go about the search?
+    I live in the United States, but I want to find a job in Shanghai. How
+    does one go about the search?
 ---
 
 If visa is not an issue, then just buy a plane ticket and go there. More
@@ -18,7 +19,7 @@ there is tons of interesting opportunities there but as [Nicholas
 Krapels](http://quora.com/profile/Nicholas-Krapels) said : you need to
 be in Shanghai first.\
 \
-If you are in tech, check here : [What is
+If you are in tech, check here : [Clément Renaud\'s answer to What is
 the best place to meet Internet tech startup people such as VCs,
 entrepreneurs, or people working at startups in Beijing and
 Shanghai?](http://quora.com/What-is-the-best-place-to-meet-Internet-tech-startup-people-such-as-VCs-entrepreneurs-or-people-working-at-startups-in-Beijing-and-Shanghai/answer/Cl%C3%A9ment-Renaud)\

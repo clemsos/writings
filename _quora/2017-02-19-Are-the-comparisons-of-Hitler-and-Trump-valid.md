@@ -1,10 +1,9 @@
 ---
 date: '2017-02-19'
+language: fr
+original_url: 'https://quora.com/Are-the-comparisons-of-Hitler-and-Trump-valid/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Are the comparisons of Hitler and Trump
-    valid?
+title: 'Are the comparisons of Hitler and Trump valid?'
 ---
 
 Historical comparisons are useful to identify and reflect on similar

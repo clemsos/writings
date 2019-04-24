@@ -1,10 +1,9 @@
 ---
 date: '2015-01-16'
+language: fr
+original_url: 'https://quora.com/What-should-we-learn-from-the-Charlie-Hebdo-attack-in-Paris/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What should we learn from the Charlie Hebdo
-    attack in Paris?
+title: 'What should we learn from the Charlie Hebdo attack in Paris?'
 ---
 
 My grandfather was a subscriber to CharlieHebdo and most of the

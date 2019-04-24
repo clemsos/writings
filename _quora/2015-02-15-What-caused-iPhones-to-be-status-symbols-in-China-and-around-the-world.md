@@ -1,10 +1,9 @@
 ---
 date: '2015-02-15'
+language: fr
+original_url: 'https://quora.com/What-caused-iPhones-to-be-status-symbols-in-China-and-around-the-world/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What caused iPhones to be status symbols in
-    China and around the world?
+title: 'What caused iPhones to be status symbols in China and around the world?'
 ---
 
 In the big Chinese cities, to have an iPhone is not a very distinctive

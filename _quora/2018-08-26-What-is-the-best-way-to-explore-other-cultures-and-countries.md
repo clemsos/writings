@@ -1,10 +1,9 @@
 ---
 date: '2018-08-26'
+language: fr
+original_url: 'https://quora.com/What-is-the-best-way-to-explore-other-cultures-and-countries/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What is the best way to explore other
-    cultures and countries?
+title: 'What is the best way to explore other cultures and countries?'
 ---
 
 Spend time there alone without travelling too much. Take the time to

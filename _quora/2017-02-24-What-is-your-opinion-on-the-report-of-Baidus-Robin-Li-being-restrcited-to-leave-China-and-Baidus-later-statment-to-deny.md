@@ -1,11 +1,11 @@
 ---
 date: '2017-02-24'
+language: fr
+original_url: 'https://quora.com/What-is-your-opinion-on-the-report-of-Baidus-Robin-Li-being-restrcited-to-leave-China-and-Baidus-later-statment-to-deny/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What is your opinion on the report of
-    Baidu\'s Robin Li being restrcited to leave China and Baidu\'s later
-    statment to deny?
+    What is your opinion on the report of Baidu\'s Robin Li being restrcited
+    to leave China and Baidu\'s later statment to deny?
 ---
 
 The travel ban looks like a warning from Beijing, and Baidu's official

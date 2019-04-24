@@ -1,10 +1,11 @@
 ---
 date: '2015-02-27'
+language: fr
+original_url: 'https://quora.com/What-designers-who-have-had-successful-Kickstarter-campaigns-are-based-in-Shenzhen/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What designers who have had successful
-    Kickstarter campaigns are based in Shenzhen?
+    What designers who have had successful Kickstarter campaigns are based
+    in Shenzhen?
 ---
 
 Almost all the projects that have been through the Haxlr8r incubator
@@ -20,7 +21,7 @@ Chinese company with such a good culture.\
 \
 Their next product is a drawing robot. It should be going on campaign on
 Kickstarter in a few days. I am sure it will be a blast.\
-![](./img/main-qimg-0a018b342a1c9529d0003c60c76d6aaf-c.png)​\
+![](main-qimg-0a018b342a1c9529d0003c60c76d6aaf-c.png)​\
 \
 EDIT : the link to Makeblock first Kickstarter campaign, achieved with
 617% of their original goal  [Makeblock : Next Generation of Construct

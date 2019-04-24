@@ -1,7 +1,8 @@
 ---
 date: '2014-07-16'
+language: fr
+original_url: 'https://quora.com/Is-there-a-point-to-music/answer/Clément-Renaud'
 source: quora
-language: en
 title: 'Is there a point to music?'
 ---
 

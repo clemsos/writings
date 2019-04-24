@@ -1,9 +1,9 @@
 ---
 date: '2015-02-17'
+language: fr
+original_url: 'https://quora.com/What-are-some-apps-for-learning-Chinese/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What are some apps for learning Chinese?
+title: 'What are some apps for learning Chinese?'
 ---
 
 Originally Answered: [What\'s a good app for learning

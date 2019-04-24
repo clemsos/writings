@@ -1,10 +1,9 @@
 ---
 date: '2012-12-21'
+language: fr
+original_url: 'https://quora.com/What-are-some-interesting-Big-Data-products-and-applications/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What are some interesting Big Data products
-    and applications?
+title: 'What are some interesting Big Data products and applications?'
 ---
 
 You can check on China Great Firewall, the governmental Internet

@@ -1,13 +1,13 @@
 ---
 date: '2018-11-08'
+language: fr
+original_url: 'https://quora.com/Whats-your-view-on-EU-Chamber-of-Commerces-statement-that-Xis-repetition-of-opening-without-sufficient-concrete-measures-or-timelines-being-introduced-has-left-the-European-biz-community-increasingly-desensitized-to/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What\'s your view on EU Chamber of
-    Commerce\'s statement that Xi\'s repetition of opening, without
-    sufficient concrete measures or timelines being introduced, has left the
-    European biz community increasingly desensitized to these kinds of
-    promises?
+    What\'s your view on EU Chamber of Commerce\'s statement that Xi\'s
+    repetition of opening, without sufficient concrete measures or timelines
+    being introduced, has left the European biz community increasingly
+    desensitized to these kinds of promises?
 ---
 
 The statement shows how out of touch the EU leaders are. Even the US has

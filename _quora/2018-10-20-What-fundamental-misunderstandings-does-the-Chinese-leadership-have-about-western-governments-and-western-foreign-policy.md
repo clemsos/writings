@@ -1,11 +1,11 @@
 ---
 date: '2018-10-20'
+language: fr
+original_url: 'https://quora.com/What-fundamental-misunderstandings-does-the-Chinese-leadership-have-about-western-governments-and-western-foreign-policy/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What fundamental misunderstandings does the
-    Chinese leadership have about western governments and western foreign
-    policy?
+    What fundamental misunderstandings does the Chinese leadership have
+    about western governments and western foreign policy?
 ---
 
 Chinese leadership understand very well how Western government works,

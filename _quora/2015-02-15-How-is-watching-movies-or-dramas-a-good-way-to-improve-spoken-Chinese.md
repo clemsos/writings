@@ -1,10 +1,9 @@
 ---
 date: '2015-02-15'
+language: fr
+original_url: 'https://quora.com/How-is-watching-movies-or-dramas-a-good-way-to-improve-spoken-Chinese/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    How is watching movies or dramas a good way
-    to improve spoken Chinese?
+title: 'How is watching movies or dramas a good way to improve spoken Chinese?'
 ---
 
 Yes, you will learn the words and expressions in situation, which will
@@ -31,6 +30,6 @@ Good luck with your learning !\
 \
 [http://m.video.baidu.com/?fr=wal\...](http://m.video.baidu.com/?baiduid=BD0A5A743A0E5899A33350BB1D7ECCEF&bd_page_type=1&fr=wala0&from=1011267c&pu=usm@0,sz@1320_1004,ta@iphone_2_4.4_11_2.0&ssid=0&tj=wise_video_1_0_10_title&uid=0#detail/tvplay/10930) \
 \
-![](./img/main-qimg-b8d1201198f0e37a0de257e80b382a60-c.png)​\
+![](main-qimg-b8d1201198f0e37a0de257e80b382a60-c.png)​\
 ​\
 ​

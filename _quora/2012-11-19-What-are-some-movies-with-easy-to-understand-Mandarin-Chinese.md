@@ -1,10 +1,9 @@
 ---
 date: '2012-11-19'
+language: fr
+original_url: 'https://quora.com/What-are-some-movies-with-easy-to-understand-Mandarin-Chinese/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What are some movies with easy to understand
-    Mandarin Chinese?
+title: 'What are some movies with easy to understand Mandarin Chinese?'
 ---
 
 If you want to use original material to teach Chinese, I will advice

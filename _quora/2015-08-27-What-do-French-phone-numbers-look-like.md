@@ -1,9 +1,9 @@
 ---
 date: '2015-08-27'
+language: fr
+original_url: 'https://quora.com/What-do-French-phone-numbers-look-like/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What do French phone numbers look like?
+title: 'What do French phone numbers look like?'
 ---
 
 Phone numbers in France are made of 10 digits
@@ -22,7 +22,7 @@ A landline in Bordeaux : 05 56 10 20 30
 International prefix is +33 or +590/596/594 for French overseas
 departments and territories.
 
-![](./img/main-qimg-e3e1539ef8fa16bc2eb09fe8e209ff35-c.png)
+![](main-qimg-e3e1539ef8fa16bc2eb09fe8e209ff35-c.png)
 
 ​
 

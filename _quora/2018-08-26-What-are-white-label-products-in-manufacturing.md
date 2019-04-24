@@ -1,10 +1,9 @@
 ---
 date: '2018-08-26'
+language: fr
+original_url: 'https://quora.com/What-are-white-label-products-in-manufacturing/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What are white-label products in
-    manufacturing?
+title: 'What are white-label products in manufacturing?'
 ---
 
 White-label products are products that get out of the factory without a

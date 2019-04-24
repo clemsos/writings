@@ -1,10 +1,9 @@
 ---
 date: '2018-12-05'
+language: fr
+original_url: 'https://quora.com/Is-the-Chinese-Culture-too-different-for-Westerners-to-ever-understand/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Is the Chinese Culture too different for
-    Westerners to ever understand?
+title: 'Is the Chinese Culture too different for Westerners to ever understand?'
 ---
 
 Is mathematics to complicated to understand? Depends on what your goal

@@ -1,10 +1,9 @@
 ---
 date: '2018-08-25'
+language: fr
+original_url: 'https://quora.com/What-has-been-your-experience-using-React-js-as-a-developer/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What has been your experience using React.js
-    as a developer?
+title: 'What has been your experience using React.js as a developer?'
 ---
 
 The tooling/compiling can be painful but tools like react-scripts makes

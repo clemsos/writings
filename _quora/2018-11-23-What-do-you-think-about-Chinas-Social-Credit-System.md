@@ -1,10 +1,9 @@
 ---
 date: '2018-11-23'
+language: fr
+original_url: 'https://quora.com/What-do-you-think-about-Chinas-Social-Credit-System/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What do you think about China\'s Social
-    Credit System?
+title: 'What do you think about China\''s Social Credit System?'
 ---
 
 I think that the directives published by Beijing and their local
@@ -47,7 +46,7 @@ Let me take an example I got from a recent China Law Translate podcast.
 In China you have a system to show hygiene quality in every restaurant.
 It looks like this :
 
-![](./img/main-qimg-c140f84c281213b4fa770a32091c692c.png)
+![](main-qimg-c140f84c281213b4fa770a32091c692c.png)
 
 Let's say I am looking for a restaurant. I will check Trip Advisor
 (Dianping in China) for the food, and that sign for the hygiene. I don't

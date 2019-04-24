@@ -1,10 +1,9 @@
 ---
 date: '2018-08-28'
+language: fr
+original_url: 'https://quora.com/What-is-the-relationship-like-between-China-and-France/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What is the relationship like between China
-    and France?
+title: 'What is the relationship like between China and France?'
 ---
 
 France was one of the first Western country to recognise the People

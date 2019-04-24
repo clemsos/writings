@@ -1,10 +1,9 @@
 ---
 date: '2017-09-13'
+language: fr
+original_url: 'https://quora.com/What-are-the-main-criticisms-of-Chinese-foreign-policy-in-2017/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What are the main criticisms of Chinese
-    foreign policy in 2017?
+title: 'What are the main criticisms of Chinese foreign policy in 2017?'
 ---
 
 Wasting their momentum by trying to be scary.

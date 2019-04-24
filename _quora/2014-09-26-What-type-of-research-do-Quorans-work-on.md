@@ -1,9 +1,9 @@
 ---
 date: '2014-09-26'
+language: fr
+original_url: 'https://quora.com/What-type-of-research-do-Quorans-work-on/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What type of research do Quorans work on?
+title: 'What type of research do Quorans work on?'
 ---
 
 I just finished my phD research about data visualisation of [Internet

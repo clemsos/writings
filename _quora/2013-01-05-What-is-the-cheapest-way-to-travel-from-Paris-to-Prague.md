@@ -1,10 +1,9 @@
 ---
 date: '2013-01-05'
+language: fr
+original_url: 'https://quora.com/What-is-the-cheapest-way-to-travel-from-Paris-to-Prague/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What is the cheapest way to travel from
-    Paris to Prague?
+title: 'What is the cheapest way to travel from Paris to Prague?'
 ---
 
 You should try the bus with Eurolines, usually the cheapest way to

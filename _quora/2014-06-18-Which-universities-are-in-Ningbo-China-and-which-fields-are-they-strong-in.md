@@ -1,10 +1,11 @@
 ---
 date: '2014-06-18'
+language: fr
+original_url: 'https://quora.com/Which-universities-are-in-Ningbo-China-and-which-fields-are-they-strong-in/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Which universities are in Ningbo, China and
-    which fields are they strong in?
+    Which universities are in Ningbo, China and which fields are they strong
+    in?
 ---
 
 I know Ningbo university have been experimenting with intedisciplinary

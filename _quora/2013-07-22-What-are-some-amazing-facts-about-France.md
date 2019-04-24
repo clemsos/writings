@@ -1,9 +1,9 @@
 ---
 date: '2013-07-22'
+language: fr
+original_url: 'https://quora.com/What-are-some-amazing-facts-about-France/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What are some amazing facts about France?
+title: 'What are some amazing facts about France?'
 ---
 
 Originally Answered: [What are some interesting facts about

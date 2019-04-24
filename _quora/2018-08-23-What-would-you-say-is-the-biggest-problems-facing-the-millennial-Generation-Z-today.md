@@ -1,10 +1,11 @@
 ---
 date: '2018-08-23'
+language: fr
+original_url: 'https://quora.com/What-would-you-say-is-the-biggest-problems-facing-the-millennial-Generation-Z-today/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What would you say is the biggest problems
-    facing the millennial/Generation Z today?
+    What would you say is the biggest problems facing the
+    millennial/Generation Z today?
 ---
 
 Aging population.

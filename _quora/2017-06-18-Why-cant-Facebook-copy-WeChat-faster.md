@@ -1,9 +1,9 @@
 ---
 date: '2017-06-18'
+language: fr
+original_url: 'https://quora.com/Why-cant-Facebook-copy-WeChat-faster/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Why can\'t Facebook copy WeChat faster?
+title: 'Why can\''t Facebook copy WeChat faster?'
 ---
 
 Maybe they are losing time trying to come up with better ideas, instead

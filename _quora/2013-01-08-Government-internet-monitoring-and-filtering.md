@@ -1,10 +1,9 @@
 ---
 date: '2013-01-08'
+language: fr
+original_url: 'https://quora.com/Government-internet-monitoring-and-filtering/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Government internet monitoring and
-    filtering?
+title: 'Government internet monitoring and filtering?'
 ---
 
 There is of course no disclosure from the government about how the Great

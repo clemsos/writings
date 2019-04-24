@@ -1,10 +1,9 @@
 ---
 date: '2012-09-06'
+language: fr
+original_url: 'https://quora.com/Node-js-Whats-the-best-practice-for-structuring-models-with-mongoose/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Node.js: What\'s the best practice for
-    structuring models with mongoose?
+title: 'Node.js: What\''s the best practice for structuring models with mongoose?'
 ---
 
 You can check this answer on [Stack

@@ -1,12 +1,12 @@
 ---
 date: '2018-09-29'
+language: fr
+original_url: 'https://quora.com/Im-moving-to-China-and-I-dont-want-to-be-one-of-those-expats-that-spends-20-years-there-and-never-become-fluent-in-the-language-How-can-I-use-the-fact-Im-an-English-teacher-there-to-my-advantage/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    I\'m moving to China and I don\'t want to be
-    one of those expats that spends 20 years there and never become fluent
-    in the language. How can I use the fact I\'m an English teacher there to
-    my advantage?
+    I\'m moving to China and I don\'t want to be one of those expats that
+    spends 20 years there and never become fluent in the language. How can I
+    use the fact I\'m an English teacher there to my advantage?
 ---
 
 There is no shortcut and to speak Chinese takes years.

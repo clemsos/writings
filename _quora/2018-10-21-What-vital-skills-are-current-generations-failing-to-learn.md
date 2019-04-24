@@ -1,10 +1,9 @@
 ---
 date: '2018-10-21'
+language: fr
+original_url: 'https://quora.com/What-vital-skills-are-current-generations-failing-to-learn/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What vital skills are current generations
-    failing to learn?
+title: 'What vital skills are current generations failing to learn?'
 ---
 
 They fail to learn what the generations before fail to pass them.

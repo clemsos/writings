@@ -1,10 +1,9 @@
 ---
 date: '2018-10-21'
+language: fr
+original_url: 'https://quora.com/Who-is-the-most-regarded-or-popular-leader-of-China-other-than-Mao/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Who is the most regarded or popular leader
-    of China other than Mao?
+title: 'Who is the most regarded or popular leader of China other than Mao?'
 ---
 
 Depends on generations.

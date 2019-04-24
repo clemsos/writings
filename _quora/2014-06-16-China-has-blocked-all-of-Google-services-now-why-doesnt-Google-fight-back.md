@@ -1,10 +1,11 @@
 ---
 date: '2014-06-16'
+language: fr
+original_url: 'https://quora.com/China-has-blocked-all-of-Google-services-now-why-doesnt-Google-fight-back/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    China has blocked all of Google services
-    now, why doesn\'t Google fight back?
+    China has blocked all of Google services now, why doesn\'t Google fight
+    back?
 ---
 
 Why will they do sth? They left China after years of working

@@ -1,11 +1,12 @@
 ---
 date: '2018-12-04'
+language: fr
+original_url: 'https://quora.com/Why-do-many-Google-employees-protest-Project-Dragonfly-on-moral-and-censorship-grounds-dont-they-understand-that-Google-is-a-for-profit-business/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Why do many Google employees protest Project
-    Dragonfly on moral and censorship grounds; don\'t they understand that
-    Google is a for-profit business?
+    Why do many Google employees protest Project Dragonfly on moral and
+    censorship grounds; don\'t they understand that Google is a for-profit
+    business?
 ---
 
 With such bad name, I am starting to wonder if "Project Dragonfly" is

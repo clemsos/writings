@@ -1,10 +1,11 @@
 ---
 date: '2014-07-18'
+language: fr
+original_url: 'https://quora.com/I-am-going-to-Hong-Kong-next-month-Are-there-any-suggestions-for-me-especially-the-hotel/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    I am going to Hong Kong next month. Are
-    there any suggestions for me, especially the hotel?
+    I am going to Hong Kong next month. Are there any suggestions for me,
+    especially the hotel?
 ---
 
 If you want some extra time witout carrying all your stuff, you can

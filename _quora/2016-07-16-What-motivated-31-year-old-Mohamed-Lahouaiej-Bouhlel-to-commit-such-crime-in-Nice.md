@@ -1,10 +1,11 @@
 ---
 date: '2016-07-16'
+language: fr
+original_url: 'https://quora.com/What-motivated-31-year-old-Mohamed-Lahouaiej-Bouhlel-to-commit-such-crime-in-Nice/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What motivated 31 year old Mohamed Lahouaiej
-    Bouhlel to commit such crime in Nice?
+    What motivated 31 year old Mohamed Lahouaiej Bouhlel to commit such
+    crime in Nice?
 ---
 
 Despite what the answers here seems to imply, it is still absolutely

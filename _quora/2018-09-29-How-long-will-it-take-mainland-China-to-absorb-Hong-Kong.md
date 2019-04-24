@@ -1,10 +1,9 @@
 ---
 date: '2018-09-29'
+language: fr
+original_url: 'https://quora.com/How-long-will-it-take-mainland-China-to-absorb-Hong-Kong/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    How long will it take mainland China to
-    absorb Hong Kong?
+title: 'How long will it take mainland China to absorb Hong Kong?'
 ---
 
 What do you mean absorb? Countries don\'t absorb cities. Real life is

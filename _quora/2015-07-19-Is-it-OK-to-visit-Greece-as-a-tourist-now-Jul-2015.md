@@ -1,10 +1,9 @@
 ---
 date: '2015-07-19'
+language: fr
+original_url: 'https://quora.com/Is-it-OK-to-visit-Greece-as-a-tourist-now-Jul-2015/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Is it OK to visit Greece as a tourist now
-    (Jul 2015)?
+title: 'Is it OK to visit Greece as a tourist now (Jul 2015)?'
 ---
 
 Regarding other answers about ATM limitations : it doesn\'t apply to

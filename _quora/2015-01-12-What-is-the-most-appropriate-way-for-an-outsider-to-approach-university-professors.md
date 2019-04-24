@@ -1,10 +1,11 @@
 ---
 date: '2015-01-12'
+language: fr
+original_url: 'https://quora.com/What-is-the-most-appropriate-way-for-an-outsider-to-approach-university-professors/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What is the most appropriate way for an
-    outsider to approach university professors?
+    What is the most appropriate way for an outsider to approach university
+    professors?
 ---
 
 Read about their research and ask them a (precise) question about it -

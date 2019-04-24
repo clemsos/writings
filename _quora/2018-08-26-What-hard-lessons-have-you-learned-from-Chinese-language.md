@@ -1,10 +1,9 @@
 ---
 date: '2018-08-26'
+language: fr
+original_url: 'https://quora.com/What-hard-lessons-have-you-learned-from-Chinese-language/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What hard lessons have you learned from
-    Chinese language?
+title: 'What hard lessons have you learned from Chinese language?'
 ---
 
 Time is a relative concept.

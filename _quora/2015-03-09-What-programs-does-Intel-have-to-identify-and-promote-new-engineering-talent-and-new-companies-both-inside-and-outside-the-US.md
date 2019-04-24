@@ -1,11 +1,11 @@
 ---
 date: '2015-03-09'
+language: fr
+original_url: 'https://quora.com/What-programs-does-Intel-have-to-identify-and-promote-new-engineering-talent-and-new-companies-both-inside-and-outside-the-US/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What programs does Intel have to identify
-    and promote new engineering talent and new companies, both inside and
-    outside the US?
+    What programs does Intel have to identify and promote new engineering
+    talent and new companies, both inside and outside the US?
 ---
 
 One important program run by Intel is the [Creators

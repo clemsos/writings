@@ -1,10 +1,11 @@
 ---
 date: '2015-02-22'
+language: fr
+original_url: 'https://quora.com/What-are-the-best-gifts-that-I-can-bring-from-overseas-for-my-Chinese-friends/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What are the best gifts that I can bring
-    from overseas for my Chinese friends?
+    What are the best gifts that I can bring from overseas for my Chinese
+    friends?
 ---
 
 This is not really about the gift but more about the relationship you

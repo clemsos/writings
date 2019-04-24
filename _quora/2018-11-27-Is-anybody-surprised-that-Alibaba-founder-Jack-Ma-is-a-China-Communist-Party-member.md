@@ -1,10 +1,11 @@
 ---
 date: '2018-11-27'
+language: fr
+original_url: 'https://quora.com/Is-anybody-surprised-that-Alibaba-founder-Jack-Ma-is-a-China-Communist-Party-member/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Is anybody surprised that Alibaba founder
-    Jack Ma is a China Communist Party member?
+    Is anybody surprised that Alibaba founder Jack Ma is a China Communist
+    Party member?
 ---
 
 No, except for people that don\'t know how CCP works. CCP is not a just

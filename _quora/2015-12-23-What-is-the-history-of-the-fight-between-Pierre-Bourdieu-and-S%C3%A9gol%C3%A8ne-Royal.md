@@ -1,10 +1,11 @@
 ---
 date: '2015-12-23'
+language: fr
+original_url: 'https://quora.com/What-is-the-history-of-the-fight-between-Pierre-Bourdieu-and-S%C3%A9gol%C3%A8ne-Royal/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What is the history of the fight between
-    Pierre Bourdieu and Ségolène Royal?
+    What is the history of the fight between Pierre Bourdieu and Ségolène
+    Royal?
 ---
 
 Not really a fight. It comes from an interview of Bourdieu where he says

@@ -1,12 +1,12 @@
 ---
 date: '2015-07-09'
+language: fr
+original_url: 'https://quora.com/What-are-the-most-significant-flawed-assumptions-in-economics-In-particular-what-assumptions-have-led-to-incorrect-theories-which-have-been-used-to-justify-harmful-and-failed-public-policies/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What are the most significant flawed
-    assumptions in economics? In particular, what assumptions have led to
-    incorrect theories which have been used to justify harmful and failed
-    public policies?
+    What are the most significant flawed assumptions in economics? In
+    particular, what assumptions have led to incorrect theories which have
+    been used to justify harmful and failed public policies?
 ---
 
 The very idea that economics can become an autonomous discipline, as in

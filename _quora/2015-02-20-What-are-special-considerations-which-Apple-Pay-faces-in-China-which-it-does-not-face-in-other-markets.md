@@ -1,10 +1,11 @@
 ---
 date: '2015-02-20'
+language: fr
+original_url: 'https://quora.com/What-are-special-considerations-which-Apple-Pay-faces-in-China-which-it-does-not-face-in-other-markets/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What are special considerations which Apple
-    Pay faces in China which it does not face in other markets?
+    What are special considerations which Apple Pay faces in China which it
+    does not face in other markets?
 ---
 
 **Harsh, ruthless local competition.** In China, Apple Pay won\'t
@@ -58,7 +59,7 @@ be bored of Apple \"Californian dream\" marketing. They will go for the
 best service, so it may be a tough round to bring Apple Pay to success
 in China.\
 \
-More on this : [What caused iPhones to be
+More on this : [Clément Renaud\'s answer to What caused iPhones to be
 status symbols in China and around the
 world?](http://quora.com/What-caused-iPhones-to-be-status-symbols-in-China-and-around-the-world/answer/Cl%C3%A9ment-Renaud)\
 \

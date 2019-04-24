@@ -1,10 +1,11 @@
 ---
 date: '2018-10-03'
+language: fr
+original_url: 'https://quora.com/Which-is-the-first-argument-typically-passed-to-a-Node-js-callback-handler/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Which is the first argument typically passed
-    to a Node.js callback handler?
+    Which is the first argument typically passed to a Node.js callback
+    handler?
 ---
 
 By convention, lots of libraries were passing an error message as the

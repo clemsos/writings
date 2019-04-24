@@ -1,9 +1,9 @@
 ---
 date: '2015-08-27'
+language: fr
+original_url: 'https://quora.com/What-are-some-good-French-rap-artists/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What are some good French rap artists?
+title: 'What are some good French rap artists?'
 ---
 
 The compilation *Rapattitude 2* gather a selection of the greatest songs

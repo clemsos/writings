@@ -1,12 +1,13 @@
 ---
 date: '2013-01-14'
+language: fr
+original_url: 'https://quora.com/What-are-the-biggest-data-science-success-stories-so-far-It-might-be-interesting-to-make-a-distinction-between-two-cases-1-When-data-analysis-is-applied-to-enhance-business-2-When-data-analysis-is-the-business/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What are the biggest data science success
-    stories so far? It might be interesting to make a distinction between
-    two cases: 1. When data analysis is applied to enhance business 2. When
-    data analysis is the business
+    What are the biggest data science success stories so far? It might be
+    interesting to make a distinction between two cases: 1. When data
+    analysis is applied to enhance business 2. When data analysis is the
+    business
 ---
 
 I think the Great Firewall of China, gigantic censorship system of the

@@ -1,10 +1,9 @@
 ---
 date: '2019-01-01'
+language: fr
+original_url: 'https://quora.com/What-are-your-predictions-for-Chinas-economy-in-2019/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What are your predictions for China\'s
-    economy in 2019?
+title: 'What are your predictions for China\''s economy in 2019?'
 ---
 
 The difficulty to predict what is going to happen in 2019 in China shows

@@ -1,10 +1,9 @@
 ---
 date: '2018-07-06'
+language: fr
+original_url: 'https://quora.com/Does-Tencent-let-people-visit-their-HQ-in-Shenzhen/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Does Tencent let people visit their HQ in
-    Shenzhen?
+title: 'Does Tencent let people visit their HQ in Shenzhen?'
 ---
 
 Yes you can visit it but you need to be invited. People are working

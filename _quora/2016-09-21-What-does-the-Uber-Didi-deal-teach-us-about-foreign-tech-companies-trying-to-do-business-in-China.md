@@ -1,10 +1,11 @@
 ---
 date: '2016-09-21'
+language: fr
+original_url: 'https://quora.com/What-does-the-Uber-Didi-deal-teach-us-about-foreign-tech-companies-trying-to-do-business-in-China/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What does the Uber-Didi deal teach us about
-    foreign tech companies trying to do business in China?
+    What does the Uber-Didi deal teach us about foreign tech companies
+    trying to do business in China?
 ---
 
 That Uber was allowed to survive that long and get a good deal at the

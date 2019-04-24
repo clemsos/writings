@@ -1,9 +1,9 @@
 ---
 date: '2018-08-26'
+language: fr
+original_url: 'https://quora.com/How-do-Chinese-name-their-new-babies/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    How do Chinese name their new babies?
+title: 'How do Chinese name their new babies?'
 ---
 
 I know several people who bought a name online for their children.

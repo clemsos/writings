@@ -1,11 +1,11 @@
 ---
 date: '2017-09-13'
+language: fr
+original_url: 'https://quora.com/Why-does-China-prohibit-foreigners-from-staying-in-low-class-hotels-Is-there-any-other-country-that-does-this/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Why does China prohibit foreigners from
-    staying in \'low class\' hotels? Is there any other country that does
-    this?
+    Why does China prohibit foreigners from staying in \'low class\' hotels?
+    Is there any other country that does this?
 ---
 
 No law forbids it. The law is that you have to registered at the police

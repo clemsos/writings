@@ -1,11 +1,11 @@
 ---
 date: '2013-01-08'
+language: fr
+original_url: 'https://quora.com/Is-it-strange-that-the-Great-Chinese-Firewall-blocks-Twitter-but-state-controlled-media-like-Global-Times-use-Twitter/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Is it strange that the Great Chinese
-    Firewall blocks Twitter but state-controlled media like Global Times use
-    Twitter?
+    Is it strange that the Great Chinese Firewall blocks Twitter but
+    state-controlled media like Global Times use Twitter?
 ---
 
 A nice paradox indeed :)\

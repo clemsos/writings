@@ -1,10 +1,11 @@
 ---
 date: '2011-06-02'
+language: fr
+original_url: 'https://quora.com/Where-can-I-get-good-data-on-the-number-of-smartphone-users-in-India-China-Indonesia-Brazil-and-Mexico/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Where can I get good data on the number of
-    smartphone users in India, China, Indonesia, Brazil and Mexico?
+    Where can I get good data on the number of smartphone users in India,
+    China, Indonesia, Brazil and Mexico?
 ---
 
 Have a look here

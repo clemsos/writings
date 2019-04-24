@@ -1,10 +1,9 @@
 ---
 date: '2015-08-02'
+language: fr
+original_url: 'https://quora.com/Are-you-concerned-by-what-is-happening-in-Calais-France/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Are you concerned by what is happening in
-    Calais (France)?
+title: 'Are you concerned by what is happening in Calais (France)?'
 ---
 
 What is happening in Calais is absolutely dramatic and every citizen in
@@ -24,7 +23,7 @@ of people living in Europe but who are not citizens, have absolutely no
 rights (not even to work) and are hunt down by the police everyday. How
 is it even possible ?\
 \
-![](./img/main-qimg-7c05630920d96aeb896f15d187e3daf7.png) *A squatt in Calais
+![](main-qimg-7c05630920d96aeb896f15d187e3daf7.png) *A squatt in Calais
 after police evacuation* - [source : The
 Mirror](http://www.mirror.co.uk/news/world-news/rubbish-mountains-left-behind-2000-5438859)\
 \
@@ -40,7 +39,7 @@ As he was the elder boy, it was decided that he will stop studying and
 go to France where an uncle there could help him find a job, so he can
 send some money home.\
  \
-![](./img/main-qimg-bf76d3b81878a081198cf2df2bbea6ab-c.png)*Somewhere in
+![](main-qimg-bf76d3b81878a081198cf2df2bbea6ab-c.png)*Somewhere in
 Bamako, Mali -* credits : [Mme
 Oreille](http://www.madame-oreille.com/blog/index.php/mali-episode-8-retour-a-bamako-fin-des-vacances/)\
 \
@@ -61,7 +60,7 @@ from migrants and kick all these people out. There were chaos, shots,
 people running in the woods and finally he got caught and throw in a bus
 to the Algerian border.\
 \
-![](./img/main-qimg-92873cd304290af7ddab6140e6437943-c.png)*Security setup at
+![](main-qimg-92873cd304290af7ddab6140e6437943-c.png)*Security setup at
 the border of Ceuta -* source: [Les flux migratoires légaux et
 illégaux](http://ceriscope.sciences-po.fr/content/part4/les-flux-migratoires-legaux-et-illegaux)
 - Sciences Po\
@@ -79,7 +78,7 @@ Algerian police that lock them up in a camp. A few days later, they were
 forced into a bus again, direction the Southern desert of Tamanrasset
 where they could be sent back to the Northern border of Mali.\
 \
-![](./img/main-qimg-3969d8e1ce2fa9b86c310a41fdc0f13c.png)[Africa to Europe
+![](main-qimg-3969d8e1ce2fa9b86c310a41fdc0f13c.png)[Africa to Europe
 migration](http://news.bbc.co.uk/2/hi/europe/6228236.stm) - source :
 BBC\
 \
@@ -95,7 +94,7 @@ cousin has found him a job on a construction field. At some point, he
 got to Paris and when I met him, he was trying to get his papers to find
 a proper job, after multiple ripoffs by different bosses there.\
 \
-![](./img/main-qimg-b6818a88ecf59e7c1522e4600d0ab1e9-c.png)*A guy asking for
+![](main-qimg-b6818a88ecf59e7c1522e4600d0ab1e9-c.png)*A guy asking for
 papers in Paris -*  photo : [Our Eye Is Our
 Life](http://www.oureyeislife.com/?p=568)\
 \
@@ -125,7 +124,7 @@ and see how lucky we are to have such a lot of people willing to come
 and help our nations to get better ? What sort of Europe do we want to
 build ? Can we live up to the humanism of our peers ?\
 \
-![](./img/main-qimg-3dcaa24c64a8808e2c8357352431f460-c.png)*Map of the
+![](main-qimg-3dcaa24c64a8808e2c8357352431f460-c.png)*Map of the
 detention camps in Europe* - source :
 [MIGREUROP](http://www.migreurop.org/article2224.html?lang=en)\
 \

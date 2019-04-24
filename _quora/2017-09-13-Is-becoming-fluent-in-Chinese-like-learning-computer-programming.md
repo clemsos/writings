@@ -1,10 +1,9 @@
 ---
 date: '2017-09-13'
+language: fr
+original_url: 'https://quora.com/Is-becoming-fluent-in-Chinese-like-learning-computer-programming/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Is becoming fluent in Chinese like learning
-    computer programming?
+title: 'Is becoming fluent in Chinese like learning computer programming?'
 ---
 
 Regarding reading and writing, yes : very logical and straightforward

@@ -1,10 +1,9 @@
 ---
 date: '2017-09-13'
+language: fr
+original_url: 'https://quora.com/What-food-industry-opportunities-do-you-see-in-China/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What food industry opportunities do you see
-    in China?
+title: 'What food industry opportunities do you see in China?'
 ---
 
 Organic food. A simple label will not work (nobody trust this sort of

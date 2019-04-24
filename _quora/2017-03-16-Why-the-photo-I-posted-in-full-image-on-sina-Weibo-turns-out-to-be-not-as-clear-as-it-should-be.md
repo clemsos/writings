@@ -1,10 +1,11 @@
 ---
 date: '2017-03-16'
+language: fr
+original_url: 'https://quora.com/Why-the-photo-I-posted-in-full-image-on-sina-Weibo-turns-out-to-be-not-as-clear-as-it-should-be/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Why the photo I posted in full image on sina
-    Weibo turns out to be not as clear as it should be?
+    Why the photo I posted in full image on sina Weibo turns out to be not
+    as clear as it should be?
 ---
 
 To avoid large images (especially photos from mobiles), most websites

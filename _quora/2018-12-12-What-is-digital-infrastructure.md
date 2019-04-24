@@ -1,8 +1,9 @@
 ---
 date: '2018-12-12'
+language: fr
+original_url: 'https://quora.com/What-is-digital-infrastructure/answer/Clément-Renaud'
 source: quora
-language: en
-title: 'Clément Renaud\''s answer to What is digital infrastructure?'
+title: 'What is digital infrastructure?'
 ---
 
 Digital infrastructure usually represents the physical assets required

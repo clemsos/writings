@@ -1,10 +1,11 @@
 ---
 date: '2018-08-28'
+language: fr
+original_url: 'https://quora.com/Will-Greater-Bay-Area-erase-border-legal-system-politics-and-economic-system-between-HK-Macau-and-China/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Will Greater Bay Area erase border, legal
-    system, politics, and economic system between HK, Macau and China?
+    Will Greater Bay Area erase border, legal system, politics, and economic
+    system between HK, Macau and China?
 ---
 
 No. It is much more effective and interesting to have four different

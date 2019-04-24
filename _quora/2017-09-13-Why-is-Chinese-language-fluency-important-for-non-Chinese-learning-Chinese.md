@@ -1,10 +1,11 @@
 ---
 date: '2017-09-13'
+language: fr
+original_url: 'https://quora.com/Why-is-Chinese-language-fluency-important-for-non-Chinese-learning-Chinese/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Why is Chinese language fluency important
-    for non-Chinese learning Chinese?
+    Why is Chinese language fluency important for non-Chinese learning
+    Chinese?
 ---
 
 Usually, the first important reason to be fluent is to talk to Chinese

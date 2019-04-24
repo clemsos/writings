@@ -1,11 +1,12 @@
 ---
 date: '2014-06-16'
+language: fr
+original_url: 'https://quora.com/I-am-from-China-I-want-to-know-how-to-teach-a-child-to-be-more-creative-to-think-more-not-only-to-work-hard-but-to-enjoy-their-time-How-do-I-do-that/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    I am from China. I want to know how to teach
-    a child to be more creative, to think more, not only to work hard, but
-    to enjoy their time. How do I do that?
+    I am from China. I want to know how to teach a child to be more
+    creative, to think more, not only to work hard, but to enjoy their time.
+    How do I do that?
 ---
 
 From my experience with teaching and training Chinese kids, the best is

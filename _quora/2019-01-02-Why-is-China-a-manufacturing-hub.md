@@ -1,8 +1,9 @@
 ---
 date: '2019-01-02'
+language: fr
+original_url: 'https://quora.com/Why-is-China-a-manufacturing-hub/answer/Clément-Renaud'
 source: quora
-language: en
-title: 'Clément Renaud\''s answer to Why is China a manufacturing hub?'
+title: 'Why is China a manufacturing hub?'
 ---
 
 For decades, Mao was obsessed with China's industrial growth.

@@ -1,10 +1,9 @@
 ---
 date: '2014-07-21'
+language: fr
+original_url: 'https://quora.com/What-small-things-in-life-are-not-respected-like-they-should-be/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What small things in life are not respected
-    like they should be?
+title: 'What small things in life are not respected like they should be?'
 ---
 
 sleep

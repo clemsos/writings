@@ -1,10 +1,9 @@
 ---
 date: '2013-08-02'
+language: fr
+original_url: 'https://quora.com/Social-Media-Management-How-do-you-cross-post-from-Tumblr-to-Instagram/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Social Media Management: How do you cross
-    post from Tumblr to Instagram?
+title: 'Social Media Management: How do you cross post from Tumblr to Instagram?'
 ---
 
 Try iffft\

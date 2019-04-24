@@ -1,10 +1,9 @@
 ---
 date: '2013-08-02'
+language: fr
+original_url: 'https://quora.com/What-are-some-mind-blowing-facts-about-Google-Chromecast/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What are some mind-blowing facts about
-    Google Chromecast?
+title: 'What are some mind-blowing facts about Google Chromecast?'
 ---
 
 It is actually a copycat of Rikomagic products, a Chinese company

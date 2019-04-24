@@ -1,10 +1,9 @@
 ---
 date: '2014-04-02'
+language: fr
+original_url: 'https://quora.com/What-implementations-of-the-Blondel-Louvain-algorithm-exist/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What implementations of the Blondel
-    (Louvain) algorithm exist?
+title: 'What implementations of the Blondel (Louvain) algorithm exist?'
 ---
 
 The [Community detection for

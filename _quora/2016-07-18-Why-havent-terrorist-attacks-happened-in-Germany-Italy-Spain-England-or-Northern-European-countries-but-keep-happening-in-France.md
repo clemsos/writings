@@ -1,11 +1,11 @@
 ---
 date: '2016-07-18'
+language: fr
+original_url: 'https://quora.com/Why-havent-terrorist-attacks-happened-in-Germany-Italy-Spain-England-or-Northern-European-countries-but-keep-happening-in-France/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Why haven\'t terrorist attacks happened in
-    Germany, Italy, Spain, England or Northern European countries but keep
-    happening in France?
+    Why haven\'t terrorist attacks happened in Germany, Italy, Spain,
+    England or Northern European countries but keep happening in France?
 ---
 
 One of the main reason is that when you hit France, you got free

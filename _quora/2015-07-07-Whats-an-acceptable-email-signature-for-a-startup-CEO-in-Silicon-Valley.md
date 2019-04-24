@@ -1,10 +1,11 @@
 ---
 date: '2015-07-07'
+language: fr
+original_url: 'https://quora.com/Whats-an-acceptable-email-signature-for-a-startup-CEO-in-Silicon-Valley/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What\'s an acceptable email signature for a
-    startup CEO in Silicon Valley?
+    What\'s an acceptable email signature for a startup CEO in Silicon
+    Valley?
 ---
 
 This is a precious resource to find a relevant title for your email

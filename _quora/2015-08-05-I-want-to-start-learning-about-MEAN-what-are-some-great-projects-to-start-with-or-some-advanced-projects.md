@@ -1,10 +1,11 @@
 ---
 date: '2015-08-05'
+language: fr
+original_url: 'https://quora.com/I-want-to-start-learning-about-MEAN-what-are-some-great-projects-to-start-with-or-some-advanced-projects/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    I want to start learning about MEAN, what
-    are some great projects to start with or some advanced projects?
+    I want to start learning about MEAN, what are some great projects to
+    start with or some advanced projects?
 ---
 
 You could try to-do lists or e-commerce app to get acquainted with the

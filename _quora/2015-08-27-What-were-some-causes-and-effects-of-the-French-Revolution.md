@@ -1,10 +1,9 @@
 ---
 date: '2015-08-27'
+language: fr
+original_url: 'https://quora.com/What-were-some-causes-and-effects-of-the-French-Revolution/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What were some causes and effects of the
-    French Revolution?
+title: 'What were some causes and effects of the French Revolution?'
 ---
 
 The causes were a decadent and absolutely corrupt ruling class, a

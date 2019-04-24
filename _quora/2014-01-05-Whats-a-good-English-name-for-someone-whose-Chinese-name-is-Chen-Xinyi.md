@@ -1,10 +1,11 @@
 ---
 date: '2014-01-05'
+language: fr
+original_url: 'https://quora.com/Whats-a-good-English-name-for-someone-whose-Chinese-name-is-Chen-Xinyi/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What\'s a good English name for someone
-    whose Chinese name is Chen Xinyi?
+    What\'s a good English name for someone whose Chinese name is Chen
+    Xinyi?
 ---
 
 Agree with [Sara](http://quora.com/profile/Sarah-Thomas-43)h, your name

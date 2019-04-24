@@ -1,10 +1,11 @@
 ---
 date: '2018-12-04'
+language: fr
+original_url: 'https://quora.com/Why-are-French-people-protesting-so-massively-Is-it-only-for-the-fuel-tax-or-there-is-more-behind-it/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Why are French people protesting so
-    massively? Is it only for the fuel tax or there is more behind it?
+    Why are French people protesting so massively? Is it only for the fuel
+    tax or there is more behind it?
 ---
 
 There is much more to it than the fuel tax. To understand a bit better,

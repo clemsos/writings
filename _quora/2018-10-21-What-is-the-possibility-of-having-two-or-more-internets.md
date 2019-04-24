@@ -1,10 +1,9 @@
 ---
 date: '2018-10-21'
+language: fr
+original_url: 'https://quora.com/What-is-the-possibility-of-having-two-or-more-internets/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What is the possibility of having two or
-    more internets?
+title: 'What is the possibility of having two or more internets?'
 ---
 
 Raise your head and take a good look around you. Do you seriously think

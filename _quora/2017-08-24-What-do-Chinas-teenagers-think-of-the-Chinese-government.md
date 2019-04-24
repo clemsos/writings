@@ -1,10 +1,9 @@
 ---
 date: '2017-08-24'
+language: fr
+original_url: 'https://quora.com/What-do-Chinas-teenagers-think-of-the-Chinese-government/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What do China\'s teenagers think of the
-    Chinese government?
+title: 'What do China\''s teenagers think of the Chinese government?'
 ---
 
 As Paul mentioned, the kids don\'t think much about the government, but

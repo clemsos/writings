@@ -1,10 +1,11 @@
 ---
 date: '2017-02-19'
+language: fr
+original_url: 'https://quora.com/What-biographies-should-I-read-to-have-a-better-understanding-of-Chinese-history/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What biographies should I read to have a
-    better understanding of Chinese history?
+    What biographies should I read to have a better understanding of Chinese
+    history?
 ---
 
 One of the most important and emblematic figure of Chinese history in
@@ -23,7 +24,7 @@ English. I warmly recommend to read one, first to fully grasp China's
 role in this very important period of recent history, and second to get
 acquainted with this astonishing character.
 
-![](./img/main-qimg-fb154549200dc0aa9d36f32304cfa899-c.png)
+![](main-qimg-fb154549200dc0aa9d36f32304cfa899-c.png)
 
 [TIME Magazine Cover: Chiang Kai-shek & Mme. Chiang - Oct. 26,
 1931](http://content.time.com/time/covers/0,16641,19311026,00.html)

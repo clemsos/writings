@@ -1,12 +1,12 @@
 ---
 date: '2014-07-22'
+language: fr
+original_url: 'https://quora.com/How-do-I-write-a-research-paper-with-a-scientific-voice-I-was-told-by-my-mentor-that-my-writing-is-confusing-and-also-that-it-seems-as-if-I-dont-know-anything-about-the-research-topic-at-hand/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    How do I write a research paper with a
-    scientific \'voice\'? I was told by my mentor that my writing is
-    confusing and also that it seems as if I don\'t know anything about the
-    research topic at hand.
+    How do I write a research paper with a scientific \'voice\'? I was told
+    by my mentor that my writing is confusing and also that it seems as if I
+    don\'t know anything about the research topic at hand.
 ---
 
 Forget about \"scientific voice\"  and start taking care about story,

@@ -1,10 +1,9 @@
 ---
 date: '2014-06-23'
+language: fr
+original_url: 'https://quora.com/What-have-been-the-consequences-of-the-French-law-banning-the-Burka/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What have been the consequences of the
-    French law banning the Burka?
+title: 'What have been the consequences of the French law banning the Burka?'
 ---
 
 One of the main consequence has been to create a long and painful racist

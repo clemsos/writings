@@ -1,10 +1,9 @@
 ---
 date: '2012-08-03'
+language: fr
+original_url: 'https://quora.com/Are-there-any-tastypie-tutorials-for-newbies-on-the-web/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    Are there any tastypie tutorials for newbies
-    on the web?
+title: 'Are there any tastypie tutorials for newbies on the web?'
 ---
 
 try this :

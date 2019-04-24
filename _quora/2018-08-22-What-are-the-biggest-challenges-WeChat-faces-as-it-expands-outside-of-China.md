@@ -1,10 +1,11 @@
 ---
 date: '2018-08-22'
+language: fr
+original_url: 'https://quora.com/What-are-the-biggest-challenges-WeChat-faces-as-it-expands-outside-of-China/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What are the biggest challenges WeChat faces
-    as it expands outside of China?
+    What are the biggest challenges WeChat faces as it expands outside of
+    China?
 ---
 
 Outside China, it won\'t benefit from the giant user base Tencent had

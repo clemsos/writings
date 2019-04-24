@@ -1,8 +1,9 @@
 ---
 date: '2015-02-16'
+language: fr
+original_url: 'https://quora.com/How-does-one-start-a-tech-incubator/answer/Clément-Renaud'
 source: quora
-language: en
-title: 'Clément Renaud\''s answer to How does one start a tech incubator?'
+title: 'How does one start a tech incubator?'
 ---
 
 Hey, I have actually been asking the same sort of question to myself

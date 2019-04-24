@@ -1,11 +1,11 @@
 ---
 date: '2018-09-07'
+language: fr
+original_url: 'https://quora.com/Has-the-rise-of-the-gig-economy-contributed-to-greater-wealth-disparity-and-inequality-as-Thomas-Piketty-suggests-in-this-chart/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    Has the rise of the gig economy contributed
-    to greater wealth disparity and inequality as Thomas Piketty suggests in
-    this chart?
+    Has the rise of the gig economy contributed to greater wealth disparity
+    and inequality as Thomas Piketty suggests in this chart?
 ---
 
 Piketty's chart itself suggests nothing about the gig economy.

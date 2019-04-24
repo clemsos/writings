@@ -1,10 +1,9 @@
 ---
 date: '2017-06-20'
+language: fr
+original_url: 'https://quora.com/What-is-your-first-impression-when-you-arrive-in-Shenzhen/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What is your first impression when you
-    arrive in Shenzhen?
+title: 'What is your first impression when you arrive in Shenzhen?'
 ---
 
 The pace of the city is incredibly fast. No one is older than 40 years

@@ -1,10 +1,11 @@
 ---
 date: '2018-08-25'
+language: fr
+original_url: 'https://quora.com/What-type-of-web-apps-is-Flask-better-for-and-what-type-of-web-apps-is-Django-better-for/answer/Clément-Renaud'
 source: quora
-language: en
 title: |
-    What type of web apps is Flask better for,
-    and what type of web apps is Django better for?
+    What type of web apps is Flask better for, and what type of web apps is
+    Django better for?
 ---
 
 Flask is a bit lighter and lower level than Django, so I prefer Flask

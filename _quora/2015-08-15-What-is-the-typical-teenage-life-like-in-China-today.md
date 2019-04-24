@@ -1,10 +1,9 @@
 ---
 date: '2015-08-15'
+language: fr
+original_url: 'https://quora.com/What-is-the-typical-teenage-life-like-in-China-today/answer/Clément-Renaud'
 source: quora
-language: en
-title: |
-    What is the typical teenage life like in
-    China today?
+title: 'What is the typical teenage life like in China today?'
 ---
 
 Get up at 6am, eat noodles, go to school, do some gym, attend class, eat
