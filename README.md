@@ -4,7 +4,7 @@ This repo contains things I wrote over the course of the years.
 
 The goals are :
 
-- prove to myself that I can write (lol)
+- prove to myself that I write
 - consolidate previous writings into a single repo
 - exit platforms and own my things locally
 - convert everything into markdown (with meta and date)
