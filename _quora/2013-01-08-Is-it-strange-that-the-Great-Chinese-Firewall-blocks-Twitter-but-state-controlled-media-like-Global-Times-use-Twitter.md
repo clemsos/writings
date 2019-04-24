@@ -5,7 +5,7 @@ language: en
 title: |
     Is it strange that the Great Chinese
     Firewall blocks Twitter but state-controlled media like Global Times use
-    Twitter? - Quora
+    Twitter?
 ---
 
 A nice paradox indeed :)\

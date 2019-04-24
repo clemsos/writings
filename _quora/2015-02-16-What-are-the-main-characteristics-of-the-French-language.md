@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are the main characteristics of the
-    French language? - Quora
+    French language?
 ---
 
 **An extreme, almost pathological concern about the time passing.**\

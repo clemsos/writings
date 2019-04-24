@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What\'s an acceptable email signature for a
-    startup CEO in Silicon Valley? - Quora
+    startup CEO in Silicon Valley?
 ---
 
 This is a precious resource to find a relevant title for your email

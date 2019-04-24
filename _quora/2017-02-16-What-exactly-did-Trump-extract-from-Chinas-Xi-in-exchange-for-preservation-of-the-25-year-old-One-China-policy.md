@@ -4,8 +4,7 @@ source: quora
 language: en
 title: |
     What exactly did Trump extract from China\'s
-    Xi in exchange for preservation of the 25 year old One China policy? -
-    Quora
+    Xi in exchange for preservation of the 25 year old One China policy?
 ---
 
 Maybe some valuable IP for its own brand : [China awards Trump valuable

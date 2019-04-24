@@ -6,7 +6,7 @@ title: |
     What are the most significant flawed
     assumptions in economics? In particular, what assumptions have led to
     incorrect theories which have been used to justify harmful and failed
-    public policies? - Quora
+    public policies?
 ---
 
 The very idea that economics can become an autonomous discipline, as in

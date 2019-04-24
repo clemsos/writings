@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How do I answer when my 11 year old son asks
-    if I\'ve ever taken drugs? - Quora
+    if I\'ve ever taken drugs?
 ---
 
 The first time my father came across some pot I forgot in my pants, he

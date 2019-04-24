@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Where are the offices of Charlie Hebdo
-    located in Paris? - Quora
+    located in Paris?
 ---
 
 10 rue Nicolas Appert near the Boulevard Richard-Lenoir, between

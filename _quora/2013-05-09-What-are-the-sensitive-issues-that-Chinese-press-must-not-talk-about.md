@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are the sensitive issues that Chinese
-    press must not talk about? - Quora
+    press must not talk about?
 ---
 
 Falun Gong\

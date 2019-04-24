@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Is it OK to visit Greece as a tourist now
-    (Jul 2015)? - Quora
+    (Jul 2015)?
 ---
 
 Regarding other answers about ATM limitations : it doesn\'t apply to

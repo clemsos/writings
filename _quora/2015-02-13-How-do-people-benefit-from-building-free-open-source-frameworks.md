@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How do people benefit from building free
-    open source frameworks? - Quora
+    open source frameworks?
 ---
 
 Presenting open-source as a hobby is an untrue way to look at it. Most

@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What would a Uighur version of Joshua Wong
-    or the Dalai Lama look like? - Quora
+    or the Dalai Lama look like?
 ---
 
 It will look much less relatable to a Western audience than those two.

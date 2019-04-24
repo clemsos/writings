@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What do China\'s teenagers think of the
-    Chinese government? - Quora
+    Chinese government?
 ---
 
 As Paul mentioned, the kids don\'t think much about the government, but

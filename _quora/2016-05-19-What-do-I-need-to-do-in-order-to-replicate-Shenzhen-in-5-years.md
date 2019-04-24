@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What do I need to do in order to replicate
-    Shenzhen in \<5 years? - Quora
+    Shenzhen in \<5 years?
 ---
 
 I will say you need everything Quora User mentioned, plus another thing

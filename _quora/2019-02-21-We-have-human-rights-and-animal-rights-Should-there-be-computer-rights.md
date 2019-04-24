@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     We have human rights and animal rights.
-    Should there be computer rights? - Quora
+    Should there be computer rights?
 ---
 
 Interesting question. Let\'s first consider the rights of nonhuman

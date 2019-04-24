@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are some Mandarin words that have no
-    English equivalent? - Quora
+    English equivalent?
 ---
 
 舒服 shufu. One of the Chinese word I like the most. It means at the

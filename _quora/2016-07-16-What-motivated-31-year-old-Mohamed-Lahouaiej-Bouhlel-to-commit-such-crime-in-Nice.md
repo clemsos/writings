@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What motivated 31 year old Mohamed Lahouaiej
-    Bouhlel to commit such crime in Nice? - Quora
+    Bouhlel to commit such crime in Nice?
 ---
 
 Despite what the answers here seems to imply, it is still absolutely

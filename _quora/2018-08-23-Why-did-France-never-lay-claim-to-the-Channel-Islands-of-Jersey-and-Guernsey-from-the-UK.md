@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Why did France never lay claim to the
-    Channel Islands of Jersey and Guernsey from the UK? - Quora
+    Channel Islands of Jersey and Guernsey from the UK?
 ---
 
 Victor Hugo sum it up by saying that Guernsey and Jersey were "*pieces

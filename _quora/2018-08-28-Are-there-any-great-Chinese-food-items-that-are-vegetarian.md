@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Are there any great Chinese food items that
-    are vegetarian? - Quora
+    are vegetarian?
 ---
 
 Tofu.

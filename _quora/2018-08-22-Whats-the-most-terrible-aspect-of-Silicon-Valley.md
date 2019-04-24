@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What\'s the most terrible aspect of Silicon
-    Valley? - Quora
+    Valley?
 ---
 
 It presents itself as the most sophisticated version of our world but

@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Is there any lawsuit between Sina Weibo and
-    Twitter because they are identical? - Quora
+    Twitter because they are identical?
 ---
 
 No, there isn\'t one.\

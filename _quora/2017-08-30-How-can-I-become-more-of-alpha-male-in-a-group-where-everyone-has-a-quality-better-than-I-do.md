@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How can I become more of alpha male in a
-    group where everyone has a quality better than I do? - Quora
+    group where everyone has a quality better than I do?
 ---
 
 The most useful quality you can develop is patience. Just wait until all

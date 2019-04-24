@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What do you think about China\'s Social
-    Credit System? - Quora
+    Credit System?
 ---
 
 I think that the directives published by Beijing and their local

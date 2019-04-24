@@ -5,7 +5,7 @@ language: en
 title: |
     Why did the Chinese government criticize
     Alibaba\'s business practices in January of 2015? Was this politically
-    motivated in some way? - Quora
+    motivated in some way?
 ---
 
 I think it has to do with an attempt to turn \"made in China\" into a

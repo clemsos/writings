@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are some different methods for
-    protecting intellectual property? - Quora
+    protecting intellectual property?
 ---
 
 Open-source your project and manage properly your community of users and

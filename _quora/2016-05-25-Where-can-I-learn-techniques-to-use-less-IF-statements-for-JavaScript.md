@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Where can I learn techniques to use less IF
-    statements for JavaScript? - Quora
+    statements for JavaScript?
 ---
 
 You can write if statement inline.

@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What\'s the difference between Etherium and
-    Etherium Classic (ETC)? - Quora
+    Etherium Classic (ETC)?
 ---
 
 ETC is a fork of ETH that happened after the DAO hack. The ETH community

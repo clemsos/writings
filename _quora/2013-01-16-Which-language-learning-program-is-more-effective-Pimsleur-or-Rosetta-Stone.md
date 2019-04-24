@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Which language learning program is more
-    effective: Pimsleur or Rosetta Stone? - Quora
+    effective: Pimsleur or Rosetta Stone?
 ---
 
 I used *Pimsleur* and *Rosetta* when I started learning Chinese few

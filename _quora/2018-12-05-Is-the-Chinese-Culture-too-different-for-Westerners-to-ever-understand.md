@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Is the Chinese Culture too different for
-    Westerners to ever understand? - Quora
+    Westerners to ever understand?
 ---
 
 Is mathematics to complicated to understand? Depends on what your goal

@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How can foreigners use WeChat wallet or
-    Alipay when visiting China? - Quora
+    Alipay when visiting China?
 ---
 
 You need to add your visa card and passport information, then you can

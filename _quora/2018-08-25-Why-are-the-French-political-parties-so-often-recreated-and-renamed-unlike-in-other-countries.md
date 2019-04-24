@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Why are the French political parties so
-    often recreated and renamed unlike in other countries? - Quora
+    often recreated and renamed unlike in other countries?
 ---
 
 To purge organizations, install a new leadership and shift away from

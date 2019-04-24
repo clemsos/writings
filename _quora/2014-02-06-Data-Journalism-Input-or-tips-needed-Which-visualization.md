@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Data Journalism: Input or tips needed: Which
-    visualization? - Quora
+    visualization?
 ---
 
 As mentioned below by [Matt Lutze](http://quora.com/profile/Matt-Lutze),

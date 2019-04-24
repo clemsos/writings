@@ -5,7 +5,7 @@ language: en
 title: |
     What do the average French think of actor
     Gerard Dépardieu being offered Russian citizenship, and accepting, to
-    avoid high French taxes? - Quora
+    avoid high French taxes?
 ---
 
 This is a scandal that happened already before with other stars in

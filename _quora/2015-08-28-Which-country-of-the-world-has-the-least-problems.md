@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Which country of the world has the least
-    problems? - Quora
+    problems?
 ---
 
 Originally Answered: [What are the world\'s least dysfunctional

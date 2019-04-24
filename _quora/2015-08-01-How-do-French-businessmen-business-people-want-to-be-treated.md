@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How do French businessmen (business people)
-    want to be treated? - Quora
+    want to be treated?
 ---
 
 Be straightforward and emphasize the quality of your relationship over

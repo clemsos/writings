@@ -5,7 +5,7 @@ language: en
 title: |
     Which tools are available to collect social
     network data, aside from Netvizz, Twecoll, Divud, and Psychemedia
-    Script? - Quora
+    Script?
 ---
 
 I am using a Node server and [hyve](https://github.com/Tawlk/hyve/).js

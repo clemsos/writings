@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How can I store or save data as a draft in
-    MongoDB? - Quora
+    MongoDB?
 ---
 
 There is no such thing as a draft in Mongo. Some approaches could be :\

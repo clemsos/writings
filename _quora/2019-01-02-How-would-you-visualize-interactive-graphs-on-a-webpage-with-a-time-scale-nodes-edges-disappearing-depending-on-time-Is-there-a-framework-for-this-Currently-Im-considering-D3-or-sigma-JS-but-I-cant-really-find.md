@@ -6,7 +6,7 @@ title: |
     How would you visualize interactive graphs
     on a webpage with a time scale (nodes, edges disappearing depending on
     time)? Is there a framework for this? Currently I\'m considering D3 or
-    sigma.JS, but I can\'t really find examples for these. - Quora
+    sigma.JS, but I can\'t really find examples for these.
 ---
 
 I have developed an open-source tool exactly for that purpose :

@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are some travel tips for visiting
-    China? - Quora
+    China?
 ---
 
 Originally Answered: [What are some useful tips when traveling to

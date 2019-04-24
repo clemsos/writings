@@ -5,7 +5,7 @@ language: en
 title: |
     Why is France\'s President Macron talking
     tough about China when he is facing so many problems in French society
-    and in the EU? - Quora
+    and in the EU?
 ---
 
 He is not - see @[Robin

@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Which universities are in Ningbo, China and
-    which fields are they strong in? - Quora
+    which fields are they strong in?
 ---
 
 I know Ningbo university have been experimenting with intedisciplinary

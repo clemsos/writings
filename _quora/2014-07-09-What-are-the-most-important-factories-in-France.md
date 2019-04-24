@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are the most important factories in
-    France? - Quora
+    France?
 ---
 
 The Airbus plane factory in Toulouse is the biggest insudtrial site in

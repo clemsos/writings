@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     If French food is so great tasting, why
-    don't we see more French restaurants? - Quora
+    don't we see more French restaurants?
 ---
 
 **You rarely see French restaurants abroad because "French cuisine"

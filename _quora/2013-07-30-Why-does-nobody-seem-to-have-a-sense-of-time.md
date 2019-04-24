@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Why does nobody seem to have a sense of
-    time? - Quora
+    time?
 ---
 
 The people you met may have some different views on why you should or

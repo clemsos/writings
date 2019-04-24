@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What does the Uber-Didi deal teach us about
-    foreign tech companies trying to do business in China? - Quora
+    foreign tech companies trying to do business in China?
 ---
 
 That Uber was allowed to survive that long and get a good deal at the

@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What won't Silicon Valley admit about
-    technology and progress? - Quora
+    technology and progress?
 ---
 
 That innovation is a lesser version of progress, where social and

@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What does spending \$20bn on the world\'s
-    longest bridge say about the strength of China\'s economy? - Quora
+    longest bridge say about the strength of China\'s economy?
 ---
 
 There is this very interesting book by French writer Georges Bataille

@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Are Shanghai husbands the most lady-whipped
-    men in China? - Quora
+    men in China?
 ---
 
 I was once in Shanghai, waiting for someone who was late. It was on

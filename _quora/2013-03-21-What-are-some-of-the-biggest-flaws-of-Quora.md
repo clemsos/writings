@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are some of the biggest flaws of Quora?
-    - Quora
+   
 ---
 
 Originally Answered: [What do you think is the biggest flaw of

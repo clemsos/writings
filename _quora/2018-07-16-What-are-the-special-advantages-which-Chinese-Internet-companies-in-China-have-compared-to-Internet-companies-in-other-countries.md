@@ -5,7 +5,7 @@ language: en
 title: |
     What are the special advantages which
     Chinese Internet companies in China have compared to Internet companies
-    in other countries? - Quora
+    in other countries?
 ---
 
 Apart from the political context that other answers have mentioned,

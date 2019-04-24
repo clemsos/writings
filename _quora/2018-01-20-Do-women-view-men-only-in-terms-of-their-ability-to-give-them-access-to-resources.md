@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Do women view men only in terms of their
-    ability to give them access to resources? - Quora
+    ability to give them access to resources?
 ---
 
 Originally Answered: [Does love even exist or do women just want you for

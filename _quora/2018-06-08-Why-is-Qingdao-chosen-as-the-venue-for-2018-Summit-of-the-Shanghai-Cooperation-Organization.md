@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Why is Qingdao chosen as the venue for 2018
-    Summit of the Shanghai Cooperation Organization? - Quora
+    Summit of the Shanghai Cooperation Organization?
 ---
 
 Qingdao has a vast number of high-end and luxury resorts, plus a growing

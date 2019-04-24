@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How does Google justify working with the
-    Chinese government but refusing to work with the US military? - Quora
+    Chinese government but refusing to work with the US military?
 ---
 
 Originally Answered: [Why is Google refusing to work with the US

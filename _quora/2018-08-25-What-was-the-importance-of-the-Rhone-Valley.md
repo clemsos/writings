@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What was the importance of the Rhone Valley?
-    - Quora
+   
 ---
 
 The Rhône takes his source in one of the most prosperous part of Europe

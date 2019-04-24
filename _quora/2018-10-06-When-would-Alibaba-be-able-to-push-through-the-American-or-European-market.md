@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     When would Alibaba be able to push through
-    the American or European market? - Quora
+    the American or European market?
 ---
 
 Aliexpress has already been launched in several countries in Europe.

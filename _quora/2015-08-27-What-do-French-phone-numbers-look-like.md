@@ -3,8 +3,7 @@ date: '2015-08-27'
 source: quora
 language: en
 title: |
-    What do French phone numbers look like? -
-    Quora
+    What do French phone numbers look like?
 ---
 
 Phone numbers in France are made of 10 digits

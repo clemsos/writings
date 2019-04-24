@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What is the origin of Charlie Hebdo\'s name?
-    - Quora
+   
 ---
 
 The journal was given this nickname as a joke about Charles de Gaulle,

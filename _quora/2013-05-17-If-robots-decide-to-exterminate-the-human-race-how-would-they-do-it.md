@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     If robots decide to exterminate the human
-    race, how would they do it? - Quora
+    race, how would they do it?
 ---
 
 Take over power plants

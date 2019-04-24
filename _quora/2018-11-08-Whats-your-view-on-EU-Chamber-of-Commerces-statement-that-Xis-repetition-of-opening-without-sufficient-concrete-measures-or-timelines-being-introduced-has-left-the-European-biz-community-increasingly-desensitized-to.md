@@ -7,7 +7,7 @@ title: |
     Commerce\'s statement that Xi\'s repetition of opening, without
     sufficient concrete measures or timelines being introduced, has left the
     European biz community increasingly desensitized to these kinds of
-    promises? - Quora
+    promises?
 ---
 
 The statement shows how out of touch the EU leaders are. Even the US has

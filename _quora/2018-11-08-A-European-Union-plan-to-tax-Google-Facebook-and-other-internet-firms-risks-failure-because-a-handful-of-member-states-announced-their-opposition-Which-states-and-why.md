@@ -5,7 +5,7 @@ language: en
 title: |
     A European Union plan to tax Google,
     Facebook and other internet firms, risks failure because a handful of
-    member states announced their opposition. Which states and why? - Quora
+    member states announced their opposition. Which states and why?
 ---
 
 It could be any nations that was promised jobs from Google.

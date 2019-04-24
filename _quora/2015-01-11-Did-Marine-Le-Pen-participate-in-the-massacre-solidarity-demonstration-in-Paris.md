@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Did Marine Le Pen participate in the
-    massacre solidarity demonstration in Paris? - Quora
+    massacre solidarity demonstration in Paris?
 ---
 
 She ends up in Beaucaire, a small village which the mayor from her party

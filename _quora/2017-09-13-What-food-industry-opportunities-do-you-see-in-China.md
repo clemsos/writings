@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What food industry opportunities do you see
-    in China? - Quora
+    in China?
 ---
 
 Organic food. A simple label will not work (nobody trust this sort of

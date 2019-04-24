@@ -3,8 +3,7 @@ date: '2015-04-15'
 source: quora
 language: en
 title: |
-    How do documentary makers find subjects? -
-    Quora
+    How do documentary makers find subjects?
 ---
 
 Your real subject is a story, not a topic really. Documentaries have

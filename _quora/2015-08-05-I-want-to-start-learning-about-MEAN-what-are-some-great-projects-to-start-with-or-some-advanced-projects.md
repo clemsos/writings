@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     I want to start learning about MEAN, what
-    are some great projects to start with or some advanced projects? - Quora
+    are some great projects to start with or some advanced projects?
 ---
 
 You could try to-do lists or e-commerce app to get acquainted with the

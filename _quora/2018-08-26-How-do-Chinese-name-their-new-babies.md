@@ -3,8 +3,7 @@ date: '2018-08-26'
 source: quora
 language: en
 title: |
-    How do Chinese name their new babies? -
-    Quora
+    How do Chinese name their new babies?
 ---
 
 I know several people who bought a name online for their children.

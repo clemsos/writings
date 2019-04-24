@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     As a non-Chinese, how do you feel about the
-    \'Occupy Central\' movement of Hong Kong? - Quora
+    \'Occupy Central\' movement of Hong Kong?
 ---
 
 It is originaly an interesting initiative following Occupy Wall Street

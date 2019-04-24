@@ -4,8 +4,7 @@ source: quora
 language: en
 title: |
     Will Greater Bay Area erase border, legal
-    system, politics, and economic system between HK, Macau and China? -
-    Quora
+    system, politics, and economic system between HK, Macau and China?
 ---
 
 No. It is much more effective and interesting to have four different

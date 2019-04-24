@@ -3,8 +3,7 @@ date: '2015-08-27'
 source: quora
 language: en
 title: |
-    What are some good French rap artists? -
-    Quora
+    What are some good French rap artists?
 ---
 
 The compilation *Rapattitude 2* gather a selection of the greatest songs

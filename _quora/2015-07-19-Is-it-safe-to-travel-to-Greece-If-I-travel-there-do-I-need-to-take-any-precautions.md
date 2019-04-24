@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Is it safe to travel to Greece? If I travel
-    there, do I need to take any precautions? - Quora
+    there, do I need to take any precautions?
 ---
 
 Yes, absolutely safe. I am travelling in Greece right now and there is

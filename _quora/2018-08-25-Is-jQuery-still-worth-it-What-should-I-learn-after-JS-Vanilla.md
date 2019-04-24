@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Is jQuery still worth it? What should I
-    learn after JS Vanilla? - Quora
+    learn after JS Vanilla?
 ---
 
 jQuery was made to add interaction to web pages but is not useful to

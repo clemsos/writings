@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How do you expect students to learn? What is
-    your understanding of learning? - Quora
+    your understanding of learning?
 ---
 
 Originally Answered: [How do you expect a student to learn? What is your

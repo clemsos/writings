@@ -5,7 +5,7 @@ language: en
 title: |
     Which one would be better to learn FIRST for
     someone who wants to build apps in JavaScript, angular or node-express?
-    - Quora
+   
 ---
 
 Well, I suggest that you just flip a coin and start a tutorial. \

@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How could a Francophile get over his or her
-    crush/obsession with France? - Quora
+    crush/obsession with France?
 ---
 
 just go there and see by yourself

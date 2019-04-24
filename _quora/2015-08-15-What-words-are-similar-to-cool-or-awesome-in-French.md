@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What words are similar to \'cool\' or
-    \'awesome\' in French? - Quora
+    \'awesome\' in French?
 ---
 
 \"Ça le fait !\"

@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Can you create a website in Chinese and sell
-    in China without government approval? - Quora
+    in China without government approval?
 ---
 
 Yes, totally. As long as you host your website outside China, language

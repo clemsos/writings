@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are some challenging projects/ research
-    problems in data mining that I can work on? - Quora
+    problems in data mining that I can work on?
 ---
 
 \"Can data mining help us to live better?\" seems a good place to start

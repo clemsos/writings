@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Why would it be bad for China if they took
-    over North Korea? - Quora
+    over North Korea?
 ---
 
 Because without North Korea, China will have a border with South Korea,

@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Could Italy be right and Europe wrong about
-    austerity? - Quora
+    austerity?
 ---
 
 Those are two different questions. I can not answer about Italy but

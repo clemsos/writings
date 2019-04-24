@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Should social science be more
-    solution-oriented? - Quora
+    solution-oriented?
 ---
 
 The idea of applied research in social sciences is of great interest.

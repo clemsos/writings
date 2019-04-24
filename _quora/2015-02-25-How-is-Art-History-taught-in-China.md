@@ -2,7 +2,7 @@
 date: '2015-02-25'
 source: quora
 language: en
-title: 'Clément Renaud\''s answer to How is Art History taught in China? - Quora'
+title: 'Clément Renaud\''s answer to How is Art History taught in China?'
 ---
 
 As [Guo Wei](http://quora.com/profile/Guo-Wei-6) mentioned, History of

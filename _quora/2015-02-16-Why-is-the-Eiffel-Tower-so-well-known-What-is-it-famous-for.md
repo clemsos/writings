@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Why is the Eiffel Tower so well known? What
-    is it famous for? - Quora
+    is it famous for?
 ---
 
 Originally Answered: [Why are we so obsessed with the Eiffel

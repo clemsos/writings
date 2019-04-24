@@ -3,8 +3,7 @@ date: '2015-07-21'
 source: quora
 language: en
 title: |
-    My IQ is 84. How can I get into Stanford? -
-    Quora
+    My IQ is 84. How can I get into Stanford?
 ---
 
 Don\'t take IQ test results too seriously, they are usually worthless.

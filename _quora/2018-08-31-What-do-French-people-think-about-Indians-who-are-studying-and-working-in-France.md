@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What do French people think about Indians
-    who are studying and working in France? - Quora
+    who are studying and working in France?
 ---
 
 For the most part, they don't think about them at all.

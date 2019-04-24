@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How do French men feel about being forbidden
-    by law to request a paternity test? - Quora
+    by law to request a paternity test?
 ---
 
 The restrictions on paternity tests are the expression of an idea that

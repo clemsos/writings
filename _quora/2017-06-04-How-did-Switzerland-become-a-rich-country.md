@@ -3,8 +3,7 @@ date: '2017-06-04'
 source: quora
 language: en
 title: |
-    How did Switzerland become a rich country? -
-    Quora
+    How did Switzerland become a rich country?
 ---
 
 The welcoming of immigrants plays a very important role in the

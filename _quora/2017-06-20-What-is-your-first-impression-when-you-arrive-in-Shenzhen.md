@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What is your first impression when you
-    arrive in Shenzhen? - Quora
+    arrive in Shenzhen?
 ---
 
 The pace of the city is incredibly fast. No one is older than 40 years

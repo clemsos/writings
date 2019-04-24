@@ -5,7 +5,7 @@ language: en
 title: |
     Why do many Google employees protest Project
     Dragonfly on moral and censorship grounds; don\'t they understand that
-    Google is a for-profit business? - Quora
+    Google is a for-profit business?
 ---
 
 With such bad name, I am starting to wonder if "Project Dragonfly" is

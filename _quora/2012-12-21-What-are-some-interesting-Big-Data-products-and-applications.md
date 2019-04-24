@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are some interesting Big Data products
-    and applications? - Quora
+    and applications?
 ---
 
 You can check on China Great Firewall, the governmental Internet

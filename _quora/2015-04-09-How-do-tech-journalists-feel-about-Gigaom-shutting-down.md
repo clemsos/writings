@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How do tech journalists feel about Gigaom
-    shutting down? - Quora
+    shutting down?
 ---
 
 This article offers an interesting reflection on why Gigaom fails and

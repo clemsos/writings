@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Is it harder for a native English speaker to
-    learn Arabic or Chinese? - Quora
+    learn Arabic or Chinese?
 ---
 
 As someone who has tried both, I will say Arabic is much easier to grasp

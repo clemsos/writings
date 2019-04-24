@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Does Tencent let people visit their HQ in
-    Shenzhen? - Quora
+    Shenzhen?
 ---
 
 Yes you can visit it but you need to be invited. People are working

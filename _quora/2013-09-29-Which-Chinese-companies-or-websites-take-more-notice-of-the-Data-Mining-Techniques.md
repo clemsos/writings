@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Which Chinese companies or websites take
-    more notice of the Data Mining Techniques? - Quora
+    more notice of the Data Mining Techniques?
 ---
 
 [果壳网 Guokr](http://guokr.com)is quite active in the data mining field

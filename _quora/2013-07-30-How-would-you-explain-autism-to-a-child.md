@@ -3,8 +3,7 @@ date: '2013-07-30'
 source: quora
 language: en
 title: |
-    How would you explain autism to a child? -
-    Quora
+    How would you explain autism to a child?
 ---
 
 Originally Answered: [How do you explain autism to a

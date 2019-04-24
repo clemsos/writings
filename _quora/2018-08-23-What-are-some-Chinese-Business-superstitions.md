@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are some Chinese Business
-    superstitions? - Quora
+    superstitions?
 ---
 
 Some numbers means something.

@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are white-label products in
-    manufacturing? - Quora
+    manufacturing?
 ---
 
 White-label products are products that get out of the factory without a

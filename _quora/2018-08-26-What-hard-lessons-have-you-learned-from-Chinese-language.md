@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What hard lessons have you learned from
-    Chinese language? - Quora
+    Chinese language?
 ---
 
 Time is a relative concept.

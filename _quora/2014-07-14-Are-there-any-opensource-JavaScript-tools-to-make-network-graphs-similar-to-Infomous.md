@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Are there any opensource JavaScript tools to
-    make network graphs similar to Infomous? - Quora
+    make network graphs similar to Infomous?
 ---
 
 Try [D3.js](http://d3js.org/).\

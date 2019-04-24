@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are some ongoing mega-projects in
-    China? - Quora
+    China?
 ---
 
 The[bridge from Zhuhai to

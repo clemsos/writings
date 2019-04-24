@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What is web data mining in layman\'s terms?
-    - Quora
+   
 ---
 
 Think about the web as a big dump of data (web pages, posts, images,

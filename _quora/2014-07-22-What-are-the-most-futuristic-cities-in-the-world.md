@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are the most futuristic cities in the
-    world? - Quora
+    world?
 ---
 
 **Dubai**\

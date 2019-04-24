@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Why the photo I posted in full image on sina
-    Weibo turns out to be not as clear as it should be? - Quora
+    Weibo turns out to be not as clear as it should be?
 ---
 
 To avoid large images (especially photos from mobiles), most websites

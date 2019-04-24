@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are important advantages and
-    disadvantages of Symphony CMS when compared to Ruby on Rails? - Quora
+    disadvantages of Symphony CMS when compared to Ruby on Rails?
 ---
 
 **Basically, Symphony is designed to build websites and Rails to build

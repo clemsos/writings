@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How do I get an electronic product
-    manufactured in China? - Quora
+    manufactured in China?
 ---
 
 Take a look at my answer here : [How do you

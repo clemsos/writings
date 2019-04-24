@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How many hours a day should I learn Chinese
-    to be fluent in a year? - Quora
+    to be fluent in a year?
 ---
 
 You won't be fluent by the end of a year anyway, but the number of hours

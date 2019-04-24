@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How does the Internet startup scene in China
-    differ when compared to that of Silicon Valley\'s? - Quora
+    differ when compared to that of Silicon Valley\'s?
 ---
 
 There is a very large scope of startup cultures and styles in China.\

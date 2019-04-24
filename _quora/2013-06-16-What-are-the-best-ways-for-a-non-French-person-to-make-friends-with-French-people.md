@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are the best ways for a non-French
-    person to make friends with French people? - Quora
+    person to make friends with French people?
 ---
 
 As anywhere else, just be curious about what people care about and do in

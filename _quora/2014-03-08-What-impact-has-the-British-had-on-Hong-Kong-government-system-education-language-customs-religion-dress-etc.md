@@ -5,7 +5,7 @@ language: en
 title: |
     What impact has the British had on Hong Kong
     (government system, education, language, customs, religion, dress,
-    etc.)? - Quora
+    etc.)?
 ---
 
 Tea with milk is a traditional drink in HK. Chinese traditional tea

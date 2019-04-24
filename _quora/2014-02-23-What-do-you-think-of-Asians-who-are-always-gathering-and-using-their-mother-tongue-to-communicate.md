@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What do you think of Asians who are always
-    gathering and using their mother tongue to communicate? - Quora
+    gathering and using their mother tongue to communicate?
 ---
 
 In addition to Paul\'s answer I will say that hanging with other

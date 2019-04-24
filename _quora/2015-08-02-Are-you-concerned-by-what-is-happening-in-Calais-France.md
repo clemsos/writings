@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Are you concerned by what is happening in
-    Calais (France)? - Quora
+    Calais (France)?
 ---
 
 What is happening in Calais is absolutely dramatic and every citizen in

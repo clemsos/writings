@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What made China think that the US would not
-    have a strong reaction to its rise of China narrative? - Quora
+    have a strong reaction to its rise of China narrative?
 ---
 
 Beijing started to believe in its own lies.

@@ -2,7 +2,7 @@
 date: '2018-08-22'
 source: quora
 language: en
-title: 'Clément Renaud\''s answer to Why was the Renaissance created? - Quora'
+title: 'Clément Renaud\''s answer to Why was the Renaissance created?'
 ---
 
 The Renaissance was created by historians as a concept to express

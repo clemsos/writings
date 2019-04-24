@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Why are millennials becoming artists?
-    Doesn\'t the world need more scientists? - Quora
+    Doesn\'t the world need more scientists?
 ---
 
 The world needs more artists. Science needs artists to generate new

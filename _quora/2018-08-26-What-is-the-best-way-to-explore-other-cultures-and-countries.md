@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What is the best way to explore other
-    cultures and countries? - Quora
+    cultures and countries?
 ---
 
 Spend time there alone without travelling too much. Take the time to

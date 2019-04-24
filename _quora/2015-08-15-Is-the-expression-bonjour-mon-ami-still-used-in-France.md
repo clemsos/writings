@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Is the expression \'bonjour mon ami\' still
-    used in France? - Quora
+    used in France?
 ---
 
 Calling each other \"mon ami\" is not very common today,  but I may use

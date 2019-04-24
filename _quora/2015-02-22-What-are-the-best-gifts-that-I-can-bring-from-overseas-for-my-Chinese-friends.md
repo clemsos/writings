@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are the best gifts that I can bring
-    from overseas for my Chinese friends? - Quora
+    from overseas for my Chinese friends?
 ---
 
 This is not really about the gift but more about the relationship you

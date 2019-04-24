@@ -3,8 +3,7 @@ date: '2014-09-26'
 source: quora
 language: en
 title: |
-    What type of research do Quorans work on? -
-    Quora
+    What type of research do Quorans work on?
 ---
 
 I just finished my phD research about data visualisation of [Internet

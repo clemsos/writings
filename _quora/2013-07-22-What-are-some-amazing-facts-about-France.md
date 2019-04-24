@@ -3,8 +3,7 @@ date: '2013-07-22'
 source: quora
 language: en
 title: |
-    What are some amazing facts about France? -
-    Quora
+    What are some amazing facts about France?
 ---
 
 Originally Answered: [What are some interesting facts about

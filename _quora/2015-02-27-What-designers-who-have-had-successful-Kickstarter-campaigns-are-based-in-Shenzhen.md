@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What designers who have had successful
-    Kickstarter campaigns are based in Shenzhen? - Quora
+    Kickstarter campaigns are based in Shenzhen?
 ---
 
 Almost all the projects that have been through the Haxlr8r incubator

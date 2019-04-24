@@ -5,7 +5,7 @@ language: en
 title: |
     How will Apple\'s announcement to open a
     research and development center in Shenzhen affect the startup and
-    makers movements there? - Quora
+    makers movements there?
 ---
 
 The announcement is an important validation for the local maker scene,

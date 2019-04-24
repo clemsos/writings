@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     I live in the United States, but I want to
-    find a job in Shanghai. How does one go about the search? - Quora
+    find a job in Shanghai. How does one go about the search?
 ---
 
 If visa is not an issue, then just buy a plane ticket and go there. More

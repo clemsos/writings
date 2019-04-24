@@ -2,7 +2,7 @@
 date: '2012-05-28'
 source: quora
 language: en
-title: 'Why is Facebook banned in China? - Quora'
+title: 'Why is Facebook banned in China?'
 ---
 
 Originally Answered: [Why is Facebook blocked in

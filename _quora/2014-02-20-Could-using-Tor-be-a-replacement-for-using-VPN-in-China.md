@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Could using Tor be a replacement for using
-    VPN in China? - Quora
+    VPN in China?
 ---
 
 Tor is blocked in China and therefore it won\'t be useful as a GFW

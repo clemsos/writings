@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Is there a list of eco-friendly municipal
-    developments in China, and how successful each project has been? - Quora
+    developments in China, and how successful each project has been?
 ---
 
 Every city in China has some sort of eco-friendly initiative ongoing,

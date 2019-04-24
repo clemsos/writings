@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How do ordinary Greeks see the Greece debt
-    crisis? - Quora
+    crisis?
 ---
 
 For what I have seen during the last days, people are exhausted by the

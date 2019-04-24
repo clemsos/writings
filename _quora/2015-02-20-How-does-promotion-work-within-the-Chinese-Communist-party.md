@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How does promotion work within the Chinese
-    Communist party? - Quora
+    Communist party?
 ---
 
 To rise within the Communist party is a lifelong process and the

@@ -5,7 +5,7 @@ language: en
 title: |
     How important are the HSK 汉语水平考试 exams
     for non-Chinese who want to demonstrate their Chinese language
-    proficiency to employers? - Quora
+    proficiency to employers?
 ---
 
 I passed HSK5 in Wuhan a few years ago, but I did not find it very

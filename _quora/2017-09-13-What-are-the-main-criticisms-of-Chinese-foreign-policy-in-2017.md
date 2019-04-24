@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are the main criticisms of Chinese
-    foreign policy in 2017? - Quora
+    foreign policy in 2017?
 ---
 
 Wasting their momentum by trying to be scary.

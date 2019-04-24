@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Government internet monitoring and
-    filtering? - Quora
+    filtering?
 ---
 
 There is of course no disclosure from the government about how the Great

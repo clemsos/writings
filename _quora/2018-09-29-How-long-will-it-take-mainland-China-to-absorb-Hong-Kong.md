@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How long will it take mainland China to
-    absorb Hong Kong? - Quora
+    absorb Hong Kong?
 ---
 
 What do you mean absorb? Countries don\'t absorb cities. Real life is

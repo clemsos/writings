@@ -5,7 +5,7 @@ language: en
 title: |
     What is the best place to meet Internet tech
     startup people such as VCs, entrepreneurs, or people working at startups
-    in Beijing and Shanghai? - Quora
+    in Beijing and Shanghai?
 ---
 
 You should try a coworking space called People Squared in Shanghai. They

@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Can I wash my cat by licking it like a cat
-    would? - Quora
+    would?
 ---
 
 Not a joke question ? Then this device may help you.

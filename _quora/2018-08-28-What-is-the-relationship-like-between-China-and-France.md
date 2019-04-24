@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What is the relationship like between China
-    and France? - Quora
+    and France?
 ---
 
 France was one of the first Western country to recognise the People

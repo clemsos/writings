@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What is the most appropriate way for an
-    outsider to approach university professors? - Quora
+    outsider to approach university professors?
 ---
 
 Read about their research and ask them a (precise) question about it -

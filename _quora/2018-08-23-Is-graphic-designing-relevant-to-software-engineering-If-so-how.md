@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Is graphic designing relevant to software
-    engineering? If so, how? - Quora
+    engineering? If so, how?
 ---
 
 Yes, a lot. It is call frontend engineering and involves making good

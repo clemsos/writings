@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How do I find a reliable hardware device
-    contract manufacturer in China? - Quora
+    contract manufacturer in China?
 ---
 
 Take a look here : [How do you go about getting an electronic product

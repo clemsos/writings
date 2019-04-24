@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What makes China\'s influencer community
-    different from the US? - Quora
+    different from the US?
 ---
 
 The influencers in China (*wanghong)* are more diverse than the ones in

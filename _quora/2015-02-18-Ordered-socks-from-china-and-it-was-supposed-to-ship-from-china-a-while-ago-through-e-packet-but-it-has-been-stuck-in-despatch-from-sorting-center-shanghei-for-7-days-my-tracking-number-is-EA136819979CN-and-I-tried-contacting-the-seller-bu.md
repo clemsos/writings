@@ -7,7 +7,7 @@ title: |
     to ship from china a while ago through e packet but it has been stuck in
     despatch from sorting center shanghei for 7 days my tracking number is
     EA136819979CN and I tried contacting the seller but she stopped
-    responding after she got my money please help? - Quora
+    responding after she got my money please help?
 ---
 
 It is the Chinese New Year today so family the for everyone in China.

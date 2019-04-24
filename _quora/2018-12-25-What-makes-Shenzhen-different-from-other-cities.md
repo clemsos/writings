@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What makes Shenzhen different from other
-    cities? - Quora
+    cities?
 ---
 
 Its energy.

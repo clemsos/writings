@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How is Baidu Trends (百度预测-大数据 知天下)
-    different from Google Trends? - Quora
+    different from Google Trends?
 ---
 
 On Baidu trends, it seems that you can not look up specific words but

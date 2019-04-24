@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What would you say is the biggest problems
-    facing the millennial/Generation Z today? - Quora
+    facing the millennial/Generation Z today?
 ---
 
 Aging population.

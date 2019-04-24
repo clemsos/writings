@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What were some causes and effects of the
-    French Revolution? - Quora
+    French Revolution?
 ---
 
 The causes were a decadent and absolutely corrupt ruling class, a

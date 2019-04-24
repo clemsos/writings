@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How can I find a job in Shenzhen for expats,
-    preferably non-teaching? - Quora
+    preferably non-teaching?
 ---
 
 If you can, take a plane and get there.

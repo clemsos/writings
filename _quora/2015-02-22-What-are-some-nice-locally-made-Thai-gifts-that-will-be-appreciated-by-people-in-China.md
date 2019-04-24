@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are some nice locally made Thai gifts
-    that will be appreciated by people in China? - Quora
+    that will be appreciated by people in China?
 ---
 
 My wife got a very nice wallet and a comb from her brother when he got

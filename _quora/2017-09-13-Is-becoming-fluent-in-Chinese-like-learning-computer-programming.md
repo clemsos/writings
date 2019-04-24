@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Is becoming fluent in Chinese like learning
-    computer programming? - Quora
+    computer programming?
 ---
 
 Regarding reading and writing, yes : very logical and straightforward

@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Are the comparisons of Hitler and Trump
-    valid? - Quora
+    valid?
 ---
 
 Historical comparisons are useful to identify and reflect on similar

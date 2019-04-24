@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Are there any tastypie tutorials for newbies
-    on the web? - Quora
+    on the web?
 ---
 
 try this :

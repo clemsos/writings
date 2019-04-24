@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Node.js: Has anyone gotten to try
-    programming a Nodecopter? - Quora
+    programming a Nodecopter?
 ---
 
 You can check the doc of a project by guys at Shanghai hackerspace named

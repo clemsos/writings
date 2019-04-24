@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How much money can you earn as a private
-    practice psychiatrist? - Quora
+    practice psychiatrist?
 ---
 
 Looking at the details of your question, I strongly suggest you never

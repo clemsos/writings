@@ -5,7 +5,7 @@ language: en
 title: |
     What do most designers get wrong about
     supply chain management when they try to get their product/s made in
-    Shenzhen? - Quora
+    Shenzhen?
 ---
 
 **Most of the people don\'t** **come to Shenzhen to meet business

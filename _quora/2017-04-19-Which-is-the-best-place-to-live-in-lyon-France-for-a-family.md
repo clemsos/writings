@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Which is the best place to live in lyon,
-    France, for a family? - Quora
+    France, for a family?
 ---
 
 Several English speaking families I know live near Ste Foy les Lyon,

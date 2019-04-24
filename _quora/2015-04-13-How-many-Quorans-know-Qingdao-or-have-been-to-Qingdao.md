@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How many Quorans know Qingdao or have been
-    to Qingdao? - Quora
+    to Qingdao?
 ---
 
 I agree with Quora User, this is not a serious question.\

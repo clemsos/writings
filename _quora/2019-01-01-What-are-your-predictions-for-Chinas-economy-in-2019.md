@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are your predictions for China\'s
-    economy in 2019? - Quora
+    economy in 2019?
 ---
 
 The difficulty to predict what is going to happen in 2019 in China shows

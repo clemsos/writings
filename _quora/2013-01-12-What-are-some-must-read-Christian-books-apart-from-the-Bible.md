@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are some must-read Christian books,
-    apart from the Bible? - Quora
+    apart from the Bible?
 ---
 
 The Golden Legend tells the stories of all saints\' life and death.

@@ -5,7 +5,7 @@ language: en
 title: |
     What is the way to correct the behavior of
     countries that dig under walls and infiltrate by sending spies? Is force
-    the only way for that? - Quora
+    the only way for that?
 ---
 
 Countries are not people. You don\'t "correct their behavior", you

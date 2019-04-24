@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Which writers have a profound understanding
-    of the culture of Quebec and Montreal? - Quora
+    of the culture of Quebec and Montreal?
 ---
 
 The greatest things I have read on this topic were written by Fernand

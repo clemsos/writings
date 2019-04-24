@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What is Alibaba\'s strategy to surpass
-    Amazon globally in the coming years? - Quora
+    Amazon globally in the coming years?
 ---
 
 Whatever Amazon is doing, Alibaba's strategy still the same : being an

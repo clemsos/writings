@@ -5,7 +5,7 @@ language: en
 title: |
     Is China growing because it has a growth
     mindset, while the US is closing up and becoming isolationist because it
-    has a scarcity mindset? - Quora
+    has a scarcity mindset?
 ---
 
 It is the other way around. Most Chinese people actually have a

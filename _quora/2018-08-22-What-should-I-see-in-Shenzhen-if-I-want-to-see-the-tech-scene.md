@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What should I see in Shenzhen if I want to
-    see the tech scene? - Quora
+    see the tech scene?
 ---
 
 If you want a condensed, international-friendly and English-speaking

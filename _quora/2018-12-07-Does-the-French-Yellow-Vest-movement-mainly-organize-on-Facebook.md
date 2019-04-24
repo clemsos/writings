@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Does the French \'Yellow Vest\' movement
-    mainly organize on Facebook? - Quora
+    mainly organize on Facebook?
 ---
 
 There are lots of different public and private Facebook discussions

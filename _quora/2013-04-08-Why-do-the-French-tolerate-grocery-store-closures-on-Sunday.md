@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Why do the French tolerate grocery store
-    closures on Sunday? - Quora
+    closures on Sunday?
 ---
 
 I think we tolerate it because it is not so bad to have one day a week

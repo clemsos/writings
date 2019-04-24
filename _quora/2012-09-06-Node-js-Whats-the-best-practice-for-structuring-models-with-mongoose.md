@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Node.js: What\'s the best practice for
-    structuring models with mongoose? - Quora
+    structuring models with mongoose?
 ---
 
 You can check this answer on [Stack

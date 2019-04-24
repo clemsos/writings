@@ -5,7 +5,7 @@ language: en
 title: |
     What fundamental misunderstandings does the
     Chinese leadership have about western governments and western foreign
-    policy? - Quora
+    policy?
 ---
 
 Chinese leadership understand very well how Western government works,

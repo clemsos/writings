@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What do foreigners think about the programme
-    of \'A Bite of China\'? - Quora
+    of \'A Bite of China\'?
 ---
 
 Makes me wish I was in China to go out and grab some of this nice food !

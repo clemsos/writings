@@ -5,7 +5,7 @@ language: en
 title: |
     Is this true that many Chinese would like to
     get a green card in a Western country? Which countries would be the most
-    desirable? - Quora
+    desirable?
 ---
 
 No, most Chinese don\'t want to live abroad. They love China and don\'t

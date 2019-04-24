@@ -5,7 +5,7 @@ language: en
 title: |
     What are the complementary roles Guangzhou,
     Shenzhen, Dongguan, Hong Kong and Macao will play in the Greater Bay
-    Area as proposed by the State Council of China? - Quora
+    Area as proposed by the State Council of China?
 ---
 
 It still early to discuss the details as the plan has not be fully

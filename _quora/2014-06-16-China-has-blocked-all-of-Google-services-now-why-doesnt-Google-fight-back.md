@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     China has blocked all of Google services
-    now, why doesn\'t Google fight back? - Quora
+    now, why doesn\'t Google fight back?
 ---
 
 Why will they do sth? They left China after years of working

@@ -3,8 +3,7 @@ date: '2018-08-22'
 source: quora
 language: en
 title: |
-    What is 2019 animal in Chinese calendar? -
-    Quora
+    What is 2019 animal in Chinese calendar?
 ---
 
 Pig.

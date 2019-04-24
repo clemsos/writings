@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What is the most contentious question one
-    can ask at a dinner party? - Quora
+    can ask at a dinner party?
 ---
 
 In France, I advice you to try asking \"Are you still Charlie?\" while

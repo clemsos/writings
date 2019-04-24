@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How do you call the device you put in
-    briefcases to retrace it in case it gets stolen? - Quora
+    briefcases to retrace it in case it gets stolen?
 ---
 
 A suitcase tracker.\

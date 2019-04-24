@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are some interesting one-liners on
-    China? - Quora
+    China?
 ---
 
 \"Revolution is not a dinner party\" - *Mao Zedong, Selected Works, vol.

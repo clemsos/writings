@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What is the history of the fight between
-    Pierre Bourdieu and Ségolène Royal? - Quora
+    Pierre Bourdieu and Ségolène Royal?
 ---
 
 Not really a fight. It comes from an interview of Bourdieu where he says

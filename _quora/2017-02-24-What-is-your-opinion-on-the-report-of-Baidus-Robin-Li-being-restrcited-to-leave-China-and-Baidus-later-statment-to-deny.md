@@ -5,7 +5,7 @@ language: en
 title: |
     What is your opinion on the report of
     Baidu\'s Robin Li being restrcited to leave China and Baidu\'s later
-    statment to deny? - Quora
+    statment to deny?
 ---
 
 The travel ban looks like a warning from Beijing, and Baidu's official

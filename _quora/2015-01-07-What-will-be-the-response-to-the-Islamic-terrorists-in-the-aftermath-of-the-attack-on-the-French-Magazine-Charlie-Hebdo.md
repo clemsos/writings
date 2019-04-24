@@ -5,7 +5,7 @@ language: en
 title: |
     What will be the response to the Islamic
     terrorists in the aftermath of the attack on the French Magazine Charlie
-    Hebdo? - Quora
+    Hebdo?
 ---
 
 According to the actual political climate in France, I will say that

@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What small things in life are not respected
-    like they should be? - Quora
+    like they should be?
 ---
 
 sleep

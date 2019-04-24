@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are the things that can only be done in
-    Wuhan, China? - Quora
+    Wuhan, China?
 ---
 
 -   Attend a crowded show of a Chinese punk band playing bagpipes and

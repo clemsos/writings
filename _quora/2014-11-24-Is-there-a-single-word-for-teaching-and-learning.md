@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Is there a single word for teaching and
-    learning? - Quora
+    learning?
 ---
 
 Not really an answer to your question but in French, the verb

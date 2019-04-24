@@ -4,8 +4,7 @@ source: quora
 language: en
 title: |
     Which is the best front-end JavaScript
-    framework/library for building an interactive web analytics dashboard? -
-    Quora
+    framework/library for building an interactive web analytics dashboard?
 ---
 
 **Well, I will suggest to use a combination of frameworks (React/Flux,

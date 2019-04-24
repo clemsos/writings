@@ -3,8 +3,7 @@ date: '2015-02-16'
 source: quora
 language: en
 title: |
-    Will there be a Silicon Valley in China? -
-    Quora
+    Will there be a Silicon Valley in China?
 ---
 
 That is a non-question since Silicon valley is in California, but there

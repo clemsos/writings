@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Why Sina Weibo blocked the account called
-    \'zuoyeben\'? - Quora
+    \'zuoyeben\'?
 ---
 
 Surely because he bypass one of the non-written, unknown rules of Sina

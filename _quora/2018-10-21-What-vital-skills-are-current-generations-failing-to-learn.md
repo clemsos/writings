@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What vital skills are current generations
-    failing to learn? - Quora
+    failing to learn?
 ---
 
 They fail to learn what the generations before fail to pass them.

@@ -5,7 +5,7 @@ language: en
 title: |
     Web Censorship in China: What are the
     statistics of tweets censored and taken down on Sina Weibo? Is there a
-    way just to keep a history of that? - Quora
+    way just to keep a history of that?
 ---
 
 An extensive answer to this question can be found in the paper behind.\

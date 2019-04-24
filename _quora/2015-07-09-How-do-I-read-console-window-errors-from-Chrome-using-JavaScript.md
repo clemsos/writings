@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How do I read console window errors from
-    Chrome using JavaScript? - Quora
+    Chrome using JavaScript?
 ---
 
 This lib seems to catch console messages :

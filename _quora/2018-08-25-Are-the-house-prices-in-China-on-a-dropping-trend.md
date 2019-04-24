@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Are the house prices in China on a dropping
-    trend? - Quora
+    trend?
 ---
 
 No.

@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Which imported products sell well in the
-    Chinese domestic market to local consumers? - Quora
+    Chinese domestic market to local consumers?
 ---
 
 luxury goods, like LV bags for instance

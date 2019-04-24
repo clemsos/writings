@@ -5,7 +5,7 @@ language: en
 title: |
     I\'m planning on moving to China to teach
     English. Which night programs are the best ones to take to become fluent
-    in Mandarin? - Quora
+    in Mandarin?
 ---
 
 Think at this English teacher job like a night program. Then ask

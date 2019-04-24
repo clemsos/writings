@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What implementations of the Blondel
-    (Louvain) algorithm exist? - Quora
+    (Louvain) algorithm exist?
 ---
 
 The [Community detection for

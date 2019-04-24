@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How do you go about getting an electronic
-    product manufactured in China? What steps are involved? - Quora
+    product manufactured in China? What steps are involved?
 ---
 
 The single most important step you need to take to design a product that

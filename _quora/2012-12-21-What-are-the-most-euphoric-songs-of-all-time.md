@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are the most euphoric songs of all
-    time? - Quora
+    time?
 ---
 
 \"Don\'t Worry, Be Happy\" by Bobby Mc Ferrin. Every time I hear this

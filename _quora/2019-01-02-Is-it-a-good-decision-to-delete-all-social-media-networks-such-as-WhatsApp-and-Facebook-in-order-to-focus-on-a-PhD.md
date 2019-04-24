@@ -5,7 +5,7 @@ language: en
 title: |
     Is it a good decision to delete all social
     media networks such as WhatsApp and Facebook in order to focus on a PhD?
-    - Quora
+   
 ---
 
 No, don't do it.

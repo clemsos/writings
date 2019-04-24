@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     In what way does the geography of China
-    affect its economy? - Quora
+    affect its economy?
 ---
 
 Like in any places in the world, it is not that China's geography

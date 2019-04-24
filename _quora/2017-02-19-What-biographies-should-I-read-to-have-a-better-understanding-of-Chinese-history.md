@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What biographies should I read to have a
-    better understanding of Chinese history? - Quora
+    better understanding of Chinese history?
 ---
 
 One of the most important and emblematic figure of Chinese history in

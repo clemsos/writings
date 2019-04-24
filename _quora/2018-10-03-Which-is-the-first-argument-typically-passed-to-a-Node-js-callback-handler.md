@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Which is the first argument typically passed
-    to a Node.js callback handler? - Quora
+    to a Node.js callback handler?
 ---
 
 By convention, lots of libraries were passing an error message as the

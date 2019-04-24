@@ -6,7 +6,7 @@ title: |
     Why do many westerners support
     cryptocurrencies because of decentralization, but private Chinese
     companies have the largest cryptocurrency holdings, and they don\'t
-    believe in decentralization? - Quora
+    believe in decentralization?
 ---
 
 Because most people in BTC or crypto does not even realise who these

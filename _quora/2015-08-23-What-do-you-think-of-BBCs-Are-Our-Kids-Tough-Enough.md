@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What do you think of BBC\'s Are Our Kids
-    Tough Enough? - Quora
+    Tough Enough?
 ---
 
 The show is interesting and entertaining to watch. Sadly, it sacrifices

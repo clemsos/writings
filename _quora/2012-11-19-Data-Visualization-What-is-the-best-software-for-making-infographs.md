@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Data Visualization: What is the best
-    software for making infographs? - Quora
+    software for making infographs?
 ---
 
 There is a bunch of good tools & softwares out there to create

@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Where can you watch the pilot of Adventure
-    Time? - Quora
+    Time?
 ---
 
 You can watch it here :[Watch cartoons online, Watch anime online,

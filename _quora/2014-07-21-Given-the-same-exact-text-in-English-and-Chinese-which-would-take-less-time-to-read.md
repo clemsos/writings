@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Given the same exact text in English and
-    Chinese, which would take less time to read? - Quora
+    Chinese, which would take less time to read?
 ---
 
 It depends on the reader, not the text.\

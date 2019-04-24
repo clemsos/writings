@@ -3,8 +3,7 @@ date: '2015-08-28'
 source: quora
 language: en
 title: |
-    How do you say \'I love you\' in French? -
-    Quora
+    How do you say \'I love you\' in French?
 ---
 
 Teenage under 15 will usually say : \"*Je te kiffe*\".\

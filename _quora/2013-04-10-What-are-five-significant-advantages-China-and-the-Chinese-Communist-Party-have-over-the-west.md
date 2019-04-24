@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are five significant advantages China
-    and the Chinese Communist Party have over the west? - Quora
+    and the Chinese Communist Party have over the west?
 ---
 
 **Authority** As said below, decisions can be enforced without long

@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Parisian Chic: What are the best leather
-    gloves in the market? - Quora
+    gloves in the market?
 ---
 
 If you pass by Lyon in France, I strongly advise you make a halt in [Au

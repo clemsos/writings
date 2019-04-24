@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How much refining does GTFS transit data
-    need before being published? - Quora
+    need before being published?
 ---
 
 Preparing a data set for a public release is an important part of the

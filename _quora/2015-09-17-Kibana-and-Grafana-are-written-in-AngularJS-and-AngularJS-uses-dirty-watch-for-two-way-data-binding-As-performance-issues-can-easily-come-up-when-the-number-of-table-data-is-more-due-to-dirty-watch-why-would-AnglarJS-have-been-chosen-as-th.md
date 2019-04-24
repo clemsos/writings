@@ -7,7 +7,7 @@ title: |
     and AngularJS uses dirty watch for two way data binding. As performance
     issues can easily come up when the number of table data is more due to
     dirty watch, why would AnglarJS have been chosen as the preferred
-    framework? - Quora
+    framework?
 ---
 
 My guess is that they chose Angular because 1) client-only is very easy

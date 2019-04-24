@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What is the most Chinese thing a Chinese
-    person can do? - Quora
+    person can do?
 ---
 
 Lose on purpose while playing Mahjong with your mother-in-law to give

@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Why is the plural of \'grand prix\'
-    sometimes written as \'grands prix\'? - Quora
+    sometimes written as \'grands prix\'?
 ---
 
 It is a French word. "Prix" means price and does not change in plural

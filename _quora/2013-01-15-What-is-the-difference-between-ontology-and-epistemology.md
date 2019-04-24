@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What is the difference between \'ontology\'
-    and \'epistemology\'? - Quora
+    and \'epistemology\'?
 ---
 
 Originally Answered: [Is there a difference between ontology and

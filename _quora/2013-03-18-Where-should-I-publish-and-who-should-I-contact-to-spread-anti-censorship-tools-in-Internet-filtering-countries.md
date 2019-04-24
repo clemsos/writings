@@ -5,7 +5,7 @@ language: en
 title: |
     Where should I publish and who should I
     contact to spread anti censorship tools in Internet filtering countries?
-    - Quora
+   
 ---
 
 For China :\

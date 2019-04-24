@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are some mind-blowing facts about
-    Google Chromecast? - Quora
+    Google Chromecast?
 ---
 
 It is actually a copycat of Rikomagic products, a Chinese company

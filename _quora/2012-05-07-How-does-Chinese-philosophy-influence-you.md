@@ -3,8 +3,7 @@ date: '2012-05-07'
 source: quora
 language: en
 title: |
-    How does Chinese philosophy influence you? -
-    Quora
+    How does Chinese philosophy influence you?
 ---
 
 Think about a \"Chinese Philosophy\" can be very misleading. In fact,

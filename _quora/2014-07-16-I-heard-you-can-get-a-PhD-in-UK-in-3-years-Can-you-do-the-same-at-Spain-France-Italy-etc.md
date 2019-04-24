@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     I heard you can get a PhD in UK in 3 years.
-    Can you do the same at Spain, France, Italy, etc? - Quora
+    Can you do the same at Spain, France, Italy, etc?
 ---
 
 Yes, average duration of a phD in Europe is 3 years in most disciplines

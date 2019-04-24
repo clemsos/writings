@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How do you ask, \'how\'s your evening?\' in
-    French? - Quora
+    French?
 ---
 
 Comment se passe ta soirée ?

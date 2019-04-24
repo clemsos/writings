@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What has been your experience using React.js
-    as a developer? - Quora
+    as a developer?
 ---
 
 The tooling/compiling can be painful but tools like react-scripts makes

@@ -5,7 +5,7 @@ language: en
 title: |
     Who is teaching infographics and
     visualization courses in Design, Communication, and Journalism schools?
-    - Quora
+   
 ---
 
 My coworker Yong Liu has put together one of the first MOOC in China

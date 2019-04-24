@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Who is the most regarded or popular leader
-    of China other than Mao? - Quora
+    of China other than Mao?
 ---
 
 Depends on generations.

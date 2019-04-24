@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How many people can I easily communicate
-    with if I know English, Russian, France French, and Mandarin? - Quora
+    with if I know English, Russian, France French, and Mandarin?
 ---
 
 You\'re looking at it the wrong way. For instance, with French you could

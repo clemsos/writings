@@ -5,7 +5,7 @@ language: en
 title: |
     Why have the French turned so solidly and
     violently against their democratically elected President, Emmanuel
-    Macron, in such a short period of time? - Quora
+    Macron, in such a short period of time?
 ---
 
 Macron's political strategy was to personify the young French investment

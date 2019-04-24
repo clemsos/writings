@@ -5,7 +5,7 @@ language: en
 title: |
     How has the Chinese government\'s regulation
     of Internet content affected the business models for Chinese Internet
-    companies? - Quora
+    companies?
 ---
 
 In China, regulations on content are very strict. Broadcasting news or

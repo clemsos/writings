@@ -6,7 +6,7 @@ title: |
     How do I write a research paper with a
     scientific \'voice\'? I was told by my mentor that my writing is
     confusing and also that it seems as if I don\'t know anything about the
-    research topic at hand. - Quora
+    research topic at hand.
 ---
 
 Forget about \"scientific voice\"  and start taking care about story,

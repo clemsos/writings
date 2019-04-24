@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are some movies with easy to understand
-    Mandarin Chinese? - Quora
+    Mandarin Chinese?
 ---
 
 If you want to use original material to teach Chinese, I will advice

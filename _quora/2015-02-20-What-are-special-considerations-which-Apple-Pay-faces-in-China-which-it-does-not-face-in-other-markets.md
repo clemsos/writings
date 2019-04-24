@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are special considerations which Apple
-    Pay faces in China which it does not face in other markets? - Quora
+    Pay faces in China which it does not face in other markets?
 ---
 
 **Harsh, ruthless local competition.** In China, Apple Pay won\'t

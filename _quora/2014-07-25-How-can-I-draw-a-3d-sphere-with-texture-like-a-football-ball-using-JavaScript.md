@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How can I draw a 3d sphere with texture,
-    like a football ball, using JavaScript? - Quora
+    like a football ball, using JavaScript?
 ---
 
 You should check [three.js, a Javascript 3D

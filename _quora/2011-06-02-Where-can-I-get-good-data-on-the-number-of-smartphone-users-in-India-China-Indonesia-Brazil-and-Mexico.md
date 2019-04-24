@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Where can I get good data on the number of
-    smartphone users in India, China, Indonesia, Brazil and Mexico? - Quora
+    smartphone users in India, China, Indonesia, Brazil and Mexico?
 ---
 
 Have a look here

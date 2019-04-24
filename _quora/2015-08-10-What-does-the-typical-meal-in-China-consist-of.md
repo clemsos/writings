@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What does the typical meal in China consist
-    of? - Quora
+    of?
 ---
 
 One of the most traditional form of Chinese meal is made of \"*four

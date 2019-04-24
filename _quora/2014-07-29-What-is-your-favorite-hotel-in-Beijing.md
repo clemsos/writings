@@ -3,8 +3,7 @@ date: '2014-07-29'
 source: quora
 language: en
 title: |
-    What is your favorite hotel in Beijing? -
-    Quora
+    What is your favorite hotel in Beijing?
 ---
 
 [Beijing EAST Hotel](http://www.east-beijing.com/en/default.aspx). A

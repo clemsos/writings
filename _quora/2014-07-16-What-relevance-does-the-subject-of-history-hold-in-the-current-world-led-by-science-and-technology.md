@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What relevance does the subject of history
-    hold in the current world led by science and technology? - Quora
+    hold in the current world led by science and technology?
 ---
 
 History is about memory, which has 3 main forms :\

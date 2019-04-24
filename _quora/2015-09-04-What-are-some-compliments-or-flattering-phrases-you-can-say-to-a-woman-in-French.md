@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are some compliments or flattering
-    phrases you can say to a woman in French? - Quora
+    phrases you can say to a woman in French?
 ---
 
 \"*T\'as de beaux yeux, tu sais*\" - You have beautiful eyes, you know\

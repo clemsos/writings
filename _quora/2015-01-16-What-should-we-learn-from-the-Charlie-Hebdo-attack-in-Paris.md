@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What should we learn from the Charlie Hebdo
-    attack in Paris? - Quora
+    attack in Paris?
 ---
 
 My grandfather was a subscriber to CharlieHebdo and most of the

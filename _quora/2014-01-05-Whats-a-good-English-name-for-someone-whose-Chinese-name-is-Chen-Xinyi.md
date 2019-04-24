@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What\'s a good English name for someone
-    whose Chinese name is Chen Xinyi? - Quora
+    whose Chinese name is Chen Xinyi?
 ---
 
 Agree with [Sara](http://quora.com/profile/Sarah-Thomas-43)h, your name

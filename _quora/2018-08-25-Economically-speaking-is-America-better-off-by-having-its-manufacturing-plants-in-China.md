@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Economically speaking, is America better off
-    by having its manufacturing plants in China? - Quora
+    by having its manufacturing plants in China?
 ---
 
 The economic discussion is just a narrow part of the issue. The question

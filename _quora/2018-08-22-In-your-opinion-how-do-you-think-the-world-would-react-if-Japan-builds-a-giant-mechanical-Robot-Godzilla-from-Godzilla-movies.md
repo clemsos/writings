@@ -5,7 +5,7 @@ language: en
 title: |
     In your opinion, how do you think the world
     would react if Japan builds a giant mechanical Robot Godzilla from
-    Godzilla movies? - Quora
+    Godzilla movies?
 ---
 
 Like in the movie, someone will film it destroying cities and the world

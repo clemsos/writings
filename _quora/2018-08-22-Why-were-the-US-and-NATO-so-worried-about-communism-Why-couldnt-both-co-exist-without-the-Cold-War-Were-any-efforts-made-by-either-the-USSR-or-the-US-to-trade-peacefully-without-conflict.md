@@ -6,7 +6,7 @@ title: |
     Why were the US and NATO so worried about
     communism? Why couldn\'t both co-exist without the Cold War? Were any
     efforts made by either the USSR or the US to trade peacefully without
-    conflict? - Quora
+    conflict?
 ---
 
 The name of most famous Marx's book is Das Kapital. He goes on

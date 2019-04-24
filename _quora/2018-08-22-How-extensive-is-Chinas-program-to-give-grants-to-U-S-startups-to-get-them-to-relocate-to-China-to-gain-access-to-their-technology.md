@@ -5,7 +5,7 @@ language: en
 title: |
     How extensive is China\'s program to give
     grants to U.S. startups to get them to relocate to China to gain access
-    to their technology? - Quora
+    to their technology?
 ---
 
 As @[Joseph Wang](http://quora.com/profile/Joseph-Wang-9) mentioned,

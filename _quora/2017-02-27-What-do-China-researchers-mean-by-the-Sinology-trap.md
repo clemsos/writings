@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What do China researchers mean by \'the
-    Sinology trap\'? - Quora
+    Sinology trap\'?
 ---
 
 As a researcher working in China, what I will call "the sinology trap"

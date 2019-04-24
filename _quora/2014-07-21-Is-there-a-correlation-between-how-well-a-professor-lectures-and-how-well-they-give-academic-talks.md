@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Is there a correlation between how well a
-    professor lectures and how well they give academic talks? - Quora
+    professor lectures and how well they give academic talks?
 ---
 
 Not really, it is more about the topic. A talk may be about the single

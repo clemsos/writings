@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Which European countries have the best
-    train/subway systems? - Quora
+    train/subway systems?
 ---
 
 Switzerland and the Netherlands.

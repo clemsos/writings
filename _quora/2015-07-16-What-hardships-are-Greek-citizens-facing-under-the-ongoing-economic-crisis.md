@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What hardships are Greek citizens facing
-    under the ongoing economic crisis? - Quora
+    under the ongoing economic crisis?
 ---
 
 More than the economic crisis itself, many greeks have suffered from the

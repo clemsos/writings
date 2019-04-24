@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Why wasn\'t Xi Jinping at the Paris unity
-    rally? - Quora
+    rally?
 ---
 
 He didn\'t want to embarrass the French government. They have business

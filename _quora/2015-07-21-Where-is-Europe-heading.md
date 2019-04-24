@@ -2,7 +2,7 @@
 date: '2015-07-21'
 source: quora
 language: en
-title: 'Clément Renaud\''s answer to Where is Europe heading? - Quora'
+title: 'Clément Renaud\''s answer to Where is Europe heading?'
 ---
 
 This is a weird and vast question. There is two points that I would like

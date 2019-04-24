@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     I am going to Hong Kong next month. Are
-    there any suggestions for me, especially the hotel? - Quora
+    there any suggestions for me, especially the hotel?
 ---
 
 If you want some extra time witout carrying all your stuff, you can

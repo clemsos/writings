@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What kind of organizational discrimination
-    will exist in the future? - Quora
+    will exist in the future?
 ---
 
 In a relatively near future :\

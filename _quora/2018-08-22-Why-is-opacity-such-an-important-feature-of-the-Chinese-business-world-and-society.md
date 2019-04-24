@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Why is opacity such an important feature of
-    the Chinese business world and society? - Quora
+    the Chinese business world and society?
 ---
 
 Secrecy in China is not only in business, but also in everyday

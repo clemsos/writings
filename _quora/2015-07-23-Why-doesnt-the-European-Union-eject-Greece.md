@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Why doesn\'t the European Union eject
-    Greece? - Quora
+    Greece?
 ---
 
 Just to add a complementary point of view, because most of the answers

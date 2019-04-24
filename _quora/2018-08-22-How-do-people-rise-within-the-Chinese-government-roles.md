@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How do people rise within the Chinese
-    government roles? - Quora
+    government roles?
 ---
 
 I have written a comprehensive answer on this topic here [Clément

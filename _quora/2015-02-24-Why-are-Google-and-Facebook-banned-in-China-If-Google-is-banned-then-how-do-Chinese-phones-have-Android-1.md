@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Why are Google and Facebook banned in China?
-    If Google is banned, then how do Chinese phones have Android? - Quora
+    If Google is banned, then how do Chinese phones have Android?
 ---
 
 Google and Facebook are banned so it give space to local players like

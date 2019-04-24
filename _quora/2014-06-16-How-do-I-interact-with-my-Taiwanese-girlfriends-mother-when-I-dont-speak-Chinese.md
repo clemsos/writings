@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     How do I interact with my Taiwanese
-    girlfriend\'s mother when I don\'t speak Chinese? - Quora
+    girlfriend\'s mother when I don\'t speak Chinese?
 ---
 
 You could play [Mahjong](https://en.wikipedia.org/wiki/Mahjongand) with

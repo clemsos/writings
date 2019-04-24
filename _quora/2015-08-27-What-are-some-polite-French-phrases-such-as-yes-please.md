@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are some polite French phrases such as
-    \'yes, please\'? - Quora
+    \'yes, please\'?
 ---
 
 It all depends on the question asked but easy answers are : \"Oui,

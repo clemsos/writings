@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Are there any special ways to learn to
-    differentiate between the four Mandarin tones? - Quora
+    differentiate between the four Mandarin tones?
 ---
 
 Actually, don\'t focus too much on showing tones one by one. It is

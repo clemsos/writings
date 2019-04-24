@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What do you call someone who supports the
-    genocide of all humanity? - Quora
+    genocide of all humanity?
 ---
 
 A villain

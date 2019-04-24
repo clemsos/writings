@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are the top ten issues which the new
-    Chinese leadership should focus on in the next ten years? - Quora
+    Chinese leadership should focus on in the next ten years?
 ---
 
 -   **Education system** : reform Gaokao, try to deliver more actual

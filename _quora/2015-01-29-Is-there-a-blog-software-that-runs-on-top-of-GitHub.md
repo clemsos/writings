@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Is there a blog software that runs on top of
-    GitHub? - Quora
+    GitHub?
 ---
 
 Every rep, organization or user on Github can have its own blog pages

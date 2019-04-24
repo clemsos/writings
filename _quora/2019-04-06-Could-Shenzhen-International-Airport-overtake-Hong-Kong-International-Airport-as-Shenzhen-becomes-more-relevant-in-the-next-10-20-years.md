@@ -5,7 +5,7 @@ language: en
 title: |
     Could Shenzhen International Airport
     overtake Hong Kong International Airport as Shenzhen becomes more
-    relevant in the next 10-20+ years? - Quora
+    relevant in the next 10-20+ years?
 ---
 
 SZIA was developed to raise the international profile of the city with a

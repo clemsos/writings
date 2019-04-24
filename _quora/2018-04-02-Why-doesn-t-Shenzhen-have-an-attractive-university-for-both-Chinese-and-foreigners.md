@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Why doesn't Shenzhen have an attractive
-    university for both Chinese and foreigners? - Quora
+    university for both Chinese and foreigners?
 ---
 
 Early age of the city, and also so much to learn already in Shenzhen

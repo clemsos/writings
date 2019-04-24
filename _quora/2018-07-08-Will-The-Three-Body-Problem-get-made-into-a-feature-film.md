@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     Will \'The Three-Body Problem\' get made
-    into a feature film? - Quora
+    into a feature film?
 ---
 
 There is a first version of the movie made by a Chinese studio that was

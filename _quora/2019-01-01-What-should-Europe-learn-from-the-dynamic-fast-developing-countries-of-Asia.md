@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What should Europe learn from the dynamic,
-    fast developing countries of Asia? - Quora
+    fast developing countries of Asia?
 ---
 
 That you need to let some things go in order to make space for the new.

@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What's the point of using Flask when people
-    say is not scalable? - Quora
+    say is not scalable?
 ---
 
 Pinterest and LinkedIn use Flask.

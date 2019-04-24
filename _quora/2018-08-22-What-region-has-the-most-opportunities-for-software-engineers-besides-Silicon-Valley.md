@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What region has the most opportunities for
-    software engineers besides Silicon Valley? - Quora
+    software engineers besides Silicon Valley?
 ---
 
 The Pearl River Delta and especially Shenzhen in Southern China,

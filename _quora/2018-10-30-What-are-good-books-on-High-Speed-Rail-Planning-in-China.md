@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are good books on High Speed Rail
-    Planning in China? - Quora
+    Planning in China?
 ---
 
 There is a very good summary in French called Geopolitique du Train

@@ -4,7 +4,7 @@ source: quora
 language: en
 title: |
     What are some things you can do in France
-    but not in the USA? - Quora
+    but not in the USA?
 ---
 
 walk in an hospital when you are sick without even thinking about the
