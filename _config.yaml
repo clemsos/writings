@@ -1,0 +1,18 @@
+# Setup
+
+exclude:
+  - bin
+  - Gemfile
+
+collections:
+  quora:
+    output: true
+    # permalink: /quora/:path/
+    layout:
+
+defaults:
+  - scope:
+      path: ""
+      type: "quora"
+    values:
+      layout: "post"
