@@ -1,6 +1,7 @@
 ---
 date: '2018-10-23'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to If French food is so great tasting, why
     don't we see more French restaurants? - Quora

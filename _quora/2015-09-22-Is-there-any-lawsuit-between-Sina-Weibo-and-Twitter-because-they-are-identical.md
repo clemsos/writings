@@ -1,6 +1,7 @@
 ---
 date: '2015-09-22'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Is there any lawsuit between Sina Weibo and
     Twitter because they are identical? - Quora

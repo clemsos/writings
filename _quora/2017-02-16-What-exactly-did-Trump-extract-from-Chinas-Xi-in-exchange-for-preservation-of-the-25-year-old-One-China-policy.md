@@ -1,6 +1,7 @@
 ---
 date: '2017-02-16'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What exactly did Trump extract from China\'s
     Xi in exchange for preservation of the 25 year old One China policy? -

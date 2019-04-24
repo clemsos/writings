@@ -1,6 +1,7 @@
 ---
 date: '2015-09-07'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Why would it be bad for China if they took
     over North Korea? - Quora

@@ -1,6 +1,7 @@
 ---
 date: '2015-02-06'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to How do I get an electronic product
     manufactured in China? - Quora

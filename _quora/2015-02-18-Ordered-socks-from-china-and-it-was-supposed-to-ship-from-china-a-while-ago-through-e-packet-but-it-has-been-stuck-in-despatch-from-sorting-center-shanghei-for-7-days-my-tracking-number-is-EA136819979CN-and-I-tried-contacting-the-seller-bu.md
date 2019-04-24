@@ -1,6 +1,7 @@
 ---
 date: '2015-02-18'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Ordered socks from china and it was supposed
     to ship from china a while ago through e packet but it has been stuck in

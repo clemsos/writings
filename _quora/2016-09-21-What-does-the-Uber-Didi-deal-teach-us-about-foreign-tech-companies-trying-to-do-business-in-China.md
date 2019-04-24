@@ -1,6 +1,7 @@
 ---
 date: '2016-09-21'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What does the Uber-Didi deal teach us about
     foreign tech companies trying to do business in China? - Quora

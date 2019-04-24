@@ -1,6 +1,7 @@
 ---
 date: '2018-08-22'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to How do people rise within the Chinese
     government roles? - Quora

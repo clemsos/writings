@@ -1,6 +1,7 @@
 ---
 date: '2014-02-06'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Data Journalism: Input or tips needed: Which
     visualization? - Quora

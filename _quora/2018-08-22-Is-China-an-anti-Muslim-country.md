@@ -1,6 +1,7 @@
 ---
 date: '2018-08-22'
 source: quora
+language: en
 title: 'Clément Renaud\''s answer to Is China an anti-Muslim country? - Quora'
 ---
 

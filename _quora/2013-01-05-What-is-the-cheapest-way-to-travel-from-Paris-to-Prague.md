@@ -1,6 +1,7 @@
 ---
 date: '2013-01-05'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What is the cheapest way to travel from
     Paris to Prague? - Quora

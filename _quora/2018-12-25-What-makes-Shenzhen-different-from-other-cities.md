@@ -1,6 +1,7 @@
 ---
 date: '2018-12-25'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What makes Shenzhen different from other
     cities? - Quora

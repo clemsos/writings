@@ -1,6 +1,7 @@
 ---
 date: '2018-09-07'
 source: quora
+language: en
 title: 'Clément Renaud\''s answer to Why should Google stay out of China? - Quora'
 ---
 

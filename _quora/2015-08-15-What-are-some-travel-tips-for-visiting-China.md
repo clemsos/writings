@@ -1,6 +1,7 @@
 ---
 date: '2015-08-15'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What are some travel tips for visiting
     China? - Quora

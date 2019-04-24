@@ -1,6 +1,7 @@
 ---
 date: '2015-07-19'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Is it safe to travel to Greece? If I travel
     there, do I need to take any precautions? - Quora

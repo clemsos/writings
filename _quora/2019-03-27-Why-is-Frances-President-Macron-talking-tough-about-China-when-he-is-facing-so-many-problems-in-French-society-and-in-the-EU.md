@@ -1,6 +1,7 @@
 ---
 date: '2019-03-27'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Why is France\'s President Macron talking
     tough about China when he is facing so many problems in French society

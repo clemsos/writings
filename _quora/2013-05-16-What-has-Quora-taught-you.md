@@ -1,6 +1,7 @@
 ---
 date: '2013-05-16'
 source: quora
+language: en
 title: 'Clément Renaud\''s answer to What has Quora taught you? - Quora'
 ---
 

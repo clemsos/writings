@@ -1,6 +1,7 @@
 ---
 date: '2012-08-03'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Are there any tastypie tutorials for newbies
     on the web? - Quora

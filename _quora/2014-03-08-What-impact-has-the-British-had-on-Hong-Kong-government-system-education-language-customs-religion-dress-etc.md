@@ -1,6 +1,7 @@
 ---
 date: '2014-03-08'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What impact has the British had on Hong Kong
     (government system, education, language, customs, religion, dress,

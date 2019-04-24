@@ -1,6 +1,7 @@
 ---
 date: '2018-10-05'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Is the mean stack (mean.io) the best
     fullstack JavaScript framework? - Quora

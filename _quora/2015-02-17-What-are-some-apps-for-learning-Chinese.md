@@ -1,6 +1,7 @@
 ---
 date: '2015-02-17'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What are some apps for learning Chinese? -
     Quora

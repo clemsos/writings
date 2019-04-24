@@ -1,6 +1,7 @@
 ---
 date: '2015-08-01'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What is the easiest way to learn Chinese
     language skills with the least effort? - Quora

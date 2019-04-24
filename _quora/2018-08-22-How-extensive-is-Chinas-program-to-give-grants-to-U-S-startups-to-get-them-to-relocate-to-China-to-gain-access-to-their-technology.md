@@ -1,6 +1,7 @@
 ---
 date: '2018-08-22'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to How extensive is China\'s program to give
     grants to U.S. startups to get them to relocate to China to gain access

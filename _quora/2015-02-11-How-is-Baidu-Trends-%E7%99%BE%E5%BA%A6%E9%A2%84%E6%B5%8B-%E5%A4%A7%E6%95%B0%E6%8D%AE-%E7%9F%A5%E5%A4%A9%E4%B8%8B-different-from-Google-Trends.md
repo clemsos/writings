@@ -1,6 +1,7 @@
 ---
 date: '2015-02-11'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to How is Baidu Trends (百度预测-大数据 知天下)
     different from Google Trends? - Quora

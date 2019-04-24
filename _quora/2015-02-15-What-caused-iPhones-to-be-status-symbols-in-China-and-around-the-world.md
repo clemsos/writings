@@ -1,6 +1,7 @@
 ---
 date: '2015-02-15'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What caused iPhones to be status symbols in
     China and around the world? - Quora

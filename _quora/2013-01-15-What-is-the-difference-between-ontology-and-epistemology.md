@@ -1,6 +1,7 @@
 ---
 date: '2013-01-15'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What is the difference between \'ontology\'
     and \'epistemology\'? - Quora

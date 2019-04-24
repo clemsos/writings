@@ -1,6 +1,7 @@
 ---
 date: '2015-12-23'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What is the history of the fight between
     Pierre Bourdieu and Ségolène Royal? - Quora

@@ -1,6 +1,7 @@
 ---
 date: '2015-01-07'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What will be the response to the Islamic
     terrorists in the aftermath of the attack on the French Magazine Charlie

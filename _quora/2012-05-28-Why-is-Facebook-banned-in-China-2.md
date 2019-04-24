@@ -1,6 +1,7 @@
 ---
 date: '2012-05-28'
 source: quora
+language: en
 title: 'Clément Renaud\''s answer to Why is Facebook banned in China? - Quora'
 ---
 

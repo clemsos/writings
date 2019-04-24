@@ -1,6 +1,7 @@
 ---
 date: '2012-11-19'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Is there a word that describes the
     instantaneous dissemination of a piece of knowledge gained by an

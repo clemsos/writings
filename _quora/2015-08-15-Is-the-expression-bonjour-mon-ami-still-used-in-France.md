@@ -1,6 +1,7 @@
 ---
 date: '2015-08-15'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Is the expression \'bonjour mon ami\' still
     used in France? - Quora

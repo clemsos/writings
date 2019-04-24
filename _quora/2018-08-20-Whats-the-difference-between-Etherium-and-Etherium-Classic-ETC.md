@@ -1,6 +1,7 @@
 ---
 date: '2018-08-20'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What\'s the difference between Etherium and
     Etherium Classic (ETC)? - Quora

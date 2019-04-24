@@ -1,6 +1,7 @@
 ---
 date: '2018-01-20'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Do women view men only in terms of their
     ability to give them access to resources? - Quora

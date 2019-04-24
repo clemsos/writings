@@ -1,6 +1,7 @@
 ---
 date: '2018-09-20'
 source: quora
+language: en
 title: 'Clément Renaud\''s answer to Does Shenzhen have a good airport? - Quora'
 ---
 

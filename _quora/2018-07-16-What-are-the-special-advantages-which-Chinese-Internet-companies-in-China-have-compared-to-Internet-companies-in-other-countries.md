@@ -1,6 +1,7 @@
 ---
 date: '2018-07-16'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What are the special advantages which
     Chinese Internet companies in China have compared to Internet companies

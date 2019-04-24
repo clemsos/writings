@@ -1,6 +1,7 @@
 ---
 date: '2019-01-02'
 source: quora
+language: en
 title: 'Clément Renaud\''s answer to Why is China a manufacturing hub? - Quora'
 ---
 

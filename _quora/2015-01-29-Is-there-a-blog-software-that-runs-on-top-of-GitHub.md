@@ -1,6 +1,7 @@
 ---
 date: '2015-01-29'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Is there a blog software that runs on top of
     GitHub? - Quora

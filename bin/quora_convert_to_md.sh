@@ -9,8 +9,11 @@
 #
 # By default this will keep the original .md file
 
-FILES=answers-clean/*.html
 DEST_FOLDER=answers-md
+FILES=answers-clean/*.html
+COUNTER=1
+LANGUAGE=fr
+
 for f in $FILES
 do
   extension="${f##*.}"
@@ -26,7 +29,12 @@ do
     -t markdown \
     --metadata source=quora \
     --metadata date=$date \
+    --metadata language=$LANGUAGE \
      -s "$f" \
     -o $dest`
 
+  COUNTER=$[$COUNTER +1]
+
 done
+
+echo "$COUNTER files converted."

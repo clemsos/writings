@@ -1,6 +1,7 @@
 ---
 date: '2013-08-02'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Node.js: Has anyone gotten to try
     programming a Nodecopter? - Quora

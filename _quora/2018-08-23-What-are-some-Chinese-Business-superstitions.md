@@ -1,6 +1,7 @@
 ---
 date: '2018-08-23'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What are some Chinese Business
     superstitions? - Quora

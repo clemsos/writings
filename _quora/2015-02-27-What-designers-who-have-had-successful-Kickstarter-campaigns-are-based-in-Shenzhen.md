@@ -1,6 +1,7 @@
 ---
 date: '2015-02-27'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What designers who have had successful
     Kickstarter campaigns are based in Shenzhen? - Quora

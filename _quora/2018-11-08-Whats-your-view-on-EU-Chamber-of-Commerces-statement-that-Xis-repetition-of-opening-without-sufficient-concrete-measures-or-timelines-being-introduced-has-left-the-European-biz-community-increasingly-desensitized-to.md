@@ -1,6 +1,7 @@
 ---
 date: '2018-11-08'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What\'s your view on EU Chamber of
     Commerce\'s statement that Xi\'s repetition of opening, without

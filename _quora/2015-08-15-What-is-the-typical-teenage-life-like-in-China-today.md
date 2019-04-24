@@ -1,6 +1,7 @@
 ---
 date: '2015-08-15'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What is the typical teenage life like in
     China today? - Quora

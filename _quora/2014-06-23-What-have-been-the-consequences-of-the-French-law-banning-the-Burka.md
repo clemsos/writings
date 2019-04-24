@@ -1,6 +1,7 @@
 ---
 date: '2014-06-23'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What have been the consequences of the
     French law banning the Burka? - Quora

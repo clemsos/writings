@@ -1,6 +1,7 @@
 ---
 date: '2017-09-13'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Why does China prohibit foreigners from
     staying in \'low class\' hotels? Is there any other country that does

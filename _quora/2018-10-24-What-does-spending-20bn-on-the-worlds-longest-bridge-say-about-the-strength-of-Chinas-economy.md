@@ -1,6 +1,7 @@
 ---
 date: '2018-10-24'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What does spending \$20bn on the world\'s
     longest bridge say about the strength of China\'s economy? - Quora

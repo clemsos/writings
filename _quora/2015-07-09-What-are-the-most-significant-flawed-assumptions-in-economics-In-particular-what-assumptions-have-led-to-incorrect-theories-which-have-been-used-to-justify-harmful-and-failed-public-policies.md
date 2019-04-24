@@ -1,6 +1,7 @@
 ---
 date: '2015-07-09'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What are the most significant flawed
     assumptions in economics? In particular, what assumptions have led to

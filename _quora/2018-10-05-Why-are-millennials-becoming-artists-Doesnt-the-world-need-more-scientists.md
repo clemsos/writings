@@ -1,6 +1,7 @@
 ---
 date: '2018-10-05'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Why are millennials becoming artists?
     Doesn\'t the world need more scientists? - Quora

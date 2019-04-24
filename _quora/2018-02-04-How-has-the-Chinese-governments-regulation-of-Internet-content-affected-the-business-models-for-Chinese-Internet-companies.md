@@ -1,6 +1,7 @@
 ---
 date: '2018-02-04'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to How has the Chinese government\'s regulation
     of Internet content affected the business models for Chinese Internet

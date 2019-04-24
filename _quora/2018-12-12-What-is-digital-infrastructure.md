@@ -1,6 +1,7 @@
 ---
 date: '2018-12-12'
 source: quora
+language: en
 title: 'Clément Renaud\''s answer to What is digital infrastructure? - Quora'
 ---
 

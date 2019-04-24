@@ -1,6 +1,7 @@
 ---
 date: '2018-08-28'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Are Shanghai husbands the most lady-whipped
     men in China? - Quora

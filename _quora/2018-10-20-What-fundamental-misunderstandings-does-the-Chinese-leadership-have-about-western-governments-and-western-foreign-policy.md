@@ -1,6 +1,7 @@
 ---
 date: '2018-10-20'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What fundamental misunderstandings does the
     Chinese leadership have about western governments and western foreign

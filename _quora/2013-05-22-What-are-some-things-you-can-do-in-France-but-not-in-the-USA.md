@@ -1,6 +1,7 @@
 ---
 date: '2013-05-22'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What are some things you can do in France
     but not in the USA? - Quora

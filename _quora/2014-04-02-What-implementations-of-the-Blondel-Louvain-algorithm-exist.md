@@ -1,6 +1,7 @@
 ---
 date: '2014-04-02'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What implementations of the Blondel
     (Louvain) algorithm exist? - Quora

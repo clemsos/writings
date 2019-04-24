@@ -1,6 +1,7 @@
 ---
 date: '2018-08-28'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What\'s your reaction when you visit China,
     eating at restaurants there and find out none of the dishes are the

@@ -1,6 +1,7 @@
 ---
 date: '2015-08-10'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What does the typical meal in China consist
     of? - Quora

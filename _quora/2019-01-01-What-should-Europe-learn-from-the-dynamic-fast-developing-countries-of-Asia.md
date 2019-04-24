@@ -1,6 +1,7 @@
 ---
 date: '2019-01-01'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What should Europe learn from the dynamic,
     fast developing countries of Asia? - Quora

@@ -1,6 +1,7 @@
 ---
 date: '2013-01-12'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What are some must-read Christian books,
     apart from the Bible? - Quora

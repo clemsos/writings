@@ -1,6 +1,7 @@
 ---
 date: '2018-08-25'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What has been your experience using React.js
     as a developer? - Quora

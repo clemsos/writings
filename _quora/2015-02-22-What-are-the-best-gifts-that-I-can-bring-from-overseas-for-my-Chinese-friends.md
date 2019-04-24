@@ -1,6 +1,7 @@
 ---
 date: '2015-02-22'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What are the best gifts that I can bring
     from overseas for my Chinese friends? - Quora

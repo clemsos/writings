@@ -1,6 +1,7 @@
 ---
 date: '2018-08-31'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What do French people think about Indians
     who are studying and working in France? - Quora

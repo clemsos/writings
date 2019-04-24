@@ -1,6 +1,7 @@
 ---
 date: '2018-08-23'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What made China think that the US would not
     have a strong reaction to its rise of China narrative? - Quora

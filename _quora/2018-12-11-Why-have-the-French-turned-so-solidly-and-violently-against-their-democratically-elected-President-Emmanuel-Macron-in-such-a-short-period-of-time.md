@@ -1,6 +1,7 @@
 ---
 date: '2018-12-11'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Why have the French turned so solidly and
     violently against their democratically elected President, Emmanuel

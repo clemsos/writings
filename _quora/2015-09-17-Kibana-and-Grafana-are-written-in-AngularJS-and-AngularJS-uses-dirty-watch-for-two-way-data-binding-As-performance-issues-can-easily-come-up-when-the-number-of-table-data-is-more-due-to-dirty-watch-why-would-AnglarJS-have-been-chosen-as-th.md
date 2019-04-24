@@ -1,6 +1,7 @@
 ---
 date: '2015-09-17'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Kibana and Grafana are written in AngularJS
     and AngularJS uses dirty watch for two way data binding. As performance

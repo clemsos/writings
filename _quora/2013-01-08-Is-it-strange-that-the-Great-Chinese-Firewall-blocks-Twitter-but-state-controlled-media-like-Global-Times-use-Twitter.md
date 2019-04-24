@@ -1,6 +1,7 @@
 ---
 date: '2013-01-08'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Is it strange that the Great Chinese
     Firewall blocks Twitter but state-controlled media like Global Times use

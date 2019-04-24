@@ -1,6 +1,7 @@
 ---
 date: '2012-05-07'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to How does Chinese philosophy influence you? -
     Quora

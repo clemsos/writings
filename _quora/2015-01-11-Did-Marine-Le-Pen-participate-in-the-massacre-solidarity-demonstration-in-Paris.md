@@ -1,6 +1,7 @@
 ---
 date: '2015-01-11'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Did Marine Le Pen participate in the
     massacre solidarity demonstration in Paris? - Quora

@@ -1,6 +1,7 @@
 ---
 date: '2015-02-21'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to If you have the opportunity to work at
     investment banking in mainland China, Hong Kong, and Taiwan, which one

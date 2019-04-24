@@ -1,6 +1,7 @@
 ---
 date: '2018-08-22'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Did the Anthropocene epoch begin in say
     1950, or does one select a much earlier date, e.g., 2000 BC? - Quora

@@ -1,6 +1,7 @@
 ---
 date: '2018-12-04'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Why do many Google employees protest Project
     Dragonfly on moral and censorship grounds; don\'t they understand that

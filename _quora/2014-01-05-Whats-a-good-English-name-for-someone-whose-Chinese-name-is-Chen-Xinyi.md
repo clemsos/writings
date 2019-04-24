@@ -1,6 +1,7 @@
 ---
 date: '2014-01-05'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What\'s a good English name for someone
     whose Chinese name is Chen Xinyi? - Quora

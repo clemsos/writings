@@ -1,6 +1,7 @@
 ---
 date: '2016-07-18'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Why haven\'t terrorist attacks happened in
     Germany, Italy, Spain, England or Northern European countries but keep

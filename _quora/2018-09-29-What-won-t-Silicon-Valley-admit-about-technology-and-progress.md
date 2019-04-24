@@ -1,6 +1,7 @@
 ---
 date: '2018-09-29'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What won't Silicon Valley admit about
     technology and progress? - Quora

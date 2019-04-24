@@ -1,6 +1,7 @@
 ---
 date: '2016-12-12'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What is it like to live in the M50 art
     district in Shanghai vs living in Xuhui? Is it even common for people to

@@ -1,6 +1,7 @@
 ---
 date: '2018-08-26'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to How do Chinese name their new babies? -
     Quora

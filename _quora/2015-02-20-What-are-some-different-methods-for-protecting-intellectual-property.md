@@ -1,6 +1,7 @@
 ---
 date: '2015-02-20'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What are some different methods for
     protecting intellectual property? - Quora

@@ -1,6 +1,7 @@
 ---
 date: '2015-07-21'
 source: quora
+language: en
 title: 'Clément Renaud\''s answer to Where is Europe heading? - Quora'
 ---
 

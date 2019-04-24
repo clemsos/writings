@@ -1,6 +1,7 @@
 ---
 date: '2018-10-10'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to I\'m planning on moving to China to teach
     English. Which night programs are the best ones to take to become fluent

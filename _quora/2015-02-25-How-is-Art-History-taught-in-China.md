@@ -1,6 +1,7 @@
 ---
 date: '2015-02-25'
 source: quora
+language: en
 title: 'Clément Renaud\''s answer to How is Art History taught in China? - Quora'
 ---
 

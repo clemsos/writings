@@ -1,6 +1,7 @@
 ---
 date: '2014-11-24'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Is there a single word for teaching and
     learning? - Quora

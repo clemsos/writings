@@ -1,6 +1,7 @@
 ---
 date: '2019-01-01'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What is Alibaba\'s strategy to surpass
     Amazon globally in the coming years? - Quora

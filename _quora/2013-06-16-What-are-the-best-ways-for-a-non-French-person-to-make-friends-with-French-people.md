@@ -1,6 +1,7 @@
 ---
 date: '2013-06-16'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What are the best ways for a non-French
     person to make friends with French people? - Quora

@@ -1,6 +1,7 @@
 ---
 date: '2016-05-22'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Can I wash my cat by licking it like a cat
     would? - Quora

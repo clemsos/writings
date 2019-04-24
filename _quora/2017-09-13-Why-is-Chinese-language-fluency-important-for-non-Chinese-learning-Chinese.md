@@ -1,6 +1,7 @@
 ---
 date: '2017-09-13'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Why is Chinese language fluency important
     for non-Chinese learning Chinese? - Quora

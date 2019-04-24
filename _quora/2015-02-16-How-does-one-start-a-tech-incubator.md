@@ -1,6 +1,7 @@
 ---
 date: '2015-02-16'
 source: quora
+language: en
 title: 'Clément Renaud\''s answer to How does one start a tech incubator? - Quora'
 ---
 

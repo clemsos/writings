@@ -1,6 +1,7 @@
 ---
 date: '2013-02-14'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to How many tweets per day are there on Sina
     Weibo? - Quora

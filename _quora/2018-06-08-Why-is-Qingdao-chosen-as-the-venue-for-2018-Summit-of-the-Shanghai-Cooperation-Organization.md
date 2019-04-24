@@ -1,6 +1,7 @@
 ---
 date: '2018-06-08'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Why is Qingdao chosen as the venue for 2018
     Summit of the Shanghai Cooperation Organization? - Quora

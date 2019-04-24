@@ -1,6 +1,7 @@
 ---
 date: '2015-02-13'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to How do people benefit from building free
     open source frameworks? - Quora

@@ -1,6 +1,7 @@
 ---
 date: '2012-09-06'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Node.js: What\'s the best practice for
     structuring models with mongoose? - Quora

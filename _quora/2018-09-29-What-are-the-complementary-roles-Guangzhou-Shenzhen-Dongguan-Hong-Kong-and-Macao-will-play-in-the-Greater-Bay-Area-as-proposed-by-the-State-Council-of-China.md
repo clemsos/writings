@@ -1,6 +1,7 @@
 ---
 date: '2018-09-29'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What are the complementary roles Guangzhou,
     Shenzhen, Dongguan, Hong Kong and Macao will play in the Greater Bay

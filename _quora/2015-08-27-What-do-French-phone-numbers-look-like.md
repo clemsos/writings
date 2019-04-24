@@ -1,6 +1,7 @@
 ---
 date: '2015-08-27'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What do French phone numbers look like? -
     Quora

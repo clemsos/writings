@@ -1,6 +1,7 @@
 ---
 date: '2015-02-15'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What should I know about SEO when targeting
     Chinese in China? - Quora

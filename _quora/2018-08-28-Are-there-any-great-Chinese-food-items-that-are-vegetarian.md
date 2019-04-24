@@ -1,6 +1,7 @@
 ---
 date: '2018-08-28'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Are there any great Chinese food items that
     are vegetarian? - Quora

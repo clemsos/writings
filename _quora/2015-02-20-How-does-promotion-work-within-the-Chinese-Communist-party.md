@@ -1,6 +1,7 @@
 ---
 date: '2015-02-20'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to How does promotion work within the Chinese
     Communist party? - Quora

@@ -1,6 +1,7 @@
 ---
 date: '2013-01-07'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What do the average French think of actor
     Gerard Dépardieu being offered Russian citizenship, and accepting, to

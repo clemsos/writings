@@ -1,6 +1,7 @@
 ---
 date: '2018-09-29'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to I\'m moving to China and I don\'t want to be
     one of those expats that spends 20 years there and never become fluent

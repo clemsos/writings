@@ -1,6 +1,7 @@
 ---
 date: '2015-08-27'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What are secrets psychiatrists keep from lay
     people? - Quora

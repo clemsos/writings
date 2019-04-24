@@ -1,6 +1,7 @@
 ---
 date: '2018-10-23'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to How does Google justify working with the
     Chinese government but refusing to work with the US military? - Quora

@@ -1,6 +1,7 @@
 ---
 date: '2018-08-22'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Why were the US and NATO so worried about
     communism? Why couldn\'t both co-exist without the Cold War? Were any

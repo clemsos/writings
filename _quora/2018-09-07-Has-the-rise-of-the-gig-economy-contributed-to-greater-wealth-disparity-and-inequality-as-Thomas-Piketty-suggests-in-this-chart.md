@@ -1,6 +1,7 @@
 ---
 date: '2018-09-07'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Has the rise of the gig economy contributed
     to greater wealth disparity and inequality as Thomas Piketty suggests in

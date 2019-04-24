@@ -1,6 +1,7 @@
 ---
 date: '2018-12-05'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Why is the plural of \'grand prix\'
     sometimes written as \'grands prix\'? - Quora

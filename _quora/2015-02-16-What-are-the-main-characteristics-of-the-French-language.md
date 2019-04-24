@@ -1,6 +1,7 @@
 ---
 date: '2015-02-16'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What are the main characteristics of the
     French language? - Quora

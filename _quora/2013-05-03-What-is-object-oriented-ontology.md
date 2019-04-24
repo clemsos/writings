@@ -1,6 +1,7 @@
 ---
 date: '2013-05-03'
 source: quora
+language: en
 title: 'Clément Renaud\''s answer to What is object-oriented ontology? - Quora'
 ---
 

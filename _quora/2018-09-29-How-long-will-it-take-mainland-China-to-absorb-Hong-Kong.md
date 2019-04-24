@@ -1,6 +1,7 @@
 ---
 date: '2018-09-29'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to How long will it take mainland China to
     absorb Hong Kong? - Quora

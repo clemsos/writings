@@ -1,6 +1,7 @@
 ---
 date: '2015-02-09'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to How do I find a reliable hardware device
     contract manufacturer in China? - Quora

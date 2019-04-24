@@ -1,6 +1,7 @@
 ---
 date: '2015-04-09'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to How do tech journalists feel about Gigaom
     shutting down? - Quora

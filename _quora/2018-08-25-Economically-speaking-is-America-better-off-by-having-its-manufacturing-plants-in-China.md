@@ -1,6 +1,7 @@
 ---
 date: '2018-08-25'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Economically speaking, is America better off
     by having its manufacturing plants in China? - Quora

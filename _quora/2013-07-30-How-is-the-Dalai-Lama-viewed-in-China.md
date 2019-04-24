@@ -1,6 +1,7 @@
 ---
 date: '2013-07-30'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to How is the Dalai Lama viewed in China? -
     Quora

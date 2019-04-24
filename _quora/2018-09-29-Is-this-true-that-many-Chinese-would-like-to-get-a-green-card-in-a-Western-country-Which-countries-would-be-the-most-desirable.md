@@ -1,6 +1,7 @@
 ---
 date: '2018-09-29'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Is this true that many Chinese would like to
     get a green card in a Western country? Which countries would be the most

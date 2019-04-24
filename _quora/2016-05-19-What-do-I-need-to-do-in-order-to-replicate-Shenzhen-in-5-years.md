@@ -1,6 +1,7 @@
 ---
 date: '2016-05-19'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What do I need to do in order to replicate
     Shenzhen in \<5 years? - Quora

@@ -1,6 +1,7 @@
 ---
 date: '2015-01-29'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What is the best place to meet Internet tech
     startup people such as VCs, entrepreneurs, or people working at startups

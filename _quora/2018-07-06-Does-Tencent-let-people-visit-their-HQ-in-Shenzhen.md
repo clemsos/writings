@@ -1,6 +1,7 @@
 ---
 date: '2018-07-06'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Does Tencent let people visit their HQ in
     Shenzhen? - Quora

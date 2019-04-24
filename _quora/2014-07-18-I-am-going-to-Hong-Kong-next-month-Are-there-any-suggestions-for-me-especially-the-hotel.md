@@ -1,6 +1,7 @@
 ---
 date: '2014-07-18'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to I am going to Hong Kong next month. Are
     there any suggestions for me, especially the hotel? - Quora

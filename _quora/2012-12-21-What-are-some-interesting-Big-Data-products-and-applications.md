@@ -1,6 +1,7 @@
 ---
 date: '2012-12-21'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What are some interesting Big Data products
     and applications? - Quora

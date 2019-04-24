@@ -1,6 +1,7 @@
 ---
 date: '2015-02-20'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What are special considerations which Apple
     Pay faces in China which it does not face in other markets? - Quora

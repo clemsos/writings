@@ -1,6 +1,7 @@
 ---
 date: '2015-03-09'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to What programs does Intel have to identify
     and promote new engineering talent and new companies, both inside and

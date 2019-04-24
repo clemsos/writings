@@ -1,6 +1,7 @@
 ---
 date: '2015-02-20'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to I live in the United States, but I want to
     find a job in Shanghai. How does one go about the search? - Quora

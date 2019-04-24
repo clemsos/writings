@@ -1,6 +1,7 @@
 ---
 date: '2014-07-22'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to How do I write a research paper with a
     scientific \'voice\'? I was told by my mentor that my writing is

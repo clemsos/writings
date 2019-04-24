@@ -1,6 +1,7 @@
 ---
 date: '2014-06-18'
 source: quora
+language: en
 title: |
     Clément Renaud\'s answer to Which universities are in Ningbo, China and
     which fields are they strong in? - Quora
