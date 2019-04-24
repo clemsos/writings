@@ -3,7 +3,7 @@ layout: post
 title: Borgia, Le Jeu Malsain
 date: '2012-06-07T17:47:15+02:00'
 tags: []
-tumblr_url: https://clemsos.tumblr.com/post/24601068586/borgia-le-jeu-malsain
+original_url: https://clemsos.tumblr.com/post/24601068586/borgia-le-jeu-malsain
 ---
 [Borgia, Le Jeu Malsain](http://www.ulule.com/borgia/)  
 

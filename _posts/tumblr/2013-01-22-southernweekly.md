@@ -10,7 +10,7 @@ tags:
 - magazine
 - strike
 - journalism
-tumblr_url: https://clementrenaud.tumblr.com/post/41185053616/southernweekly
+original_url: https://clementrenaud.tumblr.com/post/41185053616/southernweekly
 ---
  ![](/img/tumblr/tumblr_mgrvd4WB881ruxvcko1_1280.jpg)  
 

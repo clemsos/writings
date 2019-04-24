@@ -8,7 +8,7 @@ tags:
 - data
 - science
 - culture
-tumblr_url: https://clementrenaud.tumblr.com/post/38221102228/data-culture-organismes-et-organisations
+original_url: https://clementrenaud.tumblr.com/post/38221102228/data-culture-organismes-et-organisations
 ---
 A la suite d'une [réflexion intéressante](http://www.mutinerie.org/de-zero-a-un/)&nbsp;sur la création de valeur par [Les Mutins](http://www.mutinerie.org)&nbsp;me vient l'envie d'écrire un post sur ce blog que j'ai deserté depuis longtemps.
 

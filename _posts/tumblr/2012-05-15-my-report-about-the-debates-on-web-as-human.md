@@ -9,7 +9,7 @@ tags:
 - human right
 - web
 - inrocks
-tumblr_url: https://clementrenaud.tumblr.com/post/23092161528/my-report-about-the-debates-on-web-as-human
+original_url: https://clementrenaud.tumblr.com/post/23092161528/my-report-about-the-debates-on-web-as-human
 ---
  ![](/img/tumblr/tumblr_m41vzjrswu1ruxvcko1_1280.jpg)  
 

@@ -3,7 +3,7 @@ layout: post
 title: triciawang oh what memories this military
 date: '2012-04-04T13:56:29+02:00'
 tags: []
-tumblr_url: https://clemsos.tumblr.com/post/20455395224/triciawang-oh-what-memories-this-military
+original_url: https://clemsos.tumblr.com/post/20455395224/triciawang-oh-what-memories-this-military
 ---
  ![](/img/tumblr/tumblr_m1wh2zYjWI1qz543qo1_640.jpg)  
 

@@ -8,7 +8,7 @@ tags:
 - ddj
 - tutorials
 - learn
-tumblr_url: https://clementrenaud.tumblr.com/post/22779091100/useful-notes-tipsheets-and-videos-from-the-school
+original_url: https://clementrenaud.tumblr.com/post/22779091100/useful-notes-tipsheets-and-videos-from-the-school
 ---
  **Liliana Bounegru&nbsp;** from&nbsp;[Data Driven Journalism](http://datadrivenjournalism.net/)&nbsp;just posted this goldmine for all people who are interested in data journalism. I cannot resist to share it here :&nbsp;
 

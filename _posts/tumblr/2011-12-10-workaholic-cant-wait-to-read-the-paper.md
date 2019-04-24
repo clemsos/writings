@@ -3,7 +3,7 @@ layout: post
 title: workaholic cant wait to read the paper
 date: '2011-12-10T13:33:58+01:00'
 tags: []
-tumblr_url: https://clemsos.tumblr.com/post/14003097314/workaholic-cant-wait-to-read-the-paper
+original_url: https://clemsos.tumblr.com/post/14003097314/workaholic-cant-wait-to-read-the-paper
 ---
  ![](/img/tumblr/tumblr_lv32qjkFzb1qz543qo1_640.jpg)  
 

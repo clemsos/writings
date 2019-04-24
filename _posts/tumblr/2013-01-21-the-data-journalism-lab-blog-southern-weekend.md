@@ -4,7 +4,7 @@ title: 'The Data Journalism Lab Blog: Southern Weekend affair: WeiboScope detect
   an exceptionally high volume of deleted posts on Sina Weibo'
 date: '2013-01-21T16:08:51+01:00'
 tags: []
-tumblr_url: https://clementrenaud.tumblr.com/post/41104717027/the-data-journalism-lab-blog-southern-weekend
+original_url: https://clementrenaud.tumblr.com/post/41104717027/the-data-journalism-lab-blog-southern-weekend
 ---
 [The Data Journalism Lab Blog: Southern Weekend affair: WeiboScope detects an exceptionally high volume of deleted posts on Sina Weibo](http://datajournalismlab.tumblr.com/post/39948696551/southern-weekend-affair-weiboscope-detects-an)  
 

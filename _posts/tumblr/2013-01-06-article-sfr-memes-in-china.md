@@ -8,7 +8,7 @@ tags:
 - memes
 - article
 - weibo
-tumblr_url: https://clementrenaud.tumblr.com/post/41002063511/article-sfr-memes-in-china
+original_url: https://clementrenaud.tumblr.com/post/41002063511/article-sfr-memes-in-china
 ---
 My last article about memes and Internet in China (in French)&nbsp;.
 

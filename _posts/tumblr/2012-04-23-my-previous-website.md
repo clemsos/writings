@@ -8,7 +8,7 @@ tags:
 - oldies
 - previous
 - portfolio
-tumblr_url: https://clementrenaud.tumblr.com/post/21638605447/my-previous-website
+original_url: https://clementrenaud.tumblr.com/post/21638605447/my-previous-website
 ---
 [My previous website](http://www.clemsos.com)  
 

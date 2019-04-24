@@ -9,7 +9,7 @@ tags:
 - Hack
 - TV
 - Mitch Altman
-tumblr_url: https://clemsos.tumblr.com/post/10920663941/i-had-so-much-fun-yesterday-1-learning
+original_url: https://clemsos.tumblr.com/post/10920663941/i-had-so-much-fun-yesterday-1-learning
 ---
  ![](/img/tumblr/tumblr_lsf7ckMrXI1qz8xe5o1_1280.jpg)  
 

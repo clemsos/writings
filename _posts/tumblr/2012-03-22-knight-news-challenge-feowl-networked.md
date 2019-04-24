@@ -3,7 +3,7 @@ layout: post
 title: 'Knight News Challenge: Feowl: Networked data-collection & power cuts monitoring'
 date: '2012-03-22T07:19:14+01:00'
 tags: []
-tumblr_url: https://clemsos.tumblr.com/post/19701855452/knight-news-challenge-feowl-networked
+original_url: https://clemsos.tumblr.com/post/19701855452/knight-news-challenge-feowl-networked
 ---
 [Knight News Challenge: Feowl: Networked data-collection & power cuts monitoring](http://newschallenge.tumblr.com/post/19240837131/feowl-networked-data-collection-power-cuts)  
 

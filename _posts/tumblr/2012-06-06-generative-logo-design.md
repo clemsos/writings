@@ -10,7 +10,7 @@ tags:
 - MIT Media lab
 - visual identity
 - algorithm
-tumblr_url: https://clementrenaud.tumblr.com/post/24552118799/generative-logo-design
+original_url: https://clementrenaud.tumblr.com/post/24552118799/generative-logo-design
 ---
 # Definition : “A generative logo use a computer-based algorithm to provide different shapes as basis for a visual identity.”
 

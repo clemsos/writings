@@ -9,7 +9,7 @@ tags:
 - ows
 - water
 - education
-tumblr_url: https://clementrenaud.tumblr.com/post/21704958979/some-of-my-thoughts-about-china-on-future
+original_url: https://clementrenaud.tumblr.com/post/21704958979/some-of-my-thoughts-about-china-on-future
 ---
 Just to share some articles I wrote some time ago on Future Challenges.
 

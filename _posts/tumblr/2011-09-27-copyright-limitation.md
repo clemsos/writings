@@ -7,7 +7,7 @@ tags:
 - internet
 - blocked
 - music
-tumblr_url: https://clemsos.tumblr.com/post/10728523789/copyright-limitation
+original_url: https://clemsos.tumblr.com/post/10728523789/copyright-limitation
 ---
  ![](/img/tumblr/tumblr_ls6tk01G5q1qz8xe5o1_1280.png)  
 

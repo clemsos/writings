@@ -8,7 +8,7 @@ tags:
 - lol
 - accident
 - citizen
-tumblr_url: https://clemsos.tumblr.com/post/10761134300/crazy-guy-in-the-metro-no-just-the-chinese-way
+original_url: https://clemsos.tumblr.com/post/10761134300/crazy-guy-in-the-metro-no-just-the-chinese-way
 ---
  ![](/img/tumblr/tumblr_ls82c3zbB01qz8xe5o1_500.jpg)  
 

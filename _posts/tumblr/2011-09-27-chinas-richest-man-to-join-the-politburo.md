@@ -7,7 +7,7 @@ tags:
 - China
 - money
 - get rich or die
-tumblr_url: https://clemsos.tumblr.com/post/10728466070/chinas-richest-man-to-join-the-politburo
+original_url: https://clemsos.tumblr.com/post/10728466070/chinas-richest-man-to-join-the-politburo
 ---
 [China's richest man 'to join the Politburo'](http://www.telegraph.co.uk/news/worldnews/asia/china/8789803/Chinas-richest-man-to-join-the-Politburo.html)  
 

@@ -3,7 +3,7 @@ layout: post
 title: self portrait 2009 a set on flickri just clean
 date: '2011-12-13T13:23:02+01:00'
 tags: []
-tumblr_url: https://clemsos.tumblr.com/post/14155487874/self-portrait-2009-a-set-on-flickri-just-clean
+original_url: https://clemsos.tumblr.com/post/14155487874/self-portrait-2009-a-set-on-flickri-just-clean
 ---
  ![](/img/tumblr/tumblr_lw4myf3xRJ1qz8xe5o1_640.jpg)  
 

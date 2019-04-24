@@ -7,7 +7,7 @@ tags:
 - article
 - hackerspaces
 - data journalism
-tumblr_url: https://clementrenaud.tumblr.com/post/31726714757/data-journalism-hackerspaces-in-amusement-13
+original_url: https://clementrenaud.tumblr.com/post/31726714757/data-journalism-hackerspaces-in-amusement-13
 ---
  ![](/img/tumblr/tumblr_mahvv56aj61ruxvcko1_1280.jpg)  
 

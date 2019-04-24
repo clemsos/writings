@@ -7,7 +7,7 @@ tags:
 - article
 - print
 - publication
-tumblr_url: https://clementrenaud.tumblr.com/post/39650736817/just-received-a-new-year-greetings
+original_url: https://clementrenaud.tumblr.com/post/39650736817/just-received-a-new-year-greetings
 ---
  ![](/img/tumblr/tumblr_mg3nbaCOJX1ruxvcko1_1280.jpg)  
 

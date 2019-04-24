@@ -10,7 +10,7 @@ tags:
 - organology
 - microblog
 - tech
-tumblr_url: https://clementrenaud.tumblr.com/post/41004471439/my-talk-at-tedxwuxi-recorded-in-dec-2012-in-wuxi
+original_url: https://clementrenaud.tumblr.com/post/41004471439/my-talk-at-tedxwuxi-recorded-in-dec-2012-in-wuxi
 ---
 <embed src="http://player.youku.com/player.php/sid/XNTAzMDQ4MDg4/v.swf" allowfullscreen="true" quality="high" width="400" height="333" align="middle" allowscriptaccess="always" type="application/x-shockwave-flash"></embed>  
 

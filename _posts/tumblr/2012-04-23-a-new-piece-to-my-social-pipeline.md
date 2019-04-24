@@ -8,7 +8,7 @@ tags:
 - sharism
 - official website
 - archive
-tumblr_url: https://clementrenaud.tumblr.com/post/21642878266/a-new-piece-to-my-social-pipeline
+original_url: https://clementrenaud.tumblr.com/post/21642878266/a-new-piece-to-my-social-pipeline
 ---
 I am really fed up with **reposting** info&nbsp;to dozens of social networks services and still need such a long time to find works I have published. It is both very repetitive and time-consuming, two things that I like to avoid in my daily life as far as possible.
 

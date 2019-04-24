@@ -9,7 +9,7 @@ tags:
 - censorship
 - microblog
 - sns
-tumblr_url: https://clemsos.tumblr.com/post/10728383691/this-image-is-a-screenshot-of-a-message-that-has
+original_url: https://clemsos.tumblr.com/post/10728383691/this-image-is-a-screenshot-of-a-message-that-has
 ---
  ![](/img/tumblr/tumblr_ls6t90Cr8M1qz8xe5o1_640.png)  
 
