@@ -20,6 +20,7 @@ The goals are :
   - [ ] list media archives (interviews, etc)
 - Backup
   - [x] Quora
+  - [ ] Quora fr (require some date conversion)
   - [ ] Scientific papers and conferences
   - [ ] Blogspot
   - [ ] Tumblr Blog
