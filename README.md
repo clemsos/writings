@@ -42,6 +42,7 @@ The goals are :
 ### Backup Quora
 
 1. Used https://github.com/t3nsor/quora-backup to backed things up and clean up html (successfully followed instructions).
-2. Used Pandoc
+2. Run `./bin/quora_convert_to_md.sh` to convert to md with proper names and dates (requires [pandoc](http://pandoc.org))
+3. Manually copy PNG files to an `img` folder and find/replace `![](main-qimg` to fix paths
 
 ### Backup Blogspot
