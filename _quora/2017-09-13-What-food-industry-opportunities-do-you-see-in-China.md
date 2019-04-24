@@ -3,7 +3,7 @@ date: '2017-09-13'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What food industry opportunities do you see
+    What food industry opportunities do you see
     in China? - Quora
 ---
 

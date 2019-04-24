@@ -3,7 +3,7 @@ date: '2015-08-05'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to I want to start learning about MEAN, what
+    I want to start learning about MEAN, what
     are some great projects to start with or some advanced projects? - Quora
 ---
 

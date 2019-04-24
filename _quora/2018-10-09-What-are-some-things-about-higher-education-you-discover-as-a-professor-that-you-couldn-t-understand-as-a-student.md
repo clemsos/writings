@@ -3,7 +3,7 @@ date: '2018-10-09'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What are some things about higher education
+    What are some things about higher education
     you discover as a professor that you couldn't understand as a student? -
     Quora
 ---

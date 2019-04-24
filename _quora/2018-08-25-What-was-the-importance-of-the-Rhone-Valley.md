@@ -3,7 +3,7 @@ date: '2018-08-25'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What was the importance of the Rhone Valley?
+    What was the importance of the Rhone Valley?
     - Quora
 ---
 

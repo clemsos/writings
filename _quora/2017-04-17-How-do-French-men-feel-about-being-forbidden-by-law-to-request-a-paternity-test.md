@@ -3,7 +3,7 @@ date: '2017-04-17'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to How do French men feel about being forbidden
+    How do French men feel about being forbidden
     by law to request a paternity test? - Quora
 ---
 

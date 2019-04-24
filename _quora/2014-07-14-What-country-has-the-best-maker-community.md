@@ -3,7 +3,7 @@ date: '2014-07-14'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What country has the best maker community? -
+    What country has the best maker community? -
     Quora
 ---
 

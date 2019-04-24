@@ -3,7 +3,7 @@ date: '2015-01-08'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What is the origin of Charlie Hebdo\'s name?
+    What is the origin of Charlie Hebdo\'s name?
     - Quora
 ---
 

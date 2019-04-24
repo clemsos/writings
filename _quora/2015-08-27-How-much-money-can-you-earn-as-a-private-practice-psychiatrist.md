@@ -3,7 +3,7 @@ date: '2015-08-27'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to How much money can you earn as a private
+    How much money can you earn as a private
     practice psychiatrist? - Quora
 ---
 

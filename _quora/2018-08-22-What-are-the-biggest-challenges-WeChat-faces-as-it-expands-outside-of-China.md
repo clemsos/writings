@@ -3,7 +3,7 @@ date: '2018-08-22'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What are the biggest challenges WeChat faces
+    What are the biggest challenges WeChat faces
     as it expands outside of China? - Quora
 ---
 

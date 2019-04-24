@@ -3,7 +3,7 @@ date: '2012-11-19'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What are important advantages and
+    What are important advantages and
     disadvantages of Symphony CMS when compared to Ruby on Rails? - Quora
 ---
 

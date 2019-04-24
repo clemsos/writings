@@ -3,7 +3,7 @@ date: '2018-11-08'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to A European Union plan to tax Google,
+    A European Union plan to tax Google,
     Facebook and other internet firms, risks failure because a handful of
     member states announced their opposition. Which states and why? - Quora
 ---

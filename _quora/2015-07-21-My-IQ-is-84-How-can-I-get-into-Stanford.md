@@ -3,7 +3,7 @@ date: '2015-07-21'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to My IQ is 84. How can I get into Stanford? -
+    My IQ is 84. How can I get into Stanford? -
     Quora
 ---
 

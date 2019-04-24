@@ -3,7 +3,7 @@ date: '2017-08-30'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to How can I become more of alpha male in a
+    How can I become more of alpha male in a
     group where everyone has a quality better than I do? - Quora
 ---
 

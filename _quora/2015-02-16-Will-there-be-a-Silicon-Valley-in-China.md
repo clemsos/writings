@@ -3,7 +3,7 @@ date: '2015-02-16'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Will there be a Silicon Valley in China? -
+    Will there be a Silicon Valley in China? -
     Quora
 ---
 

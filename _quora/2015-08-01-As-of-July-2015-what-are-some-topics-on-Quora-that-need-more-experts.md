@@ -3,7 +3,7 @@ date: '2015-08-01'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to As of July 2015, what are some topics on
+    As of July 2015, what are some topics on
     Quora that need more experts? - Quora
 ---
 

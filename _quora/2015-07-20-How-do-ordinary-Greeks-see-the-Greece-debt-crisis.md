@@ -3,7 +3,7 @@ date: '2015-07-20'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to How do ordinary Greeks see the Greece debt
+    How do ordinary Greeks see the Greece debt
     crisis? - Quora
 ---
 

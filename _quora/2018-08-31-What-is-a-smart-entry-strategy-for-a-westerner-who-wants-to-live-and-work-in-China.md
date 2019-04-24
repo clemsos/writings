@@ -3,7 +3,7 @@ date: '2018-08-31'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What is a smart entry strategy for a
+    What is a smart entry strategy for a
     westerner who wants to live and work in China? - Quora
 ---
 

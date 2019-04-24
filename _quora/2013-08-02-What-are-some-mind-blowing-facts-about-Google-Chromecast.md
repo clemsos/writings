@@ -3,7 +3,7 @@ date: '2013-08-02'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What are some mind-blowing facts about
+    What are some mind-blowing facts about
     Google Chromecast? - Quora
 ---
 

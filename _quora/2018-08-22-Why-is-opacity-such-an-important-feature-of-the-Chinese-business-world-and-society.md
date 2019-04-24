@@ -3,7 +3,7 @@ date: '2018-08-22'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Why is opacity such an important feature of
+    Why is opacity such an important feature of
     the Chinese business world and society? - Quora
 ---
 

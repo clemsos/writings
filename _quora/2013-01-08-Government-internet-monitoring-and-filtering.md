@@ -3,7 +3,7 @@ date: '2013-01-08'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Government internet monitoring and
+    Government internet monitoring and
     filtering? - Quora
 ---
 

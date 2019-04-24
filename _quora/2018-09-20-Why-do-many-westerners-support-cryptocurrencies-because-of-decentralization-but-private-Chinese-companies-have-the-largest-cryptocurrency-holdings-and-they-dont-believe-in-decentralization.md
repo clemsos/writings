@@ -3,7 +3,7 @@ date: '2018-09-20'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Why do many westerners support
+    Why do many westerners support
     cryptocurrencies because of decentralization, but private Chinese
     companies have the largest cryptocurrency holdings, and they don\'t
     believe in decentralization? - Quora

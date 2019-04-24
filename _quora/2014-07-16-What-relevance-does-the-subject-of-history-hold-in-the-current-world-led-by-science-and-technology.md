@@ -3,7 +3,7 @@ date: '2014-07-16'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What relevance does the subject of history
+    What relevance does the subject of history
     hold in the current world led by science and technology? - Quora
 ---
 

@@ -3,7 +3,7 @@ date: '2019-01-02'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Is it a good decision to delete all social
+    Is it a good decision to delete all social
     media networks such as WhatsApp and Facebook in order to focus on a PhD?
     - Quora
 ---

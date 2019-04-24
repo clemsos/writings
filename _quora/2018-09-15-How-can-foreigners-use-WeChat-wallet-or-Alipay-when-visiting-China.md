@@ -3,7 +3,7 @@ date: '2018-09-15'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to How can foreigners use WeChat wallet or
+    How can foreigners use WeChat wallet or
     Alipay when visiting China? - Quora
 ---
 

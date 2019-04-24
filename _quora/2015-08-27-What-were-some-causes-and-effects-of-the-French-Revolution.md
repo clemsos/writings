@@ -3,7 +3,7 @@ date: '2015-08-27'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What were some causes and effects of the
+    What were some causes and effects of the
     French Revolution? - Quora
 ---
 

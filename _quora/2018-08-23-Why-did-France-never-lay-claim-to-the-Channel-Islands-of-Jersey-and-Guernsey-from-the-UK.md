@@ -3,7 +3,7 @@ date: '2018-08-23'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Why did France never lay claim to the
+    Why did France never lay claim to the
     Channel Islands of Jersey and Guernsey from the UK? - Quora
 ---
 

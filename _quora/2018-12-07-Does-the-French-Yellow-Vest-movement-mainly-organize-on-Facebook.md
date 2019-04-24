@@ -3,7 +3,7 @@ date: '2018-12-07'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Does the French \'Yellow Vest\' movement
+    Does the French \'Yellow Vest\' movement
     mainly organize on Facebook? - Quora
 ---
 

@@ -3,7 +3,7 @@ date: '2015-08-13'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Is it difficult for a foreigner to read a
+    Is it difficult for a foreigner to read a
     Chinese book in China although many interesting books are written in
     Chinese? - Quora
 ---

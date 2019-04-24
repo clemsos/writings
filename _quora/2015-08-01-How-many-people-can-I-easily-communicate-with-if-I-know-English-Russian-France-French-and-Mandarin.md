@@ -3,7 +3,7 @@ date: '2015-08-01'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to How many people can I easily communicate
+    How many people can I easily communicate
     with if I know English, Russian, France French, and Mandarin? - Quora
 ---
 

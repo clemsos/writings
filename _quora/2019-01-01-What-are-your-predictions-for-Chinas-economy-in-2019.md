@@ -3,7 +3,7 @@ date: '2019-01-01'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What are your predictions for China\'s
+    What are your predictions for China\'s
     economy in 2019? - Quora
 ---
 

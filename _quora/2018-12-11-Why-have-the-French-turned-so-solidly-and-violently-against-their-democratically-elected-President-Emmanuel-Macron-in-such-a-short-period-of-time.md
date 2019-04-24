@@ -3,7 +3,7 @@ date: '2018-12-11'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Why have the French turned so solidly and
+    Why have the French turned so solidly and
     violently against their democratically elected President, Emmanuel
     Macron, in such a short period of time? - Quora
 ---
@@ -81,7 +81,7 @@ Footnotes
 It Getting
 There?](https://www.nytimes.com/2018/05/23/business/emmanuel-macron-france-technology.html)
 
-[\[2\]](#cite-ERUJz)[Clément Renaud\'s answer to Why are French people
+[\[2\]](#cite-ERUJz)[Why are French people
 protesting so massively? Is it only for the fuel tax or there is more
 behind
 it?](http://quora.com/Why-are-French-people-protesting-so-massively-Is-it-only-for-the-fuel-tax-or-there-is-more-behind-it/answer/Cl%C3%A9ment-Renaud)

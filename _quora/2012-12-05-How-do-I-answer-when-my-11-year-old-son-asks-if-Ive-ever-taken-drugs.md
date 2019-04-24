@@ -3,7 +3,7 @@ date: '2012-12-05'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to How do I answer when my 11 year old son asks
+    How do I answer when my 11 year old son asks
     if I\'ve ever taken drugs? - Quora
 ---
 

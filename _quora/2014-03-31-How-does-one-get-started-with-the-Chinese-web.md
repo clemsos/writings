@@ -3,7 +3,7 @@ date: '2014-03-31'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to How does one get started with the Chinese
+    How does one get started with the Chinese
     web? - Quora
 ---
 

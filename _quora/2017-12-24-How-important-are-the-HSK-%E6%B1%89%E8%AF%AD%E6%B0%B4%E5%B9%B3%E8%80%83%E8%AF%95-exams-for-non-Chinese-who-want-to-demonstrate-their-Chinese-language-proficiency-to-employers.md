@@ -3,7 +3,7 @@ date: '2017-12-24'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to How important are the HSK 汉语水平考试 exams
+    How important are the HSK 汉语水平考试 exams
     for non-Chinese who want to demonstrate their Chinese language
     proficiency to employers? - Quora
 ---

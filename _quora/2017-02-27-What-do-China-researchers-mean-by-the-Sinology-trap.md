@@ -3,7 +3,7 @@ date: '2017-02-27'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What do China researchers mean by \'the
+    What do China researchers mean by \'the
     Sinology trap\'? - Quora
 ---
 

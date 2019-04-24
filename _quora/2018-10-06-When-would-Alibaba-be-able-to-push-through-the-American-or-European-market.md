@@ -3,7 +3,7 @@ date: '2018-10-06'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to When would Alibaba be able to push through
+    When would Alibaba be able to push through
     the American or European market? - Quora
 ---
 

@@ -3,7 +3,7 @@ date: '2012-12-21'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What are the most euphoric songs of all
+    What are the most euphoric songs of all
     time? - Quora
 ---
 

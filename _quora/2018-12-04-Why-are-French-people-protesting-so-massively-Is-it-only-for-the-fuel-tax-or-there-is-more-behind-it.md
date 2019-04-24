@@ -3,7 +3,7 @@ date: '2018-12-04'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Why are French people protesting so
+    Why are French people protesting so
     massively? Is it only for the fuel tax or there is more behind it? -
     Quora
 ---

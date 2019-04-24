@@ -3,7 +3,7 @@ date: '2013-07-28'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What are some challenging projects/ research
+    What are some challenging projects/ research
     problems in data mining that I can work on? - Quora
 ---
 

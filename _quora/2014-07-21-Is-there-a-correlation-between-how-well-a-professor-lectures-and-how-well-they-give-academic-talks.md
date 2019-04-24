@@ -3,7 +3,7 @@ date: '2014-07-21'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Is there a correlation between how well a
+    Is there a correlation between how well a
     professor lectures and how well they give academic talks? - Quora
 ---
 

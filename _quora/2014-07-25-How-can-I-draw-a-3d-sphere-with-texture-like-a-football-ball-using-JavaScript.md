@@ -3,7 +3,7 @@ date: '2014-07-25'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to How can I draw a 3d sphere with texture,
+    How can I draw a 3d sphere with texture,
     like a football ball, using JavaScript? - Quora
 ---
 

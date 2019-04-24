@@ -3,7 +3,7 @@ date: '2018-09-04'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Why do China watchers pay so much attention
+    Why do China watchers pay so much attention
     to the front page of People\'s Daily? - Quora
 ---
 

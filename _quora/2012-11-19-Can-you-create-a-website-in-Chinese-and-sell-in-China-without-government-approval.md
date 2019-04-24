@@ -3,7 +3,7 @@ date: '2012-11-19'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Can you create a website in Chinese and sell
+    Can you create a website in Chinese and sell
     in China without government approval? - Quora
 ---
 

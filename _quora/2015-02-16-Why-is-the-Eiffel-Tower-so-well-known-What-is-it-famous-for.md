@@ -3,7 +3,7 @@ date: '2015-02-16'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Why is the Eiffel Tower so well known? What
+    Why is the Eiffel Tower so well known? What
     is it famous for? - Quora
 ---
 

@@ -3,7 +3,7 @@ date: '2015-02-13'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Which writers have a profound understanding
+    Which writers have a profound understanding
     of the culture of Quebec and Montreal? - Quora
 ---
 

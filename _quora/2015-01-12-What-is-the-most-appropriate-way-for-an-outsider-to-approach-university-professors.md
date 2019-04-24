@@ -3,7 +3,7 @@ date: '2015-01-12'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What is the most appropriate way for an
+    What is the most appropriate way for an
     outsider to approach university professors? - Quora
 ---
 

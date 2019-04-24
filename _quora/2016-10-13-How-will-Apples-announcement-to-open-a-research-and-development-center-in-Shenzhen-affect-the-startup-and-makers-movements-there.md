@@ -3,7 +3,7 @@ date: '2016-10-13'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to How will Apple\'s announcement to open a
+    How will Apple\'s announcement to open a
     research and development center in Shenzhen affect the startup and
     makers movements there? - Quora
 ---

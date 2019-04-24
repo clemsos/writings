@@ -3,7 +3,7 @@ date: '2017-01-17'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Should social science be more
+    Should social science be more
     solution-oriented? - Quora
 ---
 

@@ -3,7 +3,7 @@ date: '2019-01-01'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to How can I find a job in Shenzhen for expats,
+    How can I find a job in Shenzhen for expats,
     preferably non-teaching? - Quora
 ---
 

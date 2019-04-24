@@ -3,7 +3,7 @@ date: '2014-02-23'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What do you think of Asians who are always
+    What do you think of Asians who are always
     gathering and using their mother tongue to communicate? - Quora
 ---
 

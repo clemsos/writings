@@ -3,7 +3,7 @@ date: '2013-01-16'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Which language learning program is more
+    Which language learning program is more
     effective: Pimsleur or Rosetta Stone? - Quora
 ---
 

@@ -3,7 +3,7 @@ date: '2017-09-13'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Is becoming fluent in Chinese like learning
+    Is becoming fluent in Chinese like learning
     computer programming? - Quora
 ---
 

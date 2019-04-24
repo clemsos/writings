@@ -3,7 +3,7 @@ date: '2018-11-23'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What do you think about China\'s Social
+    What do you think about China\'s Social
     Credit System? - Quora
 ---
 

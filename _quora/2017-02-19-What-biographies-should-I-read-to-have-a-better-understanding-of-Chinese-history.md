@@ -3,7 +3,7 @@ date: '2017-02-19'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What biographies should I read to have a
+    What biographies should I read to have a
     better understanding of Chinese history? - Quora
 ---
 

@@ -3,7 +3,7 @@ date: '2019-04-06'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Could Shenzhen International Airport
+    Could Shenzhen International Airport
     overtake Hong Kong International Airport as Shenzhen becomes more
     relevant in the next 10-20+ years? - Quora
 ---

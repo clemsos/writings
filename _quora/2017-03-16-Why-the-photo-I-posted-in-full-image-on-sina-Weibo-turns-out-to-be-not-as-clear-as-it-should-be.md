@@ -3,7 +3,7 @@ date: '2017-03-16'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Why the photo I posted in full image on sina
+    Why the photo I posted in full image on sina
     Weibo turns out to be not as clear as it should be? - Quora
 ---
 

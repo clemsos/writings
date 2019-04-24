@@ -3,7 +3,7 @@ date: '2015-04-13'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to How many Quorans know Qingdao or have been
+    How many Quorans know Qingdao or have been
     to Qingdao? - Quora
 ---
 

@@ -3,7 +3,7 @@ date: '2018-08-25'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What type of web apps is Flask better for,
+    What type of web apps is Flask better for,
     and what type of web apps is Django better for? - Quora
 ---
 

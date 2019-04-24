@@ -3,7 +3,7 @@ date: '2018-08-22'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What is the difference between the Yonex
+    What is the difference between the Yonex
     racket made in China and Japan? - Quora
 ---
 

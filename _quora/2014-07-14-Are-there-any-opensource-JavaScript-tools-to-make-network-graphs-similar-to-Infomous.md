@@ -3,7 +3,7 @@ date: '2014-07-14'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Are there any opensource JavaScript tools to
+    Are there any opensource JavaScript tools to
     make network graphs similar to Infomous? - Quora
 ---
 

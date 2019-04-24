@@ -3,7 +3,7 @@ date: '2014-07-09'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What are the most important factories in
+    What are the most important factories in
     France? - Quora
 ---
 

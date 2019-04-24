@@ -3,7 +3,7 @@ date: '2013-02-14'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Web Censorship in China: What are the
+    Web Censorship in China: What are the
     statistics of tweets censored and taken down on Sina Weibo? Is there a
     way just to keep a history of that? - Quora
 ---

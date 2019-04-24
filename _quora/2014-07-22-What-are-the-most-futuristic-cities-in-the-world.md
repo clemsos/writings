@@ -3,7 +3,7 @@ date: '2014-07-22'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What are the most futuristic cities in the
+    What are the most futuristic cities in the
     world? - Quora
 ---
 

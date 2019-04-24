@@ -3,7 +3,7 @@ date: '2017-06-20'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What is your first impression when you
+    What is your first impression when you
     arrive in Shenzhen? - Quora
 ---
 

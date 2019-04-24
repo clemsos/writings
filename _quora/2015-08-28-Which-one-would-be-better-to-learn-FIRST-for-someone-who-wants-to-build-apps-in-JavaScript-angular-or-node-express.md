@@ -3,7 +3,7 @@ date: '2015-08-28'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Which one would be better to learn FIRST for
+    Which one would be better to learn FIRST for
     someone who wants to build apps in JavaScript, angular or node-express?
     - Quora
 ---

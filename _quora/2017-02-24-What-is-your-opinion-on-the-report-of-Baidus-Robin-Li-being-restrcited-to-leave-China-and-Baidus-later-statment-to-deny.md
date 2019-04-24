@@ -3,7 +3,7 @@ date: '2017-02-24'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What is your opinion on the report of
+    What is your opinion on the report of
     Baidu\'s Robin Li being restrcited to leave China and Baidu\'s later
     statment to deny? - Quora
 ---

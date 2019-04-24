@@ -3,7 +3,7 @@ date: '2015-02-24'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Why are Google and Facebook banned in China?
+    Why are Google and Facebook banned in China?
     If Google is banned, then how do Chinese phones have Android? - Quora
 ---
 

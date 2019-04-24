@@ -3,7 +3,7 @@ date: '2017-01-05'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to How many hours a day should I learn Chinese
+    How many hours a day should I learn Chinese
     to be fluent in a year? - Quora
 ---
 

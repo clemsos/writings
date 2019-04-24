@@ -3,7 +3,7 @@ date: '2018-08-22'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What makes China\'s influencer community
+    What makes China\'s influencer community
     different from the US? - Quora
 ---
 

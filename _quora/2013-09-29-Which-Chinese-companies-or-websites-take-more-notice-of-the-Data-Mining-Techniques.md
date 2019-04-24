@@ -3,7 +3,7 @@ date: '2013-09-29'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Which Chinese companies or websites take
+    Which Chinese companies or websites take
     more notice of the Data Mining Techniques? - Quora
 ---
 

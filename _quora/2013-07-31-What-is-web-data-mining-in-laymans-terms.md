@@ -3,7 +3,7 @@ date: '2013-07-31'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What is web data mining in layman\'s terms?
+    What is web data mining in layman\'s terms?
     - Quora
 ---
 

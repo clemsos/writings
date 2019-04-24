@@ -3,7 +3,7 @@ date: '2017-08-24'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What do China\'s teenagers think of the
+    What do China\'s teenagers think of the
     Chinese government? - Quora
 ---
 

@@ -3,7 +3,7 @@ date: '2018-04-02'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Why doesn't Shenzhen have an attractive
+    Why doesn't Shenzhen have an attractive
     university for both Chinese and foreigners? - Quora
 ---
 

@@ -3,7 +3,7 @@ date: '2017-09-13'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What are the main criticisms of Chinese
+    What are the main criticisms of Chinese
     foreign policy in 2017? - Quora
 ---
 

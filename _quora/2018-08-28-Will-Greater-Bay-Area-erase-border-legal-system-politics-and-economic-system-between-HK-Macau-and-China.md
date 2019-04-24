@@ -3,7 +3,7 @@ date: '2018-08-28'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Will Greater Bay Area erase border, legal
+    Will Greater Bay Area erase border, legal
     system, politics, and economic system between HK, Macau and China? -
     Quora
 ---

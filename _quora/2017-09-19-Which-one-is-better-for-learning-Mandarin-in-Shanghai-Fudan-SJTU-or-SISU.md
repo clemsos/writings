@@ -3,7 +3,7 @@ date: '2017-09-19'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Which one is better for learning Mandarin in
+    Which one is better for learning Mandarin in
     Shanghai, Fudan, SJTU, or SISU? - Quora
 ---
 

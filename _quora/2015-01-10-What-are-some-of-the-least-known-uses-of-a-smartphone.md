@@ -3,7 +3,7 @@ date: '2015-01-10'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What are some of the least known uses of a
+    What are some of the least known uses of a
     smartphone? - Quora
 ---
 

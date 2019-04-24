@@ -3,7 +3,7 @@ date: '2014-07-16'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to I heard you can get a PhD in UK in 3 years.
+    I heard you can get a PhD in UK in 3 years.
     Can you do the same at Spain, France, Italy, etc? - Quora
 ---
 

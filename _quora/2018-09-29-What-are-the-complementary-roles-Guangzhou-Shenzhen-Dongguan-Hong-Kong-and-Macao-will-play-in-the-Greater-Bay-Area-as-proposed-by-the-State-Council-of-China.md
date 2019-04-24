@@ -3,7 +3,7 @@ date: '2018-09-29'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What are the complementary roles Guangzhou,
+    What are the complementary roles Guangzhou,
     Shenzhen, Dongguan, Hong Kong and Macao will play in the Greater Bay
     Area as proposed by the State Council of China? - Quora
 ---

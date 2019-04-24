@@ -3,7 +3,7 @@ date: '2015-02-25'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What are the things that can only be done in
+    What are the things that can only be done in
     Wuhan, China? - Quora
 ---
 

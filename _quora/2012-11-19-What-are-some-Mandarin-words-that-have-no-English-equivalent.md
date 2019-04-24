@@ -3,7 +3,7 @@ date: '2012-11-19'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What are some Mandarin words that have no
+    What are some Mandarin words that have no
     English equivalent? - Quora
 ---
 

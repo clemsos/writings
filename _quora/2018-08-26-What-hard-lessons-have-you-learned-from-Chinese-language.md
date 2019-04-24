@@ -3,7 +3,7 @@ date: '2018-08-26'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What hard lessons have you learned from
+    What hard lessons have you learned from
     Chinese language? - Quora
 ---
 

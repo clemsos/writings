@@ -3,7 +3,7 @@ date: '2018-10-21'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What would a Uighur version of Joshua Wong
+    What would a Uighur version of Joshua Wong
     or the Dalai Lama look like? - Quora
 ---
 

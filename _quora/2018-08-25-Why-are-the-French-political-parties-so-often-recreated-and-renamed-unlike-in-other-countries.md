@@ -3,7 +3,7 @@ date: '2018-08-25'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Why are the French political parties so
+    Why are the French political parties so
     often recreated and renamed unlike in other countries? - Quora
 ---
 

@@ -3,7 +3,7 @@ date: '2014-07-05'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to As a non-Chinese, how do you feel about the
+    As a non-Chinese, how do you feel about the
     \'Occupy Central\' movement of Hong Kong? - Quora
 ---
 

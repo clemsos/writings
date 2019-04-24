@@ -3,7 +3,7 @@ date: '2015-04-16'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to I want to move to China for at least a year.
+    I want to move to China for at least a year.
     What are some options I have? - Quora
 ---
 

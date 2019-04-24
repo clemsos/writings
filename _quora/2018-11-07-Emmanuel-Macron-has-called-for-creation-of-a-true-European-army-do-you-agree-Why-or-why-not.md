@@ -3,7 +3,7 @@ date: '2018-11-07'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Emmanuel Macron has called for creation of a
+    Emmanuel Macron has called for creation of a
     'true European army' do you agree? Why or why not? - Quora
 ---
 

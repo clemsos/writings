@@ -3,7 +3,7 @@ date: '2018-10-30'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What are good books on High Speed Rail
+    What are good books on High Speed Rail
     Planning in China? - Quora
 ---
 

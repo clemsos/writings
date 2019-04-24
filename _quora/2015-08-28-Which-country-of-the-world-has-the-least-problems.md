@@ -3,7 +3,7 @@ date: '2015-08-28'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Which country of the world has the least
+    Which country of the world has the least
     problems? - Quora
 ---
 

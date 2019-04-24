@@ -3,7 +3,7 @@ date: '2015-07-09'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to How do I read console window errors from
+    How do I read console window errors from
     Chrome using JavaScript? - Quora
 ---
 

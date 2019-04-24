@@ -3,7 +3,7 @@ date: '2014-06-17'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What do foreigners think about the programme
+    What do foreigners think about the programme
     of \'A Bite of China\'? - Quora
 ---
 

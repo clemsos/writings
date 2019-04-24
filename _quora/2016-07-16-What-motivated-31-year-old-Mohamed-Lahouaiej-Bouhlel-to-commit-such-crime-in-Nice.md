@@ -3,7 +3,7 @@ date: '2016-07-16'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What motivated 31 year old Mohamed Lahouaiej
+    What motivated 31 year old Mohamed Lahouaiej
     Bouhlel to commit such crime in Nice? - Quora
 ---
 

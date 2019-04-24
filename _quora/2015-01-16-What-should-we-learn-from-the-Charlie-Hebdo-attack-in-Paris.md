@@ -3,7 +3,7 @@ date: '2015-01-16'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What should we learn from the Charlie Hebdo
+    What should we learn from the Charlie Hebdo
     attack in Paris? - Quora
 ---
 

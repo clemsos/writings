@@ -3,7 +3,7 @@ date: '2018-08-22'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What\'s the most terrible aspect of Silicon
+    What\'s the most terrible aspect of Silicon
     Valley? - Quora
 ---
 

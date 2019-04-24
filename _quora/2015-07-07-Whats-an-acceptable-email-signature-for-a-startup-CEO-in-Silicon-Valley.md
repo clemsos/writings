@@ -3,7 +3,7 @@ date: '2015-07-07'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What\'s an acceptable email signature for a
+    What\'s an acceptable email signature for a
     startup CEO in Silicon Valley? - Quora
 ---
 

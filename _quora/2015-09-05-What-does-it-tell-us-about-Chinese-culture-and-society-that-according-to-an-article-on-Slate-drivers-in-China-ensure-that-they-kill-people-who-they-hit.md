@@ -3,7 +3,7 @@ date: '2015-09-05'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What does it tell us about Chinese culture
+    What does it tell us about Chinese culture
     and society that, according to an article on Slate, drivers in China
     ensure that they kill people who they hit? - Quora
 ---

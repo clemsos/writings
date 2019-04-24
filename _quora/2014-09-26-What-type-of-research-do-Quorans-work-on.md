@@ -3,7 +3,7 @@ date: '2014-09-26'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What type of research do Quorans work on? -
+    What type of research do Quorans work on? -
     Quora
 ---
 

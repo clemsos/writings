@@ -3,7 +3,7 @@ date: '2018-08-28'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What is the relationship like between China
+    What is the relationship like between China
     and France? - Quora
 ---
 

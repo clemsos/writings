@@ -3,7 +3,7 @@ date: '2018-08-25'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Is jQuery still worth it? What should I
+    Is jQuery still worth it? What should I
     learn after JS Vanilla? - Quora
 ---
 

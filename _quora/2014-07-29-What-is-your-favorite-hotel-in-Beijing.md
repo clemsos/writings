@@ -3,7 +3,7 @@ date: '2014-07-29'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What is your favorite hotel in Beijing? -
+    What is your favorite hotel in Beijing? -
     Quora
 ---
 

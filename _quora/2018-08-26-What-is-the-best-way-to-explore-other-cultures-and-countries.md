@@ -3,7 +3,7 @@ date: '2018-08-26'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What is the best way to explore other
+    What is the best way to explore other
     cultures and countries? - Quora
 ---
 

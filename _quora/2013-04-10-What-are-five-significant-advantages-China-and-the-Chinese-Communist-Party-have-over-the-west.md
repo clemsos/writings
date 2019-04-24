@@ -3,7 +3,7 @@ date: '2013-04-10'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What are five significant advantages China
+    What are five significant advantages China
     and the Chinese Communist Party have over the west? - Quora
 ---
 

@@ -3,7 +3,7 @@ date: '2014-06-16'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to China has blocked all of Google services
+    China has blocked all of Google services
     now, why doesn\'t Google fight back? - Quora
 ---
 

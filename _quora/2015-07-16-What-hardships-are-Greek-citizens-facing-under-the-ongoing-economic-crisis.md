@@ -3,7 +3,7 @@ date: '2015-07-16'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What hardships are Greek citizens facing
+    What hardships are Greek citizens facing
     under the ongoing economic crisis? - Quora
 ---
 

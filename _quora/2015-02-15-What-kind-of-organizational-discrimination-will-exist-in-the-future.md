@@ -3,7 +3,7 @@ date: '2015-02-15'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What kind of organizational discrimination
+    What kind of organizational discrimination
     will exist in the future? - Quora
 ---
 

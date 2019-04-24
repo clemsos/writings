@@ -3,7 +3,7 @@ date: '2018-08-22'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What is the way to correct the behavior of
+    What is the way to correct the behavior of
     countries that dig under walls and infiltrate by sending spies? Is force
     the only way for that? - Quora
 ---

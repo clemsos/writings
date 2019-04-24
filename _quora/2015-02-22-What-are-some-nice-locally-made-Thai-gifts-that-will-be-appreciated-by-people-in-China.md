@@ -3,7 +3,7 @@ date: '2015-02-22'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What are some nice locally made Thai gifts
+    What are some nice locally made Thai gifts
     that will be appreciated by people in China? - Quora
 ---
 

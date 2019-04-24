@@ -3,7 +3,7 @@ date: '2015-09-04'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What are some compliments or flattering
+    What are some compliments or flattering
     phrases you can say to a woman in French? - Quora
 ---
 

@@ -2,7 +2,7 @@
 date: '2012-11-19'
 source: quora
 language: en
-title: 'Clément Renaud\''s answer to What\''s so great about Baidu? - Quora'
+title: 'What\''s so great about Baidu? - Quora'
 ---
 
 From a user perspective :\

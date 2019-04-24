@@ -3,7 +3,7 @@ date: '2018-10-05'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to When did Hong Kong first get democracy? -
+    When did Hong Kong first get democracy? -
     Quora
 ---
 

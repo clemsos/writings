@@ -3,7 +3,7 @@ date: '2018-08-22'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What should I see in Shenzhen if I want to
+    What should I see in Shenzhen if I want to
     see the tech scene? - Quora
 ---
 

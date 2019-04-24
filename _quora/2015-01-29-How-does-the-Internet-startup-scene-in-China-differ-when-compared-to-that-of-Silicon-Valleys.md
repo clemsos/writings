@@ -3,7 +3,7 @@ date: '2015-01-29'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to How does the Internet startup scene in China
+    How does the Internet startup scene in China
     differ when compared to that of Silicon Valley\'s? - Quora
 ---
 

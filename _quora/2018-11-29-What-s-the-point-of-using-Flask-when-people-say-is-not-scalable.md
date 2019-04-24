@@ -3,7 +3,7 @@ date: '2018-11-29'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What's the point of using Flask when people
+    What's the point of using Flask when people
     say is not scalable? - Quora
 ---
 

@@ -3,7 +3,7 @@ date: '2015-02-20'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What are special considerations which Apple
+    What are special considerations which Apple
     Pay faces in China which it does not face in other markets? - Quora
 ---
 
@@ -58,7 +58,7 @@ be bored of Apple \"Californian dream\" marketing. They will go for the
 best service, so it may be a tough round to bring Apple Pay to success
 in China.\
 \
-More on this : [Clément Renaud\'s answer to What caused iPhones to be
+More on this : [What caused iPhones to be
 status symbols in China and around the
 world?](http://quora.com/What-caused-iPhones-to-be-status-symbols-in-China-and-around-the-world/answer/Cl%C3%A9ment-Renaud)\
 \

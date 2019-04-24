@@ -3,7 +3,7 @@ date: '2015-04-09'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What are some ongoing mega-projects in
+    What are some ongoing mega-projects in
     China? - Quora
 ---
 

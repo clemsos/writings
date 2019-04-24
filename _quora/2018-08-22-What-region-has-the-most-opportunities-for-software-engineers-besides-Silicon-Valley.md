@@ -3,7 +3,7 @@ date: '2018-08-22'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What region has the most opportunities for
+    What region has the most opportunities for
     software engineers besides Silicon Valley? - Quora
 ---
 

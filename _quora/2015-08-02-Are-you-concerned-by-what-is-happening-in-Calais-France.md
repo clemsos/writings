@@ -3,7 +3,7 @@ date: '2015-08-02'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Are you concerned by what is happening in
+    Are you concerned by what is happening in
     Calais (France)? - Quora
 ---
 

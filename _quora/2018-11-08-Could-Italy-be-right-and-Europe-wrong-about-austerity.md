@@ -3,7 +3,7 @@ date: '2018-11-08'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Could Italy be right and Europe wrong about
+    Could Italy be right and Europe wrong about
     austerity? - Quora
 ---
 

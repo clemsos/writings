@@ -3,7 +3,7 @@ date: '2014-02-21'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to In what ways are Chinese social trends and
+    In what ways are Chinese social trends and
     behavior ahead of US social trends and behavior? - Quora
 ---
 

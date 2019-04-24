@@ -3,7 +3,7 @@ date: '2013-07-30'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to How would you explain autism to a child? -
+    How would you explain autism to a child? -
     Quora
 ---
 

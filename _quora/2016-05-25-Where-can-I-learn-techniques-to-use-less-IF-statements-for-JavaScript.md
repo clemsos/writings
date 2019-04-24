@@ -3,7 +3,7 @@ date: '2016-05-25'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Where can I learn techniques to use less IF
+    Where can I learn techniques to use less IF
     statements for JavaScript? - Quora
 ---
 

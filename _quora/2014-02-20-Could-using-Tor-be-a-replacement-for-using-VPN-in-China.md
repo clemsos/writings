@@ -3,7 +3,7 @@ date: '2014-02-20'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Could using Tor be a replacement for using
+    Could using Tor be a replacement for using
     VPN in China? - Quora
 ---
 

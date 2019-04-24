@@ -3,7 +3,7 @@ date: '2018-10-21'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Who is the most regarded or popular leader
+    Who is the most regarded or popular leader
     of China other than Mao? - Quora
 ---
 

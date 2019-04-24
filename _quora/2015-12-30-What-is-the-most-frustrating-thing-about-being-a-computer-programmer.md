@@ -3,7 +3,7 @@ date: '2015-12-30'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What is the most frustrating thing about
+    What is the most frustrating thing about
     being a computer programmer? - Quora
 ---
 

@@ -3,7 +3,7 @@ date: '2015-07-23'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Why doesn\'t the European Union eject
+    Why doesn\'t the European Union eject
     Greece? - Quora
 ---
 

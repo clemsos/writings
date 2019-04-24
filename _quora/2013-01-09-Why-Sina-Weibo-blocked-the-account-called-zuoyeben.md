@@ -3,7 +3,7 @@ date: '2013-01-09'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Why Sina Weibo blocked the account called
+    Why Sina Weibo blocked the account called
     \'zuoyeben\'? - Quora
 ---
 

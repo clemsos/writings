@@ -3,7 +3,7 @@ date: '2018-08-26'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to How do you expect students to learn? What is
+    How do you expect students to learn? What is
     your understanding of learning? - Quora
 ---
 

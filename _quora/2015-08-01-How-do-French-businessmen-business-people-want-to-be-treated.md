@@ -3,7 +3,7 @@ date: '2015-08-01'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to How do French businessmen (business people)
+    How do French businessmen (business people)
     want to be treated? - Quora
 ---
 

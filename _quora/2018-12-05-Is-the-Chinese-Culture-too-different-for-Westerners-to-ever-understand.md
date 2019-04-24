@@ -3,7 +3,7 @@ date: '2018-12-05'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Is the Chinese Culture too different for
+    Is the Chinese Culture too different for
     Westerners to ever understand? - Quora
 ---
 

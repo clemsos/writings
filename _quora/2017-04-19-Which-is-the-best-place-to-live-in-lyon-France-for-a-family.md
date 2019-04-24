@@ -3,7 +3,7 @@ date: '2017-04-19'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Which is the best place to live in lyon,
+    Which is the best place to live in lyon,
     France, for a family? - Quora
 ---
 

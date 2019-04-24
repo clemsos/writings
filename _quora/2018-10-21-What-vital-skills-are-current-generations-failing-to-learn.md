@@ -3,7 +3,7 @@ date: '2018-10-21'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What vital skills are current generations
+    What vital skills are current generations
     failing to learn? - Quora
 ---
 

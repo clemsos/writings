@@ -3,7 +3,7 @@ date: '2013-01-14'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What are the biggest data science success
+    What are the biggest data science success
     stories so far? It might be interesting to make a distinction between
     two cases: 1. When data analysis is applied to enhance business 2. When
     data analysis is the business - Quora

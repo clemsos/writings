@@ -3,7 +3,7 @@ date: '2013-03-21'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What are some of the biggest flaws of Quora?
+    What are some of the biggest flaws of Quora?
     - Quora
 ---
 

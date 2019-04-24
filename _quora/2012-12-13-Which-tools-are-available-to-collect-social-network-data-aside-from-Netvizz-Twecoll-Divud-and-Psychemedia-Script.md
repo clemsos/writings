@@ -3,7 +3,7 @@ date: '2012-12-13'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Which tools are available to collect social
+    Which tools are available to collect social
     network data, aside from Netvizz, Twecoll, Divud, and Psychemedia
     Script? - Quora
 ---

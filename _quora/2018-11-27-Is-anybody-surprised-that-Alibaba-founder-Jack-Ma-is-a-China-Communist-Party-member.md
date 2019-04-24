@@ -3,7 +3,7 @@ date: '2018-11-27'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Is anybody surprised that Alibaba founder
+    Is anybody surprised that Alibaba founder
     Jack Ma is a China Communist Party member? - Quora
 ---
 

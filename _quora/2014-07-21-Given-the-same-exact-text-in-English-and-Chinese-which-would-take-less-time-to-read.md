@@ -3,7 +3,7 @@ date: '2014-07-21'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Given the same exact text in English and
+    Given the same exact text in English and
     Chinese, which would take less time to read? - Quora
 ---
 

@@ -3,7 +3,7 @@ date: '2015-08-28'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Which is the best front-end JavaScript
+    Which is the best front-end JavaScript
     framework/library for building an interactive web analytics dashboard? -
     Quora
 ---

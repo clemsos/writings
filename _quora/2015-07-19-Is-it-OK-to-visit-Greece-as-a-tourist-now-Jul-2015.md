@@ -3,7 +3,7 @@ date: '2015-07-19'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Is it OK to visit Greece as a tourist now
+    Is it OK to visit Greece as a tourist now
     (Jul 2015)? - Quora
 ---
 

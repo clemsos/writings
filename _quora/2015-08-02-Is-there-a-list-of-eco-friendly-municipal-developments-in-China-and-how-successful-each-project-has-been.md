@@ -3,7 +3,7 @@ date: '2015-08-02'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Is there a list of eco-friendly municipal
+    Is there a list of eco-friendly municipal
     developments in China, and how successful each project has been? - Quora
 ---
 

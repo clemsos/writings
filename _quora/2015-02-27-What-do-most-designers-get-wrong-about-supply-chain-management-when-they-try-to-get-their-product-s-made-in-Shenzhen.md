@@ -3,7 +3,7 @@ date: '2015-02-27'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to What do most designers get wrong about
+    What do most designers get wrong about
     supply chain management when they try to get their product/s made in
     Shenzhen? - Quora
 ---

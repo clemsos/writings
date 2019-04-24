@@ -3,7 +3,7 @@ date: '2015-02-06'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to How do you go about getting an electronic
+    How do you go about getting an electronic
     product manufactured in China? What steps are involved? - Quora
 ---
 

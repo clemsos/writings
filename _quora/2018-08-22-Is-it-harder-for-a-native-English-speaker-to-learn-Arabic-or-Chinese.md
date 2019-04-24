@@ -3,7 +3,7 @@ date: '2018-08-22'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Is it harder for a native English speaker to
+    Is it harder for a native English speaker to
     learn Arabic or Chinese? - Quora
 ---
 

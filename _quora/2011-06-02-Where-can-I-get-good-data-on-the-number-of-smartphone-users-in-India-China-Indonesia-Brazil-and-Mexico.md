@@ -3,7 +3,7 @@ date: '2011-06-02'
 source: quora
 language: en
 title: |
-    Clément Renaud\'s answer to Where can I get good data on the number of
+    Where can I get good data on the number of
     smartphone users in India, China, Indonesia, Brazil and Mexico? - Quora
 ---
 
