@@ -9,11 +9,13 @@
 #
 # By default this will keep the original .md file
 
-DEST_FOLDER=answers-md
-FILES=answers-clean/*.html
+DEST_FOLDER=_quora
+FILES=./raw/quora-answers/*.html
 COUNTER=1
 LANGUAGE=fr
+AUTHOR="Clément-Renaud"
 
+mkdir -p ${DEST_FOLDER}
 for f in $FILES
 do
   extension="${f##*.}"
@@ -23,14 +25,24 @@ do
   date=${basename%% *}
   dest=$DEST_FOLDER/${basename/ /-}.md
 
+  # parse Quora URL
+  original_url="https://quora.com/$(cut -d' ' -f2 <<< $basename)/answer/$AUTHOR"
+
+  # clean up title
+  title_tag="$(grep -o '<title.*title>\|^--.*' "$f")"
+  clean_title=$(echo $title_tag | awk -F"answer to " '{print $2}' | awk -F"- Quora" '{print $1}')
+
   echo "Converting $f to $dest"
 
-  `pandoc -f html \
+  `pandoc \
+    -f html \
     -t markdown \
     --metadata source=quora \
     --metadata date=$date \
+    --metadata original_url=$original_url \
     --metadata language=$LANGUAGE \
-     -s "$f" \
+    --metadata title="$clean_title" \
+    -s "$f" \
     -o $dest`
 
   COUNTER=$[$COUNTER +1]
