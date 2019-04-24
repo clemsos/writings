@@ -1,5 +1,7 @@
 # Setup
 
+base_url: writings
+
 exclude:
   - bin
   - Gemfile
