@@ -20,10 +20,10 @@ The goals are :
   - [ ] list media archives (interviews, etc)
 - Backup
   - [x] Quora
+  - [X] Blogspot
+  - [ ] Tumblr Blog
   - [ ] Quora fr (require some date conversion)
   - [ ] Scientific papers and conferences
-  - [ ] Blogspot
-  - [ ] Tumblr Blog
   - [ ] Jekylls (Ecriture Exemplaire, RW, etc)
   - [ ] old Wordpress Blog
   - [ ] twitter (worth it ?)
@@ -47,3 +47,6 @@ The goals are :
 3. Manually copy PNG files to an `img` folder and find/replace `![](main-qimg` to fix paths
 
 ### Backup Blogspot
+
+1. Get XML file from admin panel Settings/Others/Backup
+2. Run `node bin/blogger2jekyll YOUR_FILE.xml _posts` to convert (based on a modified version of [blogger2jekyll](https://github.com/solderjs/blogger2jekyll))
