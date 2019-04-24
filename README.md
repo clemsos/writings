@@ -22,10 +22,11 @@ The goals are :
   - [x] Quora
   - [X] Blogspot
   - [x] Tumblr Blogs
-  - [ ] Quora fr (require some date conversion)
+  - [x] Jekyll RW
+  - [ ] Other Jekylls (Ecriture Exemplaire, etc)
   - [ ] Scientific papers and conferences
-  - [ ] Jekylls (Ecriture Exemplaire, RW, etc)
   - [ ] old Wordpress Blog
+  - [ ] Quora fr (require some date conversion)
   - [ ] twitter (worth it ?)
   - [ ] facebook (worth it ?)
 - Convert
