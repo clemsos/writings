@@ -1,6 +1,7 @@
 # Setup
 
 base_url: writings
+permalink: /:year/:month/:day/:title/
 
 exclude:
   - bin
