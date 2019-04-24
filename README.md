@@ -13,20 +13,18 @@ The goals are :
 
 ## TODO
 
-- Dig Archives
-  - [ ] Where did I write again?
-  - [ ] old github repos
-  - [ ] look through
-  - [ ] list media archives (interviews, etc)
 - Backup
+  - [ ] Where did I write again? 
   - [x] Quora
   - [X] Blogspot
   - [x] Tumblr Blogs
   - [x] Jekyll RW
+  - [ ] old Wordpress Blog
   - [ ] Other Jekylls (Ecriture Exemplaire, etc)
   - [ ] Scientific papers and conferences
-  - [ ] old Wordpress Blog
+  - [ ] media archives from https://clementrenaud.com/cv
   - [ ] Quora fr (require some date conversion)
+  - [ ] other github repos
   - [ ] twitter (not worth it ?)
   - [ ] facebook (not worth it ?)
 - Convert
