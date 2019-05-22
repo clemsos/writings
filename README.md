@@ -14,12 +14,12 @@ The goals are :
 ## TODO
 
 - Backup
-  - [ ] Where did I write again? 
+  - [ ] Where did I write again?
   - [x] Quora
   - [X] Blogspot
   - [x] Tumblr Blogs
   - [x] Jekyll RW
-  - [ ] old Wordpress Blog
+  - [x] old Wordpress Blog
   - [ ] Other Jekylls (Ecriture Exemplaire, etc)
   - [ ] Scientific papers and conferences
   - [ ] media archives from https://clementrenaud.com/cv
@@ -59,3 +59,31 @@ bundle exec jekyll import tumblr --url=http://clementrenaud.tumblr.com --format=
 ```
 
 NB: Add some trouble due to GRDP policy that were preventing API calls... Finally found [a fix](https://github.com/jekyll/jekyll-import/issues/379).
+
+### Import old Wordpress DBs
+
+```
+brew install mysql
+
+mysql.server start
+
+mysql > CREATE USER 'wp_user'@'localhost' IDENTIFIED BY '$PASSWORD';
+mysql > GRANT ALL PRIVILEGES ON * . * TO 'wp_user'@'localhost';
+
+# import data
+mysql -u wp_user -p$PASSWORD < $SQL_FILE_PATH
+
+# import to jekyll
+ruby -r rubygems -e 'require "jekyll-import";
+    JekyllImport::Importers::WordPress.run({
+      "dbname"         => "clemsos_wp",
+      "user"           => "wp_user",
+      "password"       => "$PASSWORD",
+      "table_prefix"   => "wp2_",
+      "site_prefix"    => "",
+      "clean_entities" => false,
+      "extension"      => "md",
+      "status"         => ["publish"]
+    })'
+
+```
