@@ -222,7 +222,7 @@ $ git push heroku master
 ```
 
 And we can go back to <a href="https://www.google.com/webmasters/verification/">Google Verification</a> and click on the <em>Verify </em> button. Then click on <em>Continue</em>. (You will have to register one admin and one organization inside Teambox for that to work)
-<p style="text-align: center;"><img class="size-medium wp-image-293 aligncenter" title="Google verification success" src="/img/wp_blog/2011/09/Screen-shot-2011-09-14-at-下午02.18.04-300x64.png" alt="Google verification success" width="300" height="64" />
+<p style="text-align: center;"><img class="size-medium wp-image-293 aligncenter" title="Google verification success" src="/{{site.base_url}}/img/wp_blog/2011/09/Screen-shot-2011-09-14-at-下午02.18.04-300x64.png" alt="Google verification success" width="300" height="64" />
 <h4>Step 2 :Accept Google's Terms of Services</h4>
 
 Click on <em>Agree to the terms of Service</em> to authorize Google Apps to connect to Teambox. This one was easy, wasn't it?
@@ -312,6 +312,6 @@ $ git push heroku master
 
 Now you can go back on Preferences/Linked Account or directly click on the Gdocs icon above the homepage field. Just click to <em>Link account</em> and Google will ask you to grant rights to your Teambox account. Click on "Grant access" and you're done. You can now share Gdocs and synchronise Gcal with your Teambox !
 
-<a href="/img/wp_blog/2011/09/Screen-shot-2011-09-14-at-下午03.33.34-e1315986461961.png"><img class="alignnone size-full wp-image-299" title="Google Docs + Teambox = great tools !" src="/img/wp_blog/2011/09/Screen-shot-2011-09-14-at-下午03.33.34-e1315986461961.png" alt="Gdocs and teambox" width="600" height="361" /></a>
+<a href="/{{site.base_url}}/img/wp_blog/2011/09/Screen-shot-2011-09-14-at-下午03.33.34-e1315986461961.png"><img class="alignnone size-full wp-image-299" title="Google Docs + Teambox = great tools !" src="/{{site.base_url}}/img/wp_blog/2011/09/Screen-shot-2011-09-14-at-下午03.33.34-e1315986461961.png" alt="Gdocs and teambox" width="600" height="361" /></a>
 
 Hope you'll enjoy using it !

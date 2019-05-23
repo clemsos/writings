@@ -31,7 +31,7 @@ comments: []
 <p><strong>An API to access all the content of the Guardian</strong></p>
 <p>To get a first grip on the API, you can try their manual content explorer, which have a research interface for your favorite topics. You can use multiple queries to precise your search. Here I first browse the website itself to find Ai Weiwei dedicated item name (which is a tag).</p>
 <p>&nbsp;</p>
-<p><a href="/img/wp_blog/2011/12/Guardian-Content-Explorer-e1323412432452.png"><img class="aligncenter size-full wp-image-391" title="Guardian Content Explorer" src="/img/wp_blog/2011/12/Guardian-Content-Explorer-e1323412432452.png" alt="" width="700" height="330" /></a></p>
+<p><a href="/{{site.base_url}}/img/wp_blog/2011/12/Guardian-Content-Explorer-e1323412432452.png"><img class="aligncenter size-full wp-image-391" title="Guardian Content Explorer" src="/{{site.base_url}}/img/wp_blog/2011/12/Guardian-Content-Explorer-e1323412432452.png" alt="" width="700" height="330" /></a></p>
 <p>With that, you get an URL that will provide you with a XML containing titles, publication dates and several information from The Guardian database (all content related to Ai Weiwei). If you want to get whole articles, you will have to<a href="http://guardian.mashery.com/"> register for an account</a>. The basic free version has a limitation of 12 calls per second and 5,000 calls per day, which will be far enough for what we are doing here.</p>
 <p>&nbsp;</p>
 <p><strong>Put your content in a timeline</strong></p>
@@ -91,7 +91,7 @@ if ($result = $xp->transformToXML($xml)) {
 ```
 <p>Ok we are done. Now, just upload our PHP and XSL file somewhere, copy the URL of the PHP script and we are ready to add our sources to our Dipity timeline.</p>
 <p>&nbsp;</p>
-<p><a href="/img/wp_blog/2011/12/Dipity-sources-e1323412491912.png"><img class="aligncenter size-full wp-image-392" title="Dipity sources" src="/img/wp_blog/2011/12/Dipity-sources-e1323412491912.png" alt="" width="650" height="269" /></a></p>
+<p><a href="/{{site.base_url}}/img/wp_blog/2011/12/Dipity-sources-e1323412491912.png"><img class="aligncenter size-full wp-image-392" title="Dipity sources" src="/{{site.base_url}}/img/wp_blog/2011/12/Dipity-sources-e1323412491912.png" alt="" width="650" height="269" /></a></p>
 <p>After 2 seconds, our <a href="http://www.dipity.com/clemsos/Aiweiwei/">timeline</a> has been updated with the articles, we're done !</p>
 <div class="dipity_embed" style="width: 600px;"><iframe style="border: 1px solid #CCC;" src="http://www.dipity.com/clemsos/Aiweiwei/?mode=embed&amp;z=0#tl" width="600" height="400"></iframe></p>
 <p style="margin: 0; font-family: Arial,sans; font-size: 13px; text-align: center;">on <a href="http://www.dipity.com/">Dipity</a>.</p>
