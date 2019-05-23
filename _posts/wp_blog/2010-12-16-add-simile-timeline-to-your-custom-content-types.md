@@ -18,22 +18,29 @@ categories:
 tags: []
 comments: []
 ---
-<p>I was working on some custom content types and I wanted to use the SIMILE timeline for Wordpress, but I cannot get the metabox in the admin part.</p>
-<p>What you have to change is inside the plugin code timeline.php, line 219.</p>
-<p>It stills pretty much a dirty hack and it could be a good idea to implement content types further in the timeline admin area. I'll see what I can do</p>
-<p>[sourcecode language=php]<br />
-/*<br />
-* Custom box hook for post and page interface adds custom option box<br />
-*/<br />
-function addPostPanelEventDates() {<br />
-	if(WPSimileTimelineLoader::loadPlugin()){<br />
-		$wpstl = WPSimileTimeline::singleton();<br />
-		$wpstl->init();<br />
-		if( function_exists('add_meta_box')) {<br />
-			add_meta_box( 'stl-timeline-event-data', __( 'SIMILE Timeline', 'stl_timeline' ), array('WPSimileTimelineAdmin', 'outputCustomPostDateOptions'), 'post', 'advanced' );<br />
-			add_meta_box( 'stl-timeline-event-data', __( 'SIMILE Timeline', 'stl_timeline' ), array('WPSimileTimelineAdmin', 'outputCustomPostDateOptions'), 'page', 'advanced' );<br />
-			add_meta_box( 'stl-timeline-event-data', __( 'SIMILE Timeline', 'stl_timeline' ), array('WPSimileTimelineAdmin', 'outputCustomPostDateOptions'), 'your custom content type name here', 'advanced' );<br />
-		}<br />
-	}<br />
-}<br />
-[/sourcecode]</p>
+
+I was working on some custom content types and I wanted to use the SIMILE timeline for Wordpress, but I cannot get the metabox in the admin part.
+
+
+What you have to change is inside the plugin code timeline.php, line 219.
+
+
+It stills pretty much a dirty hack and it could be a good idea to implement content types further in the timeline admin area. I'll see what I can do
+
+
+```php
+/*
+* Custom box hook for post and page interface adds custom option box
+*/
+function addPostPanelEventDates() {
+	if(WPSimileTimelineLoader::loadPlugin()){
+		$wpstl = WPSimileTimeline::singleton();
+		$wpstl->init();
+		if( function_exists('add_meta_box')) {
+			add_meta_box( 'stl-timeline-event-data', __( 'SIMILE Timeline', 'stl_timeline' ), array('WPSimileTimelineAdmin', 'outputCustomPostDateOptions'), 'post', 'advanced' );
+			add_meta_box( 'stl-timeline-event-data', __( 'SIMILE Timeline', 'stl_timeline' ), array('WPSimileTimelineAdmin', 'outputCustomPostDateOptions'), 'page', 'advanced' );
+			add_meta_box( 'stl-timeline-event-data', __( 'SIMILE Timeline', 'stl_timeline' ), array('WPSimileTimelineAdmin', 'outputCustomPostDateOptions'), 'your custom content type name here', 'advanced' );
+		}
+	}
+}
+```
