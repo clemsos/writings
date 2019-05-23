@@ -17,7 +17,7 @@ One of my favorite quote from him is : * "Culture is the house were we
 live together ".* Simple and powerful. For me, he is Quebec 's
 Levi-Strauss. 
  
-![](/img/quora/main-qimg-423707f7b58fadbaeea6c0da22a2c5d0-c.png)​ 
+![](/{{site.base_url}}/img/quora/main-qimg-423707f7b58fadbaeea6c0da22a2c5d0-c.png)​ 
 ​ 
  
  

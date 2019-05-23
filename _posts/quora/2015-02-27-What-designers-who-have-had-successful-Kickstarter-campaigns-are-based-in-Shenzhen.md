@@ -21,7 +21,7 @@ Chinese company with such a good culture.
  
 Their next product is a drawing robot. It should be going on campaign on
 Kickstarter in a few days. I am sure it will be a blast. 
-![](/img/quora/main-qimg-0a018b342a1c9529d0003c60c76d6aaf-c.png)​ 
+![](/{{site.base_url}}/img/quora/main-qimg-0a018b342a1c9529d0003c60c76d6aaf-c.png)​ 
  
 EDIT : the link to Makeblock first Kickstarter campaign, achieved with
 617% of their original goal  [Makeblock : Next Generation of Construct

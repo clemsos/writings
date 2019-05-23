@@ -25,7 +25,7 @@ new ways to sell their crafts, they started to design beautiful portable
 clocks. These watches were tolerated for their usefulness and quickly
 became a new fashion in the region.
 
-![](/img/quora/main-qimg-5b025af1d16ff83d7dd4ca81715bcc4b-c.png)
+![](/{{site.base_url}}/img/quora/main-qimg-5b025af1d16ff83d7dd4ca81715bcc4b-c.png)
 
 *17th-century German Baroque style fob watch.* - source :
 [Wikipedia](http://nhttps//fr.wikipedia.org/wiki/Histoire_de_l'industrie_horlog%C3%A8re#/media/File:German_-_Enameled_Watch_with_Cameo_and_Jewels_-_Walters_5811.jpg)
@@ -40,7 +40,7 @@ printing, art and decoration. In a few years, Geneva and the provinces
 nearby have became centers for crafting and designing watches. The
 reputation of Swiss watches spread all over Europe. The rest is history.
 
-![](/img/quora/main-qimg-dc653115385e7c31b8ea4c177f597538-c.png)
+![](/{{site.base_url}}/img/quora/main-qimg-dc653115385e7c31b8ea4c177f597538-c.png)
 
 *Map of French protestants exodus during the "Grand Refuge" under Louis
 14th -* (c) [Musée du
@@ -62,7 +62,7 @@ relationships lightly. They understand that prosperity is made by people
 and that, ultimately, what matter is not where they come from but
 who/what they are.
 
-![](/img/quora/main-qimg-3a3b9acaa5390f15e5109b4bbeb5b2d5.png)
+![](/{{site.base_url}}/img/quora/main-qimg-3a3b9acaa5390f15e5109b4bbeb5b2d5.png)
 
 [GDP and Productivity in Europe
 (2006)](http://www.nordregio.se/en/Maps--Graphs/03-Economy-trade-and-industry/GDP-and-Productivity-in-Europe-2006/)

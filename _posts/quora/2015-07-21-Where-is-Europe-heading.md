@@ -20,7 +20,7 @@ actually located in the Southern regions, while the North and East still
 largely lagging behind, suffering from high youth unemployment and very
 weak local economies. 
  
-![](/img/quora/main-qimg-4f0ea004cc1d02b7100cae91aac7390c-c.png)*GDP repartition in
+![](/{{site.base_url}}/img/quora/main-qimg-4f0ea004cc1d02b7100cae91aac7390c-c.png)*GDP repartition in
 Germany 's Lander - source : * [*Der Zeit via Al
 Jazeera*](http://america.aljazeera.com/opinions/2014/11/germany-berlin-wallfallunificationeconomics.html) 
  
@@ -30,7 +30,7 @@ closest neighbors named Switzerland, Holland, Austria and Northern Italy
 are doing very well and it may have help. This part is also
 traditionally the most populated region of Europe.   
  
-![](/img/quora/main-qimg-07c3ffc0ba3166e21292d8df6c4ecb0e.png)*Source :* [*ESPON -
+![](/{{site.base_url}}/img/quora/main-qimg-07c3ffc0ba3166e21292d8df6c4ecb0e.png)*Source :* [*ESPON -
 September
 2011*](http://www.espon.eu/main/Menu_Publications/Menu_MapsOfTheMonth/map1103.html)
  
@@ -38,7 +38,7 @@ September
 Fact is, this distribution of wealth reflects almost exactly the map of
 the European industry. 
  
-![](/img/quora/main-qimg-3a3b9acaa5390f15e5109b4bbeb5b2d5.png)[GDP and Productivity
+![](/{{site.base_url}}/img/quora/main-qimg-3a3b9acaa5390f15e5109b4bbeb5b2d5.png)[GDP and Productivity
 in Europe
 (2006)](http://www.nordregio.se/en/Maps--Graphs/03-Economy-trade-and-industry/GDP-and-Productivity-in-Europe-2006/)
 *- source : Nord Regio* 
@@ -49,7 +49,7 @@ Manufacturing especially has gradually disappear from the landscape
 (except for Germany). Most of the factories have moved to China - and
 now surely to Bangladesh or Myanmar. 
  
-![](/img/quora/main-qimg-54cabbb989a56c4f00ff0e833d905bc5.png)*Evolution of
+![](/{{site.base_url}}/img/quora/main-qimg-54cabbb989a56c4f00ff0e833d905bc5.png)*Evolution of
 manufacturing (as % of GDP) - Source :* [*The
 Economist*](http://www.economist.com/node/21552567) 
  
@@ -72,7 +72,7 @@ risk "* while * "occupational therapists, surgeons, choreographers,
 pre-school teachers, and clergy "* will stay out of trouble for some
 more years.  
  
-![](/img/quora/main-qimg-f7e7661c3034d123f2983c6f96e20c26.png)*source :* [*Business
+![](/{{site.base_url}}/img/quora/main-qimg-f7e7661c3034d123f2983c6f96e20c26.png)*source :* [*Business
 Insider*](http://www.businessinsider.com/jobs-replaced-by-robots-2015-5#ixzz3gT7ebNH4) 
  
 The question behind this is : how will Europe position itself towards
@@ -92,12 +92,12 @@ Europe wants to have millions of lumbersexuals growth-hackers coming on
 their fixies to design the next generation of cost-efficient robots and
 automates, the continent will need first to bring some youth to its
 gentrified suburbs. 
-![](/img/quora/main-qimg-b4c08c4c20214fc80aa8f10d473a7b67.png)Following the
+![](/{{site.base_url}}/img/quora/main-qimg-b4c08c4c20214fc80aa8f10d473a7b67.png)Following the
 negative renewal rate of the population in the center of Europe, we can
 except the traditional industry to simply dies out from its old age. At
 almost -4% a year in certain region, this will be a long agony. 
  
-![](/img/quora/main-qimg-d4a5e5d318916b6770a76ae3e27e4ec7.png) 
+![](/{{site.base_url}}/img/quora/main-qimg-d4a5e5d318916b6770a76ae3e27e4ec7.png) 
 One of the classical approach to the demographic problem of an aging
 population is to open the gates to migrants, so they can come and bring
 their families and hopes to build a younger and more active society.
@@ -122,7 +122,7 @@ of them are dying weekly in their attempt to cross the Mediterranean
 sea. No doubt that history will remember today 's immigration policies
 has one of the darkest political move of Europe in the 21st century. 
   
-![](/img/quora/main-qimg-ce05d6d5899b4a012899a2822917edb9-c.png)Map of the deaths
+![](/{{site.base_url}}/img/quora/main-qimg-ce05d6d5899b4a012899a2822917edb9-c.png)Map of the deaths
 at the gates of Europe *- Source : Migreurop* 
  
 Part of the province of Sicilia, the island of Lampeduza is in the top
@@ -137,7 +137,7 @@ requires to stock them in camps, waiting for a decision about their
 that are usually directly set free to keep going on the roads of Italy
 without any right. 
  
-![](/img/quora/main-qimg-cea53cdf095d77345d590f9cfea704d1.png)*Source :* [*The
+![](/{{site.base_url}}/img/quora/main-qimg-cea53cdf095d77345d590f9cfea704d1.png)*Source :* [*The
 Economist*](http://www.economist.com/blogs/graphicdetail/2015/05/graphics) 
  
 As the French journalist Edwy Plenel recently said in an interview,

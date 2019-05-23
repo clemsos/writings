@@ -23,7 +23,7 @@ I live in Lyon.
 
 I have a fresh market everyday here.
 
-![](/img/quora/main-qimg-244b453d9d25952d5929f537d8523640.png)
+![](/{{site.base_url}}/img/quora/main-qimg-244b453d9d25952d5929f537d8523640.png)
 
 What can I buy?
 
@@ -42,7 +42,7 @@ place and *directly* sell their products. I got to buy strawberries,
 cherries or radish that have been picked less than 4 hours ago. Nothing
 can beat that taste.
 
-![](/img/quora/main-qimg-60573dd2ad5fe2cbf7782768998a02ab.png)
+![](/{{site.base_url}}/img/quora/main-qimg-60573dd2ad5fe2cbf7782768998a02ab.png)
 
 *Map : The Agriculture in Rhône-Alpes region around Lyon*
 
@@ -58,7 +58,7 @@ presentation to make your plate looks like a million dollar. It gets
 very expensive because you have to import all those products from
 somewhere when they don't grow locally.
 
-![](/img/quora/main-qimg-04a5902c2142df83a73401c523beed1b.png)
+![](/{{site.base_url}}/img/quora/main-qimg-04a5902c2142df83a73401c523beed1b.png)
 
 **The export of "French Cuisine"**
 
@@ -69,7 +69,7 @@ of this trend. He started high-end restaurants, tours, schools, tv
 shows, etc with full support from the government as part of France
 cultural diplomacy.
 
-![](/img/quora/main-qimg-dbb9561e3fb7882645541df6e6501536.png)
+![](/{{site.base_url}}/img/quora/main-qimg-dbb9561e3fb7882645541df6e6501536.png)
 
 *Chirac giving to Paul Bocuse the "Légion d'Honneur", highest French
 order of merit for military and civil merits.*

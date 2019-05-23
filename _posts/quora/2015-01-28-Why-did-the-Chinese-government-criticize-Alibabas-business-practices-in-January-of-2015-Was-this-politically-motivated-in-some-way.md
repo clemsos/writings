@@ -26,7 +26,7 @@ great concern for the CCP.
 As taobao is the new visage of Chinese Internet, it should also give
 some face to China. 
 ​ 
-![](/img/quora/main-qimg-060d00eeac43d9972f4da6401c894f59-c.png)​ 
+![](/{{site.base_url}}/img/quora/main-qimg-060d00eeac43d9972f4da6401c894f59-c.png)​ 
 ​ 
  
 *Premier Li Keqiang visiting Chaihuo maker space in Shenzhen*

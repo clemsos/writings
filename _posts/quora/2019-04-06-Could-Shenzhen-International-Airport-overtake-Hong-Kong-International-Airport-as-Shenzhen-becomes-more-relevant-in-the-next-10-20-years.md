@@ -32,7 +32,7 @@ take the form of small cross-border black buses or containers shipment.
 How it will carve its own centrality in global networks remains to be
 seen.
 
-![](/img/quora/main-qimg-1b4df1a854da45b2126a48d1e13cc2f2.png)
+![](/{{site.base_url}}/img/quora/main-qimg-1b4df1a854da45b2126a48d1e13cc2f2.png)
 
 *source:* [*Terminal 3 at Shenzhen Bao 'an International Airport by
 Studio

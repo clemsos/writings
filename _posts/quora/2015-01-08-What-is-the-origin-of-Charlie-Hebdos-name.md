@@ -22,4 +22,4 @@ Hebdo* (*hebdo* means weekly in French).
 Image : The famous cover that ended *Hara-Kiri* and therefore started
 *Charlie Hebdo * 
 * * 
-![](/img/quora/main-qimg-e364b5f2dae00ebb16432dc438270ad1.png)
+![](/{{site.base_url}}/img/quora/main-qimg-e364b5f2dae00ebb16432dc438270ad1.png)

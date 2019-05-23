@@ -28,4 +28,4 @@ To answer your question, history still relevant because it is the sum of
 all existing human and natural processes. 
  
  
-![](/img/quora/main-qimg-6d4f2e5b05bb37c75ae192e965edea4d-c.png)
+![](/{{site.base_url}}/img/quora/main-qimg-6d4f2e5b05bb37c75ae192e965edea4d-c.png)

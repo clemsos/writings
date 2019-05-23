@@ -46,7 +46,7 @@ Let me take an example I got from a recent China Law Translate podcast.
 In China you have a system to show hygiene quality in every restaurant.
 It looks like this :
 
-![](/img/quora/main-qimg-c140f84c281213b4fa770a32091c692c.png)
+![](/{{site.base_url}}/img/quora/main-qimg-c140f84c281213b4fa770a32091c692c.png)
 
 Let's say I am looking for a restaurant. I will check Trip Advisor
 (Dianping in China) for the food, and that sign for the hygiene. I don't

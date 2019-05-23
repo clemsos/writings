@@ -24,7 +24,7 @@ English. I warmly recommend to read one, first to fully grasp China's
 role in this very important period of recent history, and second to get
 acquainted with this astonishing character.
 
-![](/img/quora/main-qimg-fb154549200dc0aa9d36f32304cfa899-c.png)
+![](/{{site.base_url}}/img/quora/main-qimg-fb154549200dc0aa9d36f32304cfa899-c.png)
 
 [TIME Magazine Cover: Chiang Kai-shek & Mme. Chiang - Oct. 26,
 1931](http://content.time.com/time/covers/0,16641,19311026,00.html)
