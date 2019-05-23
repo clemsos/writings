@@ -19,9 +19,9 @@ The goals are :
   - [x] Tumblr Blogs
   - [x] Jekyll RW
   - [x] old Wordpress Blog
-  - [ ] Other Jekylls (Ecriture Exemplaire, etc)
+  - [x] Ecriture Exemplaire
   - [ ] Scientific papers and conferences
-  - [ ] media archives from https://clementrenaud.com/cv
+  - [ ] Media archives from https://clementrenaud.com/cv
   - [ ] Quora fr (require some date conversion)
   - [ ] other github repos
   - [ ] twitter (not worth it ?)
@@ -31,8 +31,8 @@ The goals are :
   - [x] HTML > markdown
 - Tools / stats
   - [x] make UI / website
-  - [ ] proper indexation for easy search
   - [x] words/ signs counter
+  - [ ] proper indexation for easy search
   - [ ] trending words
 
 
