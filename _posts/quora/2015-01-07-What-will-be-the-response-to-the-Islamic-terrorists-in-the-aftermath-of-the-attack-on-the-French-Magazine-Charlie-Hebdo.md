@@ -1,6 +1,6 @@
 ---
 date: '2015-01-07'
-language: fr
+language: en
 original_url: 'https://quora.com/What-will-be-the-response-to-the-Islamic-terrorists-in-the-aftermath-of-the-attack-on-the-French-Magazine-Charlie-Hebdo/answer/Clément-Renaud'
 source: quora
 title: |

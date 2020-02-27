@@ -1,6 +1,6 @@
 ---
 date: '2015-07-19'
-language: fr
+language: en
 original_url: 'https://quora.com/Is-it-OK-to-visit-Greece-as-a-tourist-now-Jul-2015/answer/Clément-Renaud'
 source: quora
 title: 'Is it OK to visit Greece as a tourist now (Jul 2015)?'

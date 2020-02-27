@@ -1,6 +1,6 @@
 ---
 date: '2015-02-09'
-language: fr
+language: en
 original_url: 'https://quora.com/How-do-I-find-a-reliable-hardware-device-contract-manufacturer-in-China/answer/Clément-Renaud'
 source: quora
 title: 'How do I find a reliable hardware device contract manufacturer in China?'

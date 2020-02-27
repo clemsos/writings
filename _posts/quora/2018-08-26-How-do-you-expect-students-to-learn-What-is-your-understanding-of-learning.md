@@ -1,6 +1,6 @@
 ---
 date: '2018-08-26'
-language: fr
+language: en
 original_url: 'https://quora.com/How-do-you-expect-students-to-learn-What-is-your-understanding-of-learning/answer/Clément-Renaud'
 source: quora
 title: |

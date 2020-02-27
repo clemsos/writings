@@ -1,6 +1,6 @@
 ---
 date: '2018-11-08'
-language: fr
+language: en
 original_url: 'https://quora.com/Could-Italy-be-right-and-Europe-wrong-about-austerity/answer/Clément-Renaud'
 source: quora
 title: 'Could Italy be right and Europe wrong about austerity?'

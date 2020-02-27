@@ -1,6 +1,6 @@
 ---
 date: '2013-05-03'
-language: fr
+language: en
 original_url: 'https://quora.com/What-is-object-oriented-ontology/answer/Clément-Renaud'
 source: quora
 title: 'What is object-oriented ontology?'

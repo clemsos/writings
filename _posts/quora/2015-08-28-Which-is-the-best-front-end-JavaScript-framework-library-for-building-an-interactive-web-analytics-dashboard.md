@@ -1,6 +1,6 @@
 ---
 date: '2015-08-28'
-language: fr
+language: en
 original_url: 'https://quora.com/Which-is-the-best-front-end-JavaScript-framework-library-for-building-an-interactive-web-analytics-dashboard/answer/Clément-Renaud'
 source: quora
 title: |

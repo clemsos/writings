@@ -1,6 +1,6 @@
 ---
 date: '2015-12-23'
-language: fr
+language: en
 original_url: 'https://quora.com/What-is-the-history-of-the-fight-between-Pierre-Bourdieu-and-S%C3%A9gol%C3%A8ne-Royal/answer/Clément-Renaud'
 source: quora
 title: |

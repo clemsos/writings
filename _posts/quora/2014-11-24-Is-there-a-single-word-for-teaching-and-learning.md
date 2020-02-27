@@ -1,6 +1,6 @@
 ---
 date: '2014-11-24'
-language: fr
+language: en
 original_url: 'https://quora.com/Is-there-a-single-word-for-teaching-and-learning/answer/Clément-Renaud'
 source: quora
 title: 'Is there a single word for teaching and learning?'

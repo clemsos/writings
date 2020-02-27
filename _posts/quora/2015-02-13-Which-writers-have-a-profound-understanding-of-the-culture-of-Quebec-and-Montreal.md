@@ -1,6 +1,6 @@
 ---
 date: '2015-02-13'
-language: fr
+language: en
 original_url: 'https://quora.com/Which-writers-have-a-profound-understanding-of-the-culture-of-Quebec-and-Montreal/answer/Clément-Renaud'
 source: quora
 title: |

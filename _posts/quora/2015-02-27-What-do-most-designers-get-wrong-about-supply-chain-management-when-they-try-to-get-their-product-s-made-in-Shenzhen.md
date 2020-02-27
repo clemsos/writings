@@ -1,6 +1,6 @@
 ---
 date: '2015-02-27'
-language: fr
+language: en
 original_url: 'https://quora.com/What-do-most-designers-get-wrong-about-supply-chain-management-when-they-try-to-get-their-product-s-made-in-Shenzhen/answer/Clément-Renaud'
 source: quora
 title: |

@@ -1,6 +1,6 @@
 ---
 date: '2017-02-19'
-language: fr
+language: en
 original_url: 'https://quora.com/What-biographies-should-I-read-to-have-a-better-understanding-of-Chinese-history/answer/Clément-Renaud'
 source: quora
 title: |

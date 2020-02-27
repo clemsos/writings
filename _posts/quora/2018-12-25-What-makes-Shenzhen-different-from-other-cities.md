@@ -1,6 +1,6 @@
 ---
 date: '2018-12-25'
-language: fr
+language: en
 original_url: 'https://quora.com/What-makes-Shenzhen-different-from-other-cities/answer/Clément-Renaud'
 source: quora
 title: 'What makes Shenzhen different from other cities?'

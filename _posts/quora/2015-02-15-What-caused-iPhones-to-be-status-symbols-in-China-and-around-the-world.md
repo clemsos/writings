@@ -1,6 +1,6 @@
 ---
 date: '2015-02-15'
-language: fr
+language: en
 original_url: 'https://quora.com/What-caused-iPhones-to-be-status-symbols-in-China-and-around-the-world/answer/Clément-Renaud'
 source: quora
 title: 'What caused iPhones to be status symbols in China and around the world?'

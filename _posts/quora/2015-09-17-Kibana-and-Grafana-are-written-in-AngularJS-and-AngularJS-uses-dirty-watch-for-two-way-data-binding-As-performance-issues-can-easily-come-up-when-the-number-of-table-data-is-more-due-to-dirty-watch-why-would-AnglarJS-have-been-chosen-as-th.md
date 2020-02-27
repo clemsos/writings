@@ -1,6 +1,6 @@
 ---
 date: '2015-09-17'
-language: fr
+language: en
 original_url: 'https://quora.com/Kibana-and-Grafana-are-written-in-AngularJS-and-AngularJS-uses-dirty-watch-for-two-way-data-binding-As-performance-issues-can-easily-come-up-when-the-number-of-table-data-is-more-due-to-dirty-watch-why-would-AnglarJS-have-been-chosen-as-th/answer/Clément-Renaud'
 source: quora
 title: |

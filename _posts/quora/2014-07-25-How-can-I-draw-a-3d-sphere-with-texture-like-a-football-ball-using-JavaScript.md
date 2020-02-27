@@ -1,6 +1,6 @@
 ---
 date: '2014-07-25'
-language: fr
+language: en
 original_url: 'https://quora.com/How-can-I-draw-a-3d-sphere-with-texture-like-a-football-ball-using-JavaScript/answer/Clément-Renaud'
 source: quora
 title: |

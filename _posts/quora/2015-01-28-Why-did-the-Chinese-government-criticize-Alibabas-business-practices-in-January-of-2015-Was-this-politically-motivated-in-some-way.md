@@ -1,6 +1,6 @@
 ---
 date: '2015-01-28'
-language: fr
+language: en
 original_url: 'https://quora.com/Why-did-the-Chinese-government-criticize-Alibabas-business-practices-in-January-of-2015-Was-this-politically-motivated-in-some-way/answer/Clément-Renaud'
 source: quora
 title: |

@@ -1,6 +1,6 @@
 ---
 date: '2015-02-20'
-language: fr
+language: en
 original_url: 'https://quora.com/I-live-in-the-United-States-but-I-want-to-find-a-job-in-Shanghai-How-does-one-go-about-the-search/answer/Clément-Renaud'
 source: quora
 title: |

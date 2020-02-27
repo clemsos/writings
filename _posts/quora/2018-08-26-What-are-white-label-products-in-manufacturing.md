@@ -1,6 +1,6 @@
 ---
 date: '2018-08-26'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-white-label-products-in-manufacturing/answer/Clément-Renaud'
 source: quora
 title: 'What are white-label products in manufacturing?'

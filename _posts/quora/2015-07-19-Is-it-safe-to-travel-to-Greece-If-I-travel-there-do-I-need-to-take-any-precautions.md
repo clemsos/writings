@@ -1,6 +1,6 @@
 ---
 date: '2015-07-19'
-language: fr
+language: en
 original_url: 'https://quora.com/Is-it-safe-to-travel-to-Greece-If-I-travel-there-do-I-need-to-take-any-precautions/answer/Clément-Renaud'
 source: quora
 title: |

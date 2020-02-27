@@ -1,6 +1,6 @@
 ---
 date: '2012-12-05'
-language: fr
+language: en
 original_url: 'https://quora.com/How-do-I-answer-when-my-11-year-old-son-asks-if-Ive-ever-taken-drugs/answer/Clément-Renaud'
 source: quora
 title: 'How do I answer when my 11 year old son asks if I ''ve ever taken drugs?'

@@ -1,6 +1,6 @@
 ---
 date: '2015-09-05'
-language: fr
+language: en
 original_url: 'https://quora.com/What-does-it-tell-us-about-Chinese-culture-and-society-that-according-to-an-article-on-Slate-drivers-in-China-ensure-that-they-kill-people-who-they-hit/answer/Clément-Renaud'
 source: quora
 title: |

@@ -1,6 +1,6 @@
 ---
 date: '2018-02-13'
-language: fr
+language: en
 original_url: 'https://quora.com/Is-China-growing-because-it-has-a-growth-mindset-while-the-US-is-closing-up-and-becoming-isolationist-because-it-has-a-scarcity-mindset/answer/Clément-Renaud'
 source: quora
 title: |

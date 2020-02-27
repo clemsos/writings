@@ -1,6 +1,6 @@
 ---
 date: '2015-02-27'
-language: fr
+language: en
 original_url: 'https://quora.com/What-designers-who-have-had-successful-Kickstarter-campaigns-are-based-in-Shenzhen/answer/Clément-Renaud'
 source: quora
 title: |

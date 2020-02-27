@@ -1,6 +1,6 @@
 ---
 date: '2018-11-07'
-language: fr
+language: en
 original_url: 'https://quora.com/Emmanuel-Macron-has-called-for-creation-of-a-true-European-army-do-you-agree-Why-or-why-not/answer/Clément-Renaud'
 source: quora
 title: |

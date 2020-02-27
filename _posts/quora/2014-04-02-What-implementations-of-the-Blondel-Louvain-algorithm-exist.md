@@ -1,6 +1,6 @@
 ---
 date: '2014-04-02'
-language: fr
+language: en
 original_url: 'https://quora.com/What-implementations-of-the-Blondel-Louvain-algorithm-exist/answer/Clément-Renaud'
 source: quora
 title: 'What implementations of the Blondel (Louvain) algorithm exist?'

@@ -1,6 +1,6 @@
 ---
 date: '2015-08-02'
-language: fr
+language: en
 original_url: 'https://quora.com/Is-there-a-list-of-eco-friendly-municipal-developments-in-China-and-how-successful-each-project-has-been/answer/Clément-Renaud'
 source: quora
 title: |

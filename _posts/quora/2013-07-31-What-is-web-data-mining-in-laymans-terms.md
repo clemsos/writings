@@ -1,6 +1,6 @@
 ---
 date: '2013-07-31'
-language: fr
+language: en
 original_url: 'https://quora.com/What-is-web-data-mining-in-laymans-terms/answer/Clément-Renaud'
 source: quora
 title: 'What is web data mining in layman ''s terms?'

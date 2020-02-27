@@ -1,6 +1,6 @@
 ---
 date: '2013-05-22'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-some-things-you-can-do-in-France-but-not-in-the-USA/answer/Clément-Renaud'
 source: quora
 title: 'What are some things you can do in France but not in the USA?'

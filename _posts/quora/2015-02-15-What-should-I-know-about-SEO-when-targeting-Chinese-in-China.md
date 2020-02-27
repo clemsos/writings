@@ -1,6 +1,6 @@
 ---
 date: '2015-02-15'
-language: fr
+language: en
 original_url: 'https://quora.com/What-should-I-know-about-SEO-when-targeting-Chinese-in-China/answer/Clément-Renaud'
 source: quora
 title: 'What should I know about SEO when targeting Chinese in China?'

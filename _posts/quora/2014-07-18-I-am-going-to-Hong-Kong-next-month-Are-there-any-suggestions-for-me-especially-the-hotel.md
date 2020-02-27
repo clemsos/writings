@@ -1,6 +1,6 @@
 ---
 date: '2014-07-18'
-language: fr
+language: en
 original_url: 'https://quora.com/I-am-going-to-Hong-Kong-next-month-Are-there-any-suggestions-for-me-especially-the-hotel/answer/Clément-Renaud'
 source: quora
 title: |

@@ -1,6 +1,6 @@
 ---
 date: '2018-08-22'
-language: fr
+language: en
 original_url: 'https://quora.com/How-do-people-rise-within-the-Chinese-government-roles/answer/Clément-Renaud'
 source: quora
 title: 'How do people rise within the Chinese government roles?'

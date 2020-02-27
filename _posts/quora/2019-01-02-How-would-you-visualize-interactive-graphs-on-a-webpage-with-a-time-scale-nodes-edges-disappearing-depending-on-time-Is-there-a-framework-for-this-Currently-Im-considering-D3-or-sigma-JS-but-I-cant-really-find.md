@@ -1,6 +1,6 @@
 ---
 date: '2019-01-02'
-language: fr
+language: en
 original_url: 'https://quora.com/How-would-you-visualize-interactive-graphs-on-a-webpage-with-a-time-scale-nodes-edges-disappearing-depending-on-time-Is-there-a-framework-for-this-Currently-Im-considering-D3-or-sigma-JS-but-I-cant-really-find/answer/Clément-Renaud'
 source: quora
 title: |

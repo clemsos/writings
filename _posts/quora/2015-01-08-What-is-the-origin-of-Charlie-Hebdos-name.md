@@ -1,6 +1,6 @@
 ---
 date: '2015-01-08'
-language: fr
+language: en
 original_url: 'https://quora.com/What-is-the-origin-of-Charlie-Hebdos-name/answer/Clément-Renaud'
 source: quora
 title: 'What is the origin of Charlie Hebdo ''s name?'

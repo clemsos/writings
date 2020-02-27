@@ -1,6 +1,6 @@
 ---
 date: '2018-10-20'
-language: fr
+language: en
 original_url: 'https://quora.com/What-fundamental-misunderstandings-does-the-Chinese-leadership-have-about-western-governments-and-western-foreign-policy/answer/Clément-Renaud'
 source: quora
 title: |

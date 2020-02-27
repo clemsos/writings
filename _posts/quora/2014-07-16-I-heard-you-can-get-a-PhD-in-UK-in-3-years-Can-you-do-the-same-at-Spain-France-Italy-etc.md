@@ -1,6 +1,6 @@
 ---
 date: '2014-07-16'
-language: fr
+language: en
 original_url: 'https://quora.com/I-heard-you-can-get-a-PhD-in-UK-in-3-years-Can-you-do-the-same-at-Spain-France-Italy-etc/answer/Clément-Renaud'
 source: quora
 title: |

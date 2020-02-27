@@ -1,6 +1,6 @@
 ---
 date: '2018-08-25'
-language: fr
+language: en
 original_url: 'https://quora.com/Why-are-the-French-political-parties-so-often-recreated-and-renamed-unlike-in-other-countries/answer/Clément-Renaud'
 source: quora
 title: |

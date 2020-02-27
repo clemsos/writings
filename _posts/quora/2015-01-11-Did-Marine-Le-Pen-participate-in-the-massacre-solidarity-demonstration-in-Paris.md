@@ -1,6 +1,6 @@
 ---
 date: '2015-01-11'
-language: fr
+language: en
 original_url: 'https://quora.com/Did-Marine-Le-Pen-participate-in-the-massacre-solidarity-demonstration-in-Paris/answer/Clément-Renaud'
 source: quora
 title: |

@@ -1,6 +1,6 @@
 ---
 date: '2014-07-29'
-language: fr
+language: en
 original_url: 'https://quora.com/What-is-your-favorite-hotel-in-Beijing/answer/Clément-Renaud'
 source: quora
 title: 'What is your favorite hotel in Beijing?'

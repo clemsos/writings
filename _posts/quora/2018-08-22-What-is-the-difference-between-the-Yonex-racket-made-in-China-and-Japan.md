@@ -1,6 +1,6 @@
 ---
 date: '2018-08-22'
-language: fr
+language: en
 original_url: 'https://quora.com/What-is-the-difference-between-the-Yonex-racket-made-in-China-and-Japan/answer/Clément-Renaud'
 source: quora
 title: 'What is the difference between the Yonex racket made in China and Japan?'

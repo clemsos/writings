@@ -1,6 +1,6 @@
 ---
 date: '2015-08-27'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-secrets-psychiatrists-keep-from-lay-people/answer/Clément-Renaud'
 source: quora
 title: 'What are secrets psychiatrists keep from lay people?'

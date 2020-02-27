@@ -1,6 +1,6 @@
 ---
 date: '2015-02-16'
-language: fr
+language: en
 original_url: 'https://quora.com/How-does-one-start-a-tech-incubator/answer/Clément-Renaud'
 source: quora
 title: 'How does one start a tech incubator?'

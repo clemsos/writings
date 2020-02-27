@@ -1,6 +1,6 @@
 ---
 date: '2013-04-08'
-language: fr
+language: en
 original_url: 'https://quora.com/Why-do-the-French-tolerate-grocery-store-closures-on-Sunday/answer/Clément-Renaud'
 source: quora
 title: 'Why do the French tolerate grocery store closures on Sunday?'

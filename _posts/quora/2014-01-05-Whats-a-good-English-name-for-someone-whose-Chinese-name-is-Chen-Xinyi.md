@@ -1,6 +1,6 @@
 ---
 date: '2014-01-05'
-language: fr
+language: en
 original_url: 'https://quora.com/Whats-a-good-English-name-for-someone-whose-Chinese-name-is-Chen-Xinyi/answer/Clément-Renaud'
 source: quora
 title: |

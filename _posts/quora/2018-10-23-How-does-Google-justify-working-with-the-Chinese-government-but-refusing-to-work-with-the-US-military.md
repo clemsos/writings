@@ -1,6 +1,6 @@
 ---
 date: '2018-10-23'
-language: fr
+language: en
 original_url: 'https://quora.com/How-does-Google-justify-working-with-the-Chinese-government-but-refusing-to-work-with-the-US-military/answer/Clément-Renaud'
 source: quora
 title: |

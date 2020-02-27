@@ -1,6 +1,6 @@
 ---
 date: '2012-11-19'
-language: fr
+language: en
 original_url: 'https://quora.com/Data-Visualization-What-is-the-best-software-for-making-infographs/answer/Clément-Renaud'
 source: quora
 title: 'Data Visualization: What is the best software for making infographs?'

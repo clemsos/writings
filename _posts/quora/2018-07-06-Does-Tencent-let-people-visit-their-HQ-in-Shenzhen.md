@@ -1,6 +1,6 @@
 ---
 date: '2018-07-06'
-language: fr
+language: en
 original_url: 'https://quora.com/Does-Tencent-let-people-visit-their-HQ-in-Shenzhen/answer/Clément-Renaud'
 source: quora
 title: 'Does Tencent let people visit their HQ in Shenzhen?'

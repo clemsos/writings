@@ -1,6 +1,6 @@
 ---
 date: '2015-08-28'
-language: fr
+language: en
 original_url: 'https://quora.com/How-can-I-store-or-save-data-as-a-draft-in-MongoDB/answer/Clément-Renaud'
 source: quora
 title: 'How can I store or save data as a draft in MongoDB?'

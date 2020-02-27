@@ -1,6 +1,6 @@
 ---
 date: '2014-02-21'
-language: fr
+language: en
 original_url: 'https://quora.com/In-what-ways-are-Chinese-social-trends-and-behavior-ahead-of-US-social-trends-and-behavior/answer/Clément-Renaud'
 source: quora
 title: |

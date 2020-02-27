@@ -1,6 +1,6 @@
 ---
 date: '2014-07-05'
-language: fr
+language: en
 original_url: 'https://quora.com/As-a-non-Chinese-how-do-you-feel-about-the-Occupy-Central-movement-of-Hong-Kong/answer/Clément-Renaud'
 source: quora
 title: |

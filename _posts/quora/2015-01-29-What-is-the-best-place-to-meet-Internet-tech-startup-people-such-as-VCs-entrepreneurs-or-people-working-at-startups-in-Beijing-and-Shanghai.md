@@ -1,6 +1,6 @@
 ---
 date: '2015-01-29'
-language: fr
+language: en
 original_url: 'https://quora.com/What-is-the-best-place-to-meet-Internet-tech-startup-people-such-as-VCs-entrepreneurs-or-people-working-at-startups-in-Beijing-and-Shanghai/answer/Clément-Renaud'
 source: quora
 title: |

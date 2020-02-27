@@ -1,6 +1,6 @@
 ---
 date: '2015-02-06'
-language: fr
+language: en
 original_url: 'https://quora.com/How-do-I-get-an-electronic-product-manufactured-in-China/answer/Clément-Renaud'
 source: quora
 title: 'How do I get an electronic product manufactured in China?'

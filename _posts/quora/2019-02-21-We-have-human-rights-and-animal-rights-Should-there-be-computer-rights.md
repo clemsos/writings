@@ -1,6 +1,6 @@
 ---
 date: '2019-02-21'
-language: fr
+language: en
 original_url: 'https://quora.com/We-have-human-rights-and-animal-rights-Should-there-be-computer-rights/answer/Clément-Renaud'
 source: quora
 title: 'We have human rights and animal rights. Should there be computer rights?'

@@ -1,6 +1,6 @@
 ---
 date: '2018-08-26'
-language: fr
+language: en
 original_url: 'https://quora.com/What-should-you-never-say-to-your-high-school-principal/answer/Clément-Renaud'
 source: quora
 title: 'What should you never say to your high school principal?'

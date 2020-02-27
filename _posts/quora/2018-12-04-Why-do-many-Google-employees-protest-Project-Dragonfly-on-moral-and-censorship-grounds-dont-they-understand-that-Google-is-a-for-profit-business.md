@@ -1,6 +1,6 @@
 ---
 date: '2018-12-04'
-language: fr
+language: en
 original_url: 'https://quora.com/Why-do-many-Google-employees-protest-Project-Dragonfly-on-moral-and-censorship-grounds-dont-they-understand-that-Google-is-a-for-profit-business/answer/Clément-Renaud'
 source: quora
 title: |

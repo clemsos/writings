@@ -1,6 +1,6 @@
 ---
 date: '2018-08-23'
-language: fr
+language: en
 original_url: 'https://quora.com/What-is-some-advice-on-how-to-learn-English/answer/Clément-Renaud'
 source: quora
 title: 'What is some advice on how to learn English?'

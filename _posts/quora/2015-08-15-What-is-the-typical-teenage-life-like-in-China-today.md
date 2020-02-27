@@ -1,6 +1,6 @@
 ---
 date: '2015-08-15'
-language: fr
+language: en
 original_url: 'https://quora.com/What-is-the-typical-teenage-life-like-in-China-today/answer/Clément-Renaud'
 source: quora
 title: 'What is the typical teenage life like in China today?'

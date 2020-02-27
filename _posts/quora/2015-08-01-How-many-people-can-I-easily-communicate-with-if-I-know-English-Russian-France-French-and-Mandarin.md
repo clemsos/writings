@@ -1,6 +1,6 @@
 ---
 date: '2015-08-01'
-language: fr
+language: en
 original_url: 'https://quora.com/How-many-people-can-I-easily-communicate-with-if-I-know-English-Russian-France-French-and-Mandarin/answer/Clément-Renaud'
 source: quora
 title: |

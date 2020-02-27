@@ -1,6 +1,6 @@
 ---
 date: '2017-05-22'
-language: fr
+language: en
 original_url: 'https://quora.com/What-cars-do-Chinese-people-drive-in-order-to-be-identified-as-Chinese/answer/Clément-Renaud'
 source: quora
 title: 'What cars do Chinese people drive in order to be identified as Chinese?'

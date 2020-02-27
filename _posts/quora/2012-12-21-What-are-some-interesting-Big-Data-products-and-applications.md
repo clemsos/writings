@@ -1,6 +1,6 @@
 ---
 date: '2012-12-21'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-some-interesting-Big-Data-products-and-applications/answer/Clément-Renaud'
 source: quora
 title: 'What are some interesting Big Data products and applications?'

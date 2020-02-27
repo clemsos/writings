@@ -1,6 +1,6 @@
 ---
 date: '2018-11-29'
-language: fr
+language: en
 original_url: 'https://quora.com/What-s-the-point-of-using-Flask-when-people-say-is-not-scalable/answer/Clément-Renaud'
 source: quora
 title: 'What''s the point of using Flask when people say is not scalable?'

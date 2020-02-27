@@ -1,6 +1,6 @@
 ---
 date: '2015-02-22'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-the-best-gifts-that-I-can-bring-from-overseas-for-my-Chinese-friends/answer/Clément-Renaud'
 source: quora
 title: |

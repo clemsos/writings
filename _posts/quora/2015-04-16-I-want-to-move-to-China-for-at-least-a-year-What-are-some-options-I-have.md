@@ -1,6 +1,6 @@
 ---
 date: '2015-04-16'
-language: fr
+language: en
 original_url: 'https://quora.com/I-want-to-move-to-China-for-at-least-a-year-What-are-some-options-I-have/answer/Clément-Renaud'
 source: quora
 title: |

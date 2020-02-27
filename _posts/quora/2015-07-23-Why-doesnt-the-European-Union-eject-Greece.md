@@ -1,6 +1,6 @@
 ---
 date: '2015-07-23'
-language: fr
+language: en
 original_url: 'https://quora.com/Why-doesnt-the-European-Union-eject-Greece/answer/Clément-Renaud'
 source: quora
 title: 'Why doesn ''t the European Union eject Greece?'

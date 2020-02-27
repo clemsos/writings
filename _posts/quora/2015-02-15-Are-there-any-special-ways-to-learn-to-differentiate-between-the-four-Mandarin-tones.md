@@ -1,6 +1,6 @@
 ---
 date: '2015-02-15'
-language: fr
+language: en
 original_url: 'https://quora.com/Are-there-any-special-ways-to-learn-to-differentiate-between-the-four-Mandarin-tones/answer/Clément-Renaud'
 source: quora
 title: |

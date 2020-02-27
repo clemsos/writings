@@ -1,6 +1,6 @@
 ---
 date: '2015-04-04'
-language: fr
+language: en
 original_url: 'https://quora.com/I-was-asked-to-make-a-short-4-minute-documentary-on-Shenzhen-China-Are-there-any-particular-topics-or-issues-I-should-address-within-the-documentary/answer/Clément-Renaud'
 source: quora
 title: |

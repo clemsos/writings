@@ -1,6 +1,6 @@
 ---
 date: '2018-08-26'
-language: fr
+language: en
 original_url: 'https://quora.com/What-hard-lessons-have-you-learned-from-Chinese-language/answer/Clément-Renaud'
 source: quora
 title: 'What hard lessons have you learned from Chinese language?'

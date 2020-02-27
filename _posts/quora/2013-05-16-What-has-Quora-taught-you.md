@@ -1,6 +1,6 @@
 ---
 date: '2013-05-16'
-language: fr
+language: en
 original_url: 'https://quora.com/What-has-Quora-taught-you/answer/Clément-Renaud'
 source: quora
 title: 'What has Quora taught you?'

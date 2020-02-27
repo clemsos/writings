@@ -1,6 +1,6 @@
 ---
 date: '2016-06-03'
-language: fr
+language: en
 original_url: 'https://quora.com/In-what-way-does-the-geography-of-China-affect-its-economy/answer/Clément-Renaud'
 source: quora
 title: 'In what way does the geography of China affect its economy?'

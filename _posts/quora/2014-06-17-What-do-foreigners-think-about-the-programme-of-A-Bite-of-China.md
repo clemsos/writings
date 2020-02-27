@@ -1,6 +1,6 @@
 ---
 date: '2014-06-17'
-language: fr
+language: en
 original_url: 'https://quora.com/What-do-foreigners-think-about-the-programme-of-A-Bite-of-China/answer/Clément-Renaud'
 source: quora
 title: 'What do foreigners think about the programme of  ''A Bite of China ''?'

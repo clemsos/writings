@@ -1,6 +1,6 @@
 ---
 date: '2019-01-01'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-your-predictions-for-Chinas-economy-in-2019/answer/Clément-Renaud'
 source: quora
 title: 'What are your predictions for China ''s economy in 2019?'

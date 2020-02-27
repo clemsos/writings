@@ -1,6 +1,6 @@
 ---
 date: '2017-03-16'
-language: fr
+language: en
 original_url: 'https://quora.com/Why-the-photo-I-posted-in-full-image-on-sina-Weibo-turns-out-to-be-not-as-clear-as-it-should-be/answer/Clément-Renaud'
 source: quora
 title: |

@@ -1,6 +1,6 @@
 ---
 date: '2015-08-02'
-language: fr
+language: en
 original_url: 'https://quora.com/Are-you-concerned-by-what-is-happening-in-Calais-France/answer/Clément-Renaud'
 source: quora
 title: 'Are you concerned by what is happening in Calais (France)?'

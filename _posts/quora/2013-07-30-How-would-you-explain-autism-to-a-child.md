@@ -1,6 +1,6 @@
 ---
 date: '2013-07-30'
-language: fr
+language: en
 original_url: 'https://quora.com/How-would-you-explain-autism-to-a-child/answer/Clément-Renaud'
 source: quora
 title: 'How would you explain autism to a child?'

@@ -1,6 +1,6 @@
 ---
 date: '2018-11-08'
-language: fr
+language: en
 original_url: 'https://quora.com/Whats-your-view-on-EU-Chamber-of-Commerces-statement-that-Xis-repetition-of-opening-without-sufficient-concrete-measures-or-timelines-being-introduced-has-left-the-European-biz-community-increasingly-desensitized-to/answer/Clément-Renaud'
 source: quora
 title: |

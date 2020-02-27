@@ -1,6 +1,6 @@
 ---
 date: '2015-04-13'
-language: fr
+language: en
 original_url: 'https://quora.com/How-many-Quorans-know-Qingdao-or-have-been-to-Qingdao/answer/Clément-Renaud'
 source: quora
 title: 'How many Quorans know Qingdao or have been to Qingdao?'

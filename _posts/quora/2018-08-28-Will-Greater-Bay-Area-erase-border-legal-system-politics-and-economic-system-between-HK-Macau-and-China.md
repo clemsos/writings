@@ -1,6 +1,6 @@
 ---
 date: '2018-08-28'
-language: fr
+language: en
 original_url: 'https://quora.com/Will-Greater-Bay-Area-erase-border-legal-system-politics-and-economic-system-between-HK-Macau-and-China/answer/Clément-Renaud'
 source: quora
 title: |

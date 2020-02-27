@@ -1,6 +1,6 @@
 ---
 date: '2013-03-21'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-some-of-the-biggest-flaws-of-Quora/answer/Clément-Renaud'
 source: quora
 title: 'What are some of the biggest flaws of Quora?'

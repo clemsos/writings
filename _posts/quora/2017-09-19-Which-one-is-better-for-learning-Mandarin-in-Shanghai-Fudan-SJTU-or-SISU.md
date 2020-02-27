@@ -1,6 +1,6 @@
 ---
 date: '2017-09-19'
-language: fr
+language: en
 original_url: 'https://quora.com/Which-one-is-better-for-learning-Mandarin-in-Shanghai-Fudan-SJTU-or-SISU/answer/Clément-Renaud'
 source: quora
 title: |

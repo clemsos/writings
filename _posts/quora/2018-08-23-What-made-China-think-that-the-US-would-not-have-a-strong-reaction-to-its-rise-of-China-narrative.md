@@ -1,6 +1,6 @@
 ---
 date: '2018-08-23'
-language: fr
+language: en
 original_url: 'https://quora.com/What-made-China-think-that-the-US-would-not-have-a-strong-reaction-to-its-rise-of-China-narrative/answer/Clément-Renaud'
 source: quora
 title: |

@@ -1,6 +1,6 @@
 ---
 date: '2015-02-20'
-language: fr
+language: en
 original_url: 'https://quora.com/How-does-promotion-work-within-the-Chinese-Communist-party/answer/Clément-Renaud'
 source: quora
 title: 'How does promotion work within the Chinese Communist party?'

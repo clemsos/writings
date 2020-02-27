@@ -1,6 +1,6 @@
 ---
 date: '2015-08-15'
-language: fr
+language: en
 original_url: 'https://quora.com/Is-the-expression-bonjour-mon-ami-still-used-in-France/answer/Clément-Renaud'
 source: quora
 title: 'Is the expression  ''bonjour mon ami '' still used in France?'

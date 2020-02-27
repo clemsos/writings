@@ -1,6 +1,6 @@
 ---
 date: '2018-09-29'
-language: fr
+language: en
 original_url: 'https://quora.com/Im-moving-to-China-and-I-dont-want-to-be-one-of-those-expats-that-spends-20-years-there-and-never-become-fluent-in-the-language-How-can-I-use-the-fact-Im-an-English-teacher-there-to-my-advantage/answer/Clément-Renaud'
 source: quora
 title: |

@@ -1,6 +1,6 @@
 ---
 date: '2015-02-16'
-language: fr
+language: en
 original_url: 'https://quora.com/Will-there-be-a-Silicon-Valley-in-China/answer/Clément-Renaud'
 source: quora
 title: 'Will there be a Silicon Valley in China?'

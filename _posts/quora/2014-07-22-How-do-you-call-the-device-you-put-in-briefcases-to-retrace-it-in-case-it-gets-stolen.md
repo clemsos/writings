@@ -1,6 +1,6 @@
 ---
 date: '2014-07-22'
-language: fr
+language: en
 original_url: 'https://quora.com/How-do-you-call-the-device-you-put-in-briefcases-to-retrace-it-in-case-it-gets-stolen/answer/Clément-Renaud'
 source: quora
 title: |

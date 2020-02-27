@@ -1,6 +1,6 @@
 ---
 date: '2018-12-07'
-language: fr
+language: en
 original_url: 'https://quora.com/Does-the-French-Yellow-Vest-movement-mainly-organize-on-Facebook/answer/Clément-Renaud'
 source: quora
 title: 'Does the French  ''Yellow Vest '' movement mainly organize on Facebook?'

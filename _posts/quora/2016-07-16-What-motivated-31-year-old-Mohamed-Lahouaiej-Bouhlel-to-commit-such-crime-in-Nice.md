@@ -1,6 +1,6 @@
 ---
 date: '2016-07-16'
-language: fr
+language: en
 original_url: 'https://quora.com/What-motivated-31-year-old-Mohamed-Lahouaiej-Bouhlel-to-commit-such-crime-in-Nice/answer/Clément-Renaud'
 source: quora
 title: |

@@ -1,6 +1,6 @@
 ---
 date: '2019-01-02'
-language: fr
+language: en
 original_url: 'https://quora.com/Why-is-China-a-manufacturing-hub/answer/Clément-Renaud'
 source: quora
 title: 'Why is China a manufacturing hub?'

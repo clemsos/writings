@@ -1,6 +1,6 @@
 ---
 date: '2012-11-19'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-some-Mandarin-words-that-have-no-English-equivalent/answer/Clément-Renaud'
 source: quora
 title: 'What are some Mandarin words that have no English equivalent?'

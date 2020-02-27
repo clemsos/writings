@@ -1,6 +1,6 @@
 ---
 date: '2018-11-27'
-language: fr
+language: en
 original_url: 'https://quora.com/Is-anybody-surprised-that-Alibaba-founder-Jack-Ma-is-a-China-Communist-Party-member/answer/Clément-Renaud'
 source: quora
 title: |

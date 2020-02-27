@@ -1,6 +1,6 @@
 ---
 date: '2018-10-21'
-language: fr
+language: en
 original_url: 'https://quora.com/What-vital-skills-are-current-generations-failing-to-learn/answer/Clément-Renaud'
 source: quora
 title: 'What vital skills are current generations failing to learn?'

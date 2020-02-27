@@ -1,6 +1,6 @@
 ---
 date: '2015-08-01'
-language: fr
+language: en
 original_url: 'https://quora.com/What-is-the-easiest-way-to-learn-Chinese-language-skills-with-the-least-effort/answer/Clément-Renaud'
 source: quora
 title: |

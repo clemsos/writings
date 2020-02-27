@@ -1,6 +1,6 @@
 ---
 date: '2015-08-13'
-language: fr
+language: en
 original_url: 'https://quora.com/Is-it-difficult-for-a-foreigner-to-read-a-Chinese-book-in-China-although-many-interesting-books-are-written-in-Chinese/answer/Clément-Renaud'
 source: quora
 title: |

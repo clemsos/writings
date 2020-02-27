@@ -1,6 +1,6 @@
 ---
 date: '2015-08-01'
-language: fr
+language: en
 original_url: 'https://quora.com/How-do-French-businessmen-business-people-want-to-be-treated/answer/Clément-Renaud'
 source: quora
 title: 'How do French businessmen (business people) want to be treated?'

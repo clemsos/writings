@@ -1,6 +1,6 @@
 ---
 date: '2018-10-05'
-language: fr
+language: en
 original_url: 'https://quora.com/When-did-Hong-Kong-first-get-democracy/answer/Clément-Renaud'
 source: quora
 title: 'When did Hong Kong first get democracy?'

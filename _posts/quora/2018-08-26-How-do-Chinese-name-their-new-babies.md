@@ -1,6 +1,6 @@
 ---
 date: '2018-08-26'
-language: fr
+language: en
 original_url: 'https://quora.com/How-do-Chinese-name-their-new-babies/answer/Clément-Renaud'
 source: quora
 title: 'How do Chinese name their new babies?'

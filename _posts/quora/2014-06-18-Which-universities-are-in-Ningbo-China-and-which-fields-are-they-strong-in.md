@@ -1,6 +1,6 @@
 ---
 date: '2014-06-18'
-language: fr
+language: en
 original_url: 'https://quora.com/Which-universities-are-in-Ningbo-China-and-which-fields-are-they-strong-in/answer/Clément-Renaud'
 source: quora
 title: |

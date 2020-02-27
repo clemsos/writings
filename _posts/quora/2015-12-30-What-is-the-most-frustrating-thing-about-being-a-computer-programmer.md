@@ -1,6 +1,6 @@
 ---
 date: '2015-12-30'
-language: fr
+language: en
 original_url: 'https://quora.com/What-is-the-most-frustrating-thing-about-being-a-computer-programmer/answer/Clément-Renaud'
 source: quora
 title: 'What is the most frustrating thing about being a computer programmer?'

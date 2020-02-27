@@ -1,6 +1,6 @@
 ---
 date: '2018-08-25'
-language: fr
+language: en
 original_url: 'https://quora.com/Are-the-house-prices-in-China-on-a-dropping-trend/answer/Clément-Renaud'
 source: quora
 title: 'Are the house prices in China on a dropping trend?'

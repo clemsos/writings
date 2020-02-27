@@ -1,6 +1,6 @@
 ---
 date: '2012-11-19'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-important-advantages-and-disadvantages-of-Symphony-CMS-when-compared-to-Ruby-on-Rails/answer/Clément-Renaud'
 source: quora
 title: |

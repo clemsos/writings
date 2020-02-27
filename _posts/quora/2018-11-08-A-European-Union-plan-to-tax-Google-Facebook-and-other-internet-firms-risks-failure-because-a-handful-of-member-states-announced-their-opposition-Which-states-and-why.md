@@ -1,6 +1,6 @@
 ---
 date: '2018-11-08'
-language: fr
+language: en
 original_url: 'https://quora.com/A-European-Union-plan-to-tax-Google-Facebook-and-other-internet-firms-risks-failure-because-a-handful-of-member-states-announced-their-opposition-Which-states-and-why/answer/Clément-Renaud'
 source: quora
 title: |

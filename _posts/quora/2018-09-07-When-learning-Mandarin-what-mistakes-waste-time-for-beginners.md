@@ -1,6 +1,6 @@
 ---
 date: '2018-09-07'
-language: fr
+language: en
 original_url: 'https://quora.com/When-learning-Mandarin-what-mistakes-waste-time-for-beginners/answer/Clément-Renaud'
 source: quora
 title: 'When learning Mandarin, what mistakes waste time for beginners?'

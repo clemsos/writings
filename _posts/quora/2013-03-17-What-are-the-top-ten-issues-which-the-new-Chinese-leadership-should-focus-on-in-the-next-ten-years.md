@@ -1,6 +1,6 @@
 ---
 date: '2013-03-17'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-the-top-ten-issues-which-the-new-Chinese-leadership-should-focus-on-in-the-next-ten-years/answer/Clément-Renaud'
 source: quora
 title: |

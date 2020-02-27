@@ -1,6 +1,6 @@
 ---
 date: '2013-01-08'
-language: fr
+language: en
 original_url: 'https://quora.com/Is-it-strange-that-the-Great-Chinese-Firewall-blocks-Twitter-but-state-controlled-media-like-Global-Times-use-Twitter/answer/Clément-Renaud'
 source: quora
 title: |

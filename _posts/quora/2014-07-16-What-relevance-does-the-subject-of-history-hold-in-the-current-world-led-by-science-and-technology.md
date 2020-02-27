@@ -1,6 +1,6 @@
 ---
 date: '2014-07-16'
-language: fr
+language: en
 original_url: 'https://quora.com/What-relevance-does-the-subject-of-history-hold-in-the-current-world-led-by-science-and-technology/answer/Clément-Renaud'
 source: quora
 title: |

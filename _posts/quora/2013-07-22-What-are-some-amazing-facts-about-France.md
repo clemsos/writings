@@ -1,6 +1,6 @@
 ---
 date: '2013-07-22'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-some-amazing-facts-about-France/answer/Clément-Renaud'
 source: quora
 title: 'What are some amazing facts about France?'

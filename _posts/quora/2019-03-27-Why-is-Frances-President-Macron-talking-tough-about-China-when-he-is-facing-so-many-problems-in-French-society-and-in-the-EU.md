@@ -1,6 +1,6 @@
 ---
 date: '2019-03-27'
-language: fr
+language: en
 original_url: 'https://quora.com/Why-is-Frances-President-Macron-talking-tough-about-China-when-he-is-facing-so-many-problems-in-French-society-and-in-the-EU/answer/Clément-Renaud'
 source: quora
 title: |

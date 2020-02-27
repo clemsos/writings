@@ -1,6 +1,6 @@
 ---
 date: '2015-02-15'
-language: fr
+language: en
 original_url: 'https://quora.com/What-kind-of-organizational-discrimination-will-exist-in-the-future/answer/Clément-Renaud'
 source: quora
 title: 'What kind of organizational discrimination will exist in the future?'

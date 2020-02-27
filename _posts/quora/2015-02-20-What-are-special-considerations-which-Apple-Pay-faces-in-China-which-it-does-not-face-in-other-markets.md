@@ -1,6 +1,6 @@
 ---
 date: '2015-02-20'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-special-considerations-which-Apple-Pay-faces-in-China-which-it-does-not-face-in-other-markets/answer/Clément-Renaud'
 source: quora
 title: |

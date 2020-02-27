@@ -1,6 +1,6 @@
 ---
 date: '2018-10-23'
-language: fr
+language: en
 original_url: 'https://quora.com/If-French-food-is-so-great-tasting-why-don-t-we-see-more-French-restaurants/answer/Clément-Renaud'
 source: quora
 title: |

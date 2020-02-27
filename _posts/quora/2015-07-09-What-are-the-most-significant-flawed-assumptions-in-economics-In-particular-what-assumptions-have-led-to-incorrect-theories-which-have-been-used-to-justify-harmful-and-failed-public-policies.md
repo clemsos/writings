@@ -1,6 +1,6 @@
 ---
 date: '2015-07-09'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-the-most-significant-flawed-assumptions-in-economics-In-particular-what-assumptions-have-led-to-incorrect-theories-which-have-been-used-to-justify-harmful-and-failed-public-policies/answer/Clément-Renaud'
 source: quora
 title: |

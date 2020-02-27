@@ -1,6 +1,6 @@
 ---
 date: '2013-01-05'
-language: fr
+language: en
 original_url: 'https://quora.com/What-is-the-cheapest-way-to-travel-from-Paris-to-Prague/answer/Clément-Renaud'
 source: quora
 title: 'What is the cheapest way to travel from Paris to Prague?'

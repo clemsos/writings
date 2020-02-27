@@ -1,6 +1,6 @@
 ---
 date: '2015-09-07'
-language: fr
+language: en
 original_url: 'https://quora.com/Why-would-it-be-bad-for-China-if-they-took-over-North-Korea/answer/Clément-Renaud'
 source: quora
 title: 'Why would it be bad for China if they took over North Korea?'

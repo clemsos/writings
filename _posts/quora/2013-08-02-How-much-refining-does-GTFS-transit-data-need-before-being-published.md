@@ -1,6 +1,6 @@
 ---
 date: '2013-08-02'
-language: fr
+language: en
 original_url: 'https://quora.com/How-much-refining-does-GTFS-transit-data-need-before-being-published/answer/Clément-Renaud'
 source: quora
 title: 'How much refining does GTFS transit data need before being published?'

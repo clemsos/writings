@@ -1,6 +1,6 @@
 ---
 date: '2016-10-13'
-language: fr
+language: en
 original_url: 'https://quora.com/How-will-Apples-announcement-to-open-a-research-and-development-center-in-Shenzhen-affect-the-startup-and-makers-movements-there/answer/Clément-Renaud'
 source: quora
 title: |

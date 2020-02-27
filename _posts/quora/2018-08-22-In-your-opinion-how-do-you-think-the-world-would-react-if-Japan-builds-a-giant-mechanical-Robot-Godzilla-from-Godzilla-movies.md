@@ -1,6 +1,6 @@
 ---
 date: '2018-08-22'
-language: fr
+language: en
 original_url: 'https://quora.com/In-your-opinion-how-do-you-think-the-world-would-react-if-Japan-builds-a-giant-mechanical-Robot-Godzilla-from-Godzilla-movies/answer/Clément-Renaud'
 source: quora
 title: |

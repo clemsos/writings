@@ -1,6 +1,6 @@
 ---
 date: '2018-12-12'
-language: fr
+language: en
 original_url: 'https://quora.com/What-is-digital-infrastructure/answer/Clément-Renaud'
 source: quora
 title: 'What is digital infrastructure?'

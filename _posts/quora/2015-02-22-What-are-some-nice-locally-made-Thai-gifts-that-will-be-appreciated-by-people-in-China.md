@@ -1,6 +1,6 @@
 ---
 date: '2015-02-22'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-some-nice-locally-made-Thai-gifts-that-will-be-appreciated-by-people-in-China/answer/Clément-Renaud'
 source: quora
 title: |

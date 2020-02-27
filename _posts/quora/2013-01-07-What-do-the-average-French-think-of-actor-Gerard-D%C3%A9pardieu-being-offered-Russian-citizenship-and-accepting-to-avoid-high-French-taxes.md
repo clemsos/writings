@@ -1,6 +1,6 @@
 ---
 date: '2013-01-07'
-language: fr
+language: en
 original_url: 'https://quora.com/What-do-the-average-French-think-of-actor-Gerard-D%C3%A9pardieu-being-offered-Russian-citizenship-and-accepting-to-avoid-high-French-taxes/answer/Clément-Renaud'
 source: quora
 title: |

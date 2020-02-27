@@ -1,6 +1,6 @@
 ---
 date: '2012-12-13'
-language: fr
+language: en
 original_url: 'https://quora.com/Which-tools-are-available-to-collect-social-network-data-aside-from-Netvizz-Twecoll-Divud-and-Psychemedia-Script/answer/Clément-Renaud'
 source: quora
 title: |

@@ -1,6 +1,6 @@
 ---
 date: '2018-09-04'
-language: fr
+language: en
 original_url: 'https://quora.com/Why-do-China-watchers-pay-so-much-attention-to-the-front-page-of-Peoples-Daily/answer/Clément-Renaud'
 source: quora
 title: |

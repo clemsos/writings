@@ -1,6 +1,6 @@
 ---
 date: '2015-03-09'
-language: fr
+language: en
 original_url: 'https://quora.com/What-programs-does-Intel-have-to-identify-and-promote-new-engineering-talent-and-new-companies-both-inside-and-outside-the-US/answer/Clément-Renaud'
 source: quora
 title: |

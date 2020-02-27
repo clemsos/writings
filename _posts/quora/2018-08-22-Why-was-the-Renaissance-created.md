@@ -1,6 +1,6 @@
 ---
 date: '2018-08-22'
-language: fr
+language: en
 original_url: 'https://quora.com/Why-was-the-Renaissance-created/answer/Clément-Renaud'
 source: quora
 title: 'Why was the Renaissance created?'

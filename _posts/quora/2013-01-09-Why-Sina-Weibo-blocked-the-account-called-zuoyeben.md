@@ -1,6 +1,6 @@
 ---
 date: '2013-01-09'
-language: fr
+language: en
 original_url: 'https://quora.com/Why-Sina-Weibo-blocked-the-account-called-zuoyeben/answer/Clément-Renaud'
 source: quora
 title: 'Why Sina Weibo blocked the account called  ''zuoyeben ''?'

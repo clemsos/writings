@@ -1,6 +1,6 @@
 ---
 date: '2018-08-22'
-language: fr
+language: en
 original_url: 'https://quora.com/Is-it-true-that-Internet-connections-in-China-will-collapse-if-you-paste-06-04-1987-on-a-Chinese-website-server/answer/Clément-Renaud'
 source: quora
 title: |

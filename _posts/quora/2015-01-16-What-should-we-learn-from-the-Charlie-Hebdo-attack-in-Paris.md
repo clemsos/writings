@@ -1,6 +1,6 @@
 ---
 date: '2015-01-16'
-language: fr
+language: en
 original_url: 'https://quora.com/What-should-we-learn-from-the-Charlie-Hebdo-attack-in-Paris/answer/Clément-Renaud'
 source: quora
 title: 'What should we learn from the Charlie Hebdo attack in Paris?'

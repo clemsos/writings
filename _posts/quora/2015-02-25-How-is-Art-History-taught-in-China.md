@@ -1,6 +1,6 @@
 ---
 date: '2015-02-25'
-language: fr
+language: en
 original_url: 'https://quora.com/How-is-Art-History-taught-in-China/answer/Clément-Renaud'
 source: quora
 title: 'How is Art History taught in China?'

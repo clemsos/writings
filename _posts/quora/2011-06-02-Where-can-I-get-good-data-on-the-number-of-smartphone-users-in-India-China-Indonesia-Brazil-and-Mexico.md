@@ -1,6 +1,6 @@
 ---
 date: '2011-06-02'
-language: fr
+language: en
 original_url: 'https://quora.com/Where-can-I-get-good-data-on-the-number-of-smartphone-users-in-India-China-Indonesia-Brazil-and-Mexico/answer/Clément-Renaud'
 source: quora
 title: |

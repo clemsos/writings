@@ -1,6 +1,6 @@
 ---
 date: '2018-07-16'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-the-special-advantages-which-Chinese-Internet-companies-in-China-have-compared-to-Internet-companies-in-other-countries/answer/Clément-Renaud'
 source: quora
 title: |

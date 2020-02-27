@@ -1,6 +1,6 @@
 ---
 date: '2017-09-13'
-language: fr
+language: en
 original_url: 'https://quora.com/Is-becoming-fluent-in-Chinese-like-learning-computer-programming/answer/Clément-Renaud'
 source: quora
 title: 'Is becoming fluent in Chinese like learning computer programming?'

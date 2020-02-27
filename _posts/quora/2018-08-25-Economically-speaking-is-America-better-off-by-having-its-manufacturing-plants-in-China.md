@@ -1,6 +1,6 @@
 ---
 date: '2018-08-25'
-language: fr
+language: en
 original_url: 'https://quora.com/Economically-speaking-is-America-better-off-by-having-its-manufacturing-plants-in-China/answer/Clément-Renaud'
 source: quora
 title: |

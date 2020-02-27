@@ -1,6 +1,6 @@
 ---
 date: '2015-04-15'
-language: fr
+language: en
 original_url: 'https://quora.com/How-do-documentary-makers-find-subjects/answer/Clément-Renaud'
 source: quora
 title: 'How do documentary makers find subjects?'

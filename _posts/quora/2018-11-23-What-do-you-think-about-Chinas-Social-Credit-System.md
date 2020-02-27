@@ -1,6 +1,6 @@
 ---
 date: '2018-11-23'
-language: fr
+language: en
 original_url: 'https://quora.com/What-do-you-think-about-Chinas-Social-Credit-System/answer/Clément-Renaud'
 source: quora
 title: 'What do you think about China ''s Social Credit System?'

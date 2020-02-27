@@ -1,6 +1,6 @@
 ---
 date: '2018-08-22'
-language: fr
+language: en
 original_url: 'https://quora.com/Why-is-opacity-such-an-important-feature-of-the-Chinese-business-world-and-society/answer/Clément-Renaud'
 source: quora
 title: |

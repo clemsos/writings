@@ -1,6 +1,6 @@
 ---
 date: '2018-10-05'
-language: fr
+language: en
 original_url: 'https://quora.com/Is-the-mean-stack-mean-io-the-best-fullstack-JavaScript-framework/answer/Clément-Renaud'
 source: quora
 title: 'Is the mean stack (mean.io) the best fullstack JavaScript framework?'

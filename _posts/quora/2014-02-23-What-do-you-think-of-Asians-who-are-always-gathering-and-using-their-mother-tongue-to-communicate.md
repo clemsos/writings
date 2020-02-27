@@ -1,6 +1,6 @@
 ---
 date: '2014-02-23'
-language: fr
+language: en
 original_url: 'https://quora.com/What-do-you-think-of-Asians-who-are-always-gathering-and-using-their-mother-tongue-to-communicate/answer/Clément-Renaud'
 source: quora
 title: |

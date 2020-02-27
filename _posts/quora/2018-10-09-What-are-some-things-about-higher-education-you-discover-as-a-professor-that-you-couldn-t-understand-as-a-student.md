@@ -1,6 +1,6 @@
 ---
 date: '2018-10-09'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-some-things-about-higher-education-you-discover-as-a-professor-that-you-couldn-t-understand-as-a-student/answer/Clément-Renaud'
 source: quora
 title: |

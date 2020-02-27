@@ -1,6 +1,6 @@
 ---
 date: '2013-04-10'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-five-significant-advantages-China-and-the-Chinese-Communist-Party-have-over-the-west/answer/Clément-Renaud'
 source: quora
 title: |

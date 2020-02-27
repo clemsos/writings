@@ -1,6 +1,6 @@
 ---
 date: '2014-02-27'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-some-interesting-one-liners-on-China/answer/Clément-Renaud'
 source: quora
 title: 'What are some interesting one-liners on China?'

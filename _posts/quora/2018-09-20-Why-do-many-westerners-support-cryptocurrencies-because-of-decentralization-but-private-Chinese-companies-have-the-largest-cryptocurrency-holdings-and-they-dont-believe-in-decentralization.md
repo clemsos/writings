@@ -1,6 +1,6 @@
 ---
 date: '2018-09-20'
-language: fr
+language: en
 original_url: 'https://quora.com/Why-do-many-westerners-support-cryptocurrencies-because-of-decentralization-but-private-Chinese-companies-have-the-largest-cryptocurrency-holdings-and-they-dont-believe-in-decentralization/answer/Clément-Renaud'
 source: quora
 title: |

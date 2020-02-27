@@ -1,6 +1,6 @@
 ---
 date: '2018-08-22'
-language: fr
+language: en
 original_url: 'https://quora.com/What-is-2019-animal-in-Chinese-calendar/answer/Clément-Renaud'
 source: quora
 title: 'What is 2019 animal in Chinese calendar?'

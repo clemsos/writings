@@ -1,6 +1,6 @@
 ---
 date: '2012-05-28'
-language: fr
+language: en
 original_url: 'https://quora.com/Why-is-Facebook-banned-in-China-2/answer/Clément-Renaud'
 source: quora
 title: 'Why is Facebook banned in China?'

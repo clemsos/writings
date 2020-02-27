@@ -1,6 +1,6 @@
 ---
 date: '2016-05-22'
-language: fr
+language: en
 original_url: 'https://quora.com/Can-I-wash-my-cat-by-licking-it-like-a-cat-would/answer/Clément-Renaud'
 source: quora
 title: 'Can I wash my cat by licking it like a cat would?'

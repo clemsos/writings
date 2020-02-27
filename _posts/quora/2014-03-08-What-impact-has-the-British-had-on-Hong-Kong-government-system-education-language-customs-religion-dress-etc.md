@@ -1,6 +1,6 @@
 ---
 date: '2014-03-08'
-language: fr
+language: en
 original_url: 'https://quora.com/What-impact-has-the-British-had-on-Hong-Kong-government-system-education-language-customs-religion-dress-etc/answer/Clément-Renaud'
 source: quora
 title: |

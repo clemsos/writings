@@ -1,6 +1,6 @@
 ---
 date: '2018-08-22'
-language: fr
+language: en
 original_url: 'https://quora.com/What-region-has-the-most-opportunities-for-software-engineers-besides-Silicon-Valley/answer/Clément-Renaud'
 source: quora
 title: |

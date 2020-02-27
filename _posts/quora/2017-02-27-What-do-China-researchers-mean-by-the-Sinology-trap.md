@@ -1,6 +1,6 @@
 ---
 date: '2017-02-27'
-language: fr
+language: en
 original_url: 'https://quora.com/What-do-China-researchers-mean-by-the-Sinology-trap/answer/Clément-Renaud'
 source: quora
 title: 'What do China researchers mean by  ''the Sinology trap ''?'

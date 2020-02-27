@@ -1,6 +1,6 @@
 ---
 date: '2014-06-23'
-language: fr
+language: en
 original_url: 'https://quora.com/What-have-been-the-consequences-of-the-French-law-banning-the-Burka/answer/Clément-Renaud'
 source: quora
 title: 'What have been the consequences of the French law banning the Burka?'

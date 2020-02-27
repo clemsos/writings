@@ -1,6 +1,6 @@
 ---
 date: '2018-08-28'
-language: fr
+language: en
 original_url: 'https://quora.com/Are-there-any-great-Chinese-food-items-that-are-vegetarian/answer/Clément-Renaud'
 source: quora
 title: 'Are there any great Chinese food items that are vegetarian?'

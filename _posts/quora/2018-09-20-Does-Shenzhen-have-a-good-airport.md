@@ -1,6 +1,6 @@
 ---
 date: '2018-09-20'
-language: fr
+language: en
 original_url: 'https://quora.com/Does-Shenzhen-have-a-good-airport/answer/Clément-Renaud'
 source: quora
 title: 'Does Shenzhen have a good airport?'

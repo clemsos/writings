@@ -1,6 +1,6 @@
 ---
 date: '2018-08-25'
-language: fr
+language: en
 original_url: 'https://quora.com/What-has-been-your-experience-using-React-js-as-a-developer/answer/Clément-Renaud'
 source: quora
 title: 'What has been your experience using React.js as a developer?'

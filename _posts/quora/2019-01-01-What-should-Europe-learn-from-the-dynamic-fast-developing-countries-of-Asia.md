@@ -1,6 +1,6 @@
 ---
 date: '2019-01-01'
-language: fr
+language: en
 original_url: 'https://quora.com/What-should-Europe-learn-from-the-dynamic-fast-developing-countries-of-Asia/answer/Clément-Renaud'
 source: quora
 title: |

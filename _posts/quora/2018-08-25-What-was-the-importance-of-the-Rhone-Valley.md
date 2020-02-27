@@ -1,6 +1,6 @@
 ---
 date: '2018-08-25'
-language: fr
+language: en
 original_url: 'https://quora.com/What-was-the-importance-of-the-Rhone-Valley/answer/Clément-Renaud'
 source: quora
 title: 'What was the importance of the Rhone Valley?'

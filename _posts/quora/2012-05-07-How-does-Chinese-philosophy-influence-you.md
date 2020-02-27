@@ -1,6 +1,6 @@
 ---
 date: '2012-05-07'
-language: fr
+language: en
 original_url: 'https://quora.com/How-does-Chinese-philosophy-influence-you/answer/Clément-Renaud'
 source: quora
 title: 'How does Chinese philosophy influence you?'

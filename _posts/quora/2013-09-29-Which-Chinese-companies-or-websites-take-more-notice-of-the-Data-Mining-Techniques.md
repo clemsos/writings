@@ -1,6 +1,6 @@
 ---
 date: '2013-09-29'
-language: fr
+language: en
 original_url: 'https://quora.com/Which-Chinese-companies-or-websites-take-more-notice-of-the-Data-Mining-Techniques/answer/Clément-Renaud'
 source: quora
 title: |

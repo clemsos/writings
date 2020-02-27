@@ -1,6 +1,6 @@
 ---
 date: '2018-08-25'
-language: fr
+language: en
 original_url: 'https://quora.com/Is-jQuery-still-worth-it-What-should-I-learn-after-JS-Vanilla/answer/Clément-Renaud'
 source: quora
 title: 'Is jQuery still worth it? What should I learn after JS Vanilla?'

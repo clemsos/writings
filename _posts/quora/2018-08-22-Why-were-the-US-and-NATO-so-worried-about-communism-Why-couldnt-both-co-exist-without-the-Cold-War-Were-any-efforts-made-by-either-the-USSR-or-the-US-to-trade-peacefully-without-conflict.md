@@ -1,6 +1,6 @@
 ---
 date: '2018-08-22'
-language: fr
+language: en
 original_url: 'https://quora.com/Why-were-the-US-and-NATO-so-worried-about-communism-Why-couldnt-both-co-exist-without-the-Cold-War-Were-any-efforts-made-by-either-the-USSR-or-the-US-to-trade-peacefully-without-conflict/answer/Clément-Renaud'
 source: quora
 title: |

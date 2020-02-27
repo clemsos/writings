@@ -1,6 +1,6 @@
 ---
 date: '2018-09-29'
-language: fr
+language: en
 original_url: 'https://quora.com/What-won-t-Silicon-Valley-admit-about-technology-and-progress/answer/Clément-Renaud'
 source: quora
 title: 'What won''t Silicon Valley admit about technology and progress?'

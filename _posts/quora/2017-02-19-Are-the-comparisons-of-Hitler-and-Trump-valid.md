@@ -1,6 +1,6 @@
 ---
 date: '2017-02-19'
-language: fr
+language: en
 original_url: 'https://quora.com/Are-the-comparisons-of-Hitler-and-Trump-valid/answer/Clément-Renaud'
 source: quora
 title: 'Are the comparisons of Hitler and Trump valid?'

@@ -1,6 +1,6 @@
 ---
 date: '2012-11-19'
-language: fr
+language: en
 original_url: 'https://quora.com/Parisian-Chic-What-are-the-best-leather-gloves-in-the-market/answer/Clément-Renaud'
 source: quora
 title: 'Parisian Chic: What are the best leather gloves in the market?'

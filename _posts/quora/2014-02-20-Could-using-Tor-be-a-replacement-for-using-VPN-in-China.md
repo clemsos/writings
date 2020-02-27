@@ -1,6 +1,6 @@
 ---
 date: '2014-02-20'
-language: fr
+language: en
 original_url: 'https://quora.com/Could-using-Tor-be-a-replacement-for-using-VPN-in-China/answer/Clément-Renaud'
 source: quora
 title: 'Could using Tor be a replacement for using VPN in China?'

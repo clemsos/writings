@@ -1,6 +1,6 @@
 ---
 date: '2015-07-20'
-language: fr
+language: en
 original_url: 'https://quora.com/How-do-ordinary-Greeks-see-the-Greece-debt-crisis/answer/Clément-Renaud'
 source: quora
 title: 'How do ordinary Greeks see the Greece debt crisis?'

@@ -1,6 +1,6 @@
 ---
 date: '2014-06-16'
-language: fr
+language: en
 original_url: 'https://quora.com/How-do-I-interact-with-my-Taiwanese-girlfriends-mother-when-I-dont-speak-Chinese/answer/Clément-Renaud'
 source: quora
 title: |

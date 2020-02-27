@@ -1,6 +1,6 @@
 ---
 date: '2014-07-14'
-language: fr
+language: en
 original_url: 'https://quora.com/What-is-the-most-Chinese-thing-a-Chinese-person-can-do/answer/Clément-Renaud'
 source: quora
 title: 'What is the most Chinese thing a Chinese person can do?'

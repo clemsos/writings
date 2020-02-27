@@ -1,6 +1,6 @@
 ---
 date: '2018-08-25'
-language: fr
+language: en
 original_url: 'https://quora.com/Who-is-Alain-Jupp%C3%A9/answer/Clément-Renaud'
 source: quora
 title: 'Who is Alain Juppé?'

@@ -1,6 +1,6 @@
 ---
 date: '2014-07-21'
-language: fr
+language: en
 original_url: 'https://quora.com/Is-there-a-correlation-between-how-well-a-professor-lectures-and-how-well-they-give-academic-talks/answer/Clément-Renaud'
 source: quora
 title: |

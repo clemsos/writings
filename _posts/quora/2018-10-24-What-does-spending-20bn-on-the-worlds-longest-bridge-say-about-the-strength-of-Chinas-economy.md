@@ -1,6 +1,6 @@
 ---
 date: '2018-10-24'
-language: fr
+language: en
 original_url: 'https://quora.com/What-does-spending-20bn-on-the-worlds-longest-bridge-say-about-the-strength-of-Chinas-economy/answer/Clément-Renaud'
 source: quora
 title: |

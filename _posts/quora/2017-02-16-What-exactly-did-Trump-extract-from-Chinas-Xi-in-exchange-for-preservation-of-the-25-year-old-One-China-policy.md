@@ -1,6 +1,6 @@
 ---
 date: '2017-02-16'
-language: fr
+language: en
 original_url: 'https://quora.com/What-exactly-did-Trump-extract-from-Chinas-Xi-in-exchange-for-preservation-of-the-25-year-old-One-China-policy/answer/Clément-Renaud'
 source: quora
 title: |

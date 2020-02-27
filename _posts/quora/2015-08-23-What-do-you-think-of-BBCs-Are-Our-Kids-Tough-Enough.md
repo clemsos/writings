@@ -1,6 +1,6 @@
 ---
 date: '2015-08-23'
-language: fr
+language: en
 original_url: 'https://quora.com/What-do-you-think-of-BBCs-Are-Our-Kids-Tough-Enough/answer/Clément-Renaud'
 source: quora
 title: 'What do you think of BBC ''s Are Our Kids Tough Enough?'

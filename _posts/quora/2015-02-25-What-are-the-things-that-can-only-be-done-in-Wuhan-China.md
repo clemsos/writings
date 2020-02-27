@@ -1,6 +1,6 @@
 ---
 date: '2015-02-25'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-the-things-that-can-only-be-done-in-Wuhan-China/answer/Clément-Renaud'
 source: quora
 title: 'What are the things that can only be done in Wuhan, China?'

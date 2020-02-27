@@ -1,6 +1,6 @@
 ---
 date: '2018-09-07'
-language: fr
+language: en
 original_url: 'https://quora.com/Why-should-Google-stay-out-of-China/answer/Clément-Renaud'
 source: quora
 title: 'Why should Google stay out of China?'

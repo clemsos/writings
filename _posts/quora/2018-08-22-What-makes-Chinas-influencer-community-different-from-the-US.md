@@ -1,6 +1,6 @@
 ---
 date: '2018-08-22'
-language: fr
+language: en
 original_url: 'https://quora.com/What-makes-Chinas-influencer-community-different-from-the-US/answer/Clément-Renaud'
 source: quora
 title: 'What makes China ''s influencer community different from the US?'

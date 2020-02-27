@@ -1,6 +1,6 @@
 ---
 date: '2015-09-04'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-some-compliments-or-flattering-phrases-you-can-say-to-a-woman-in-French/answer/Clément-Renaud'
 source: quora
 title: |

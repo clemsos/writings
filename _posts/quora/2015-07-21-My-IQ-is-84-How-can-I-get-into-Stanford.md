@@ -1,6 +1,6 @@
 ---
 date: '2015-07-21'
-language: fr
+language: en
 original_url: 'https://quora.com/My-IQ-is-84-How-can-I-get-into-Stanford/answer/Clément-Renaud'
 source: quora
 title: 'My IQ is 84. How can I get into Stanford?'

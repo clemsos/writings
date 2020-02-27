@@ -1,6 +1,6 @@
 ---
 date: '2015-08-27'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-some-good-French-rap-artists/answer/Clément-Renaud'
 source: quora
 title: 'What are some good French rap artists?'

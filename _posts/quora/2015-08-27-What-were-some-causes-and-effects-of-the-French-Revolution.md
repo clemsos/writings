@@ -1,6 +1,6 @@
 ---
 date: '2015-08-27'
-language: fr
+language: en
 original_url: 'https://quora.com/What-were-some-causes-and-effects-of-the-French-Revolution/answer/Clément-Renaud'
 source: quora
 title: 'What were some causes and effects of the French Revolution?'

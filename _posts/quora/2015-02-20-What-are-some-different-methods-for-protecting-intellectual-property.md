@@ -1,6 +1,6 @@
 ---
 date: '2015-02-20'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-some-different-methods-for-protecting-intellectual-property/answer/Clément-Renaud'
 source: quora
 title: 'What are some different methods for protecting intellectual property?'

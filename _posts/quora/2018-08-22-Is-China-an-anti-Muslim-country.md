@@ -1,6 +1,6 @@
 ---
 date: '2018-08-22'
-language: fr
+language: en
 original_url: 'https://quora.com/Is-China-an-anti-Muslim-country/answer/Clément-Renaud'
 source: quora
 title: 'Is China an anti-Muslim country?'

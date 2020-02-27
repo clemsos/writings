@@ -1,6 +1,6 @@
 ---
 date: '2014-06-16'
-language: fr
+language: en
 original_url: 'https://quora.com/China-has-blocked-all-of-Google-services-now-why-doesnt-Google-fight-back/answer/Clément-Renaud'
 source: quora
 title: |

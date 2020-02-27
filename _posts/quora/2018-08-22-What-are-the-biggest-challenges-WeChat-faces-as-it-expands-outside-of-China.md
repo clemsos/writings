@@ -1,6 +1,6 @@
 ---
 date: '2018-08-22'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-the-biggest-challenges-WeChat-faces-as-it-expands-outside-of-China/answer/Clément-Renaud'
 source: quora
 title: |

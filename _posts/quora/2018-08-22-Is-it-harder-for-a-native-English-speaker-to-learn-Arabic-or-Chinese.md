@@ -1,6 +1,6 @@
 ---
 date: '2018-08-22'
-language: fr
+language: en
 original_url: 'https://quora.com/Is-it-harder-for-a-native-English-speaker-to-learn-Arabic-or-Chinese/answer/Clément-Renaud'
 source: quora
 title: 'Is it harder for a native English speaker to learn Arabic or Chinese?'

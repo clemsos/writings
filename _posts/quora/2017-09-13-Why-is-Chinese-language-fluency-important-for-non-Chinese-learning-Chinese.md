@@ -1,6 +1,6 @@
 ---
 date: '2017-09-13'
-language: fr
+language: en
 original_url: 'https://quora.com/Why-is-Chinese-language-fluency-important-for-non-Chinese-learning-Chinese/answer/Clément-Renaud'
 source: quora
 title: |

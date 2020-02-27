@@ -1,6 +1,6 @@
 ---
 date: '2018-09-15'
-language: fr
+language: en
 original_url: 'https://quora.com/How-can-foreigners-use-WeChat-wallet-or-Alipay-when-visiting-China/answer/Clément-Renaud'
 source: quora
 title: 'How can foreigners use WeChat wallet or Alipay when visiting China?'

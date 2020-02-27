@@ -1,6 +1,6 @@
 ---
 date: '2015-02-24'
-language: fr
+language: en
 original_url: 'https://quora.com/Why-are-Google-and-Facebook-banned-in-China-If-Google-is-banned-then-how-do-Chinese-phones-have-Android-1/answer/Clément-Renaud'
 source: quora
 title: |

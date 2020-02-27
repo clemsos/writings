@@ -1,6 +1,6 @@
 ---
 date: '2016-05-19'
-language: fr
+language: en
 original_url: 'https://quora.com/What-do-I-need-to-do-in-order-to-replicate-Shenzhen-in-5-years/answer/Clément-Renaud'
 source: quora
 title: 'What do I need to do in order to replicate Shenzhen in &lt;5 years?'

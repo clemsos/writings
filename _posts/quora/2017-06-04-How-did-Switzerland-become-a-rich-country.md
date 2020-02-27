@@ -1,6 +1,6 @@
 ---
 date: '2017-06-04'
-language: fr
+language: en
 original_url: 'https://quora.com/How-did-Switzerland-become-a-rich-country/answer/Clément-Renaud'
 source: quora
 title: 'How did Switzerland become a rich country?'

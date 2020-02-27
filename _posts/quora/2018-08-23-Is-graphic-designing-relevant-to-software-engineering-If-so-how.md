@@ -1,6 +1,6 @@
 ---
 date: '2018-08-23'
-language: fr
+language: en
 original_url: 'https://quora.com/Is-graphic-designing-relevant-to-software-engineering-If-so-how/answer/Clément-Renaud'
 source: quora
 title: 'Is graphic designing relevant to software engineering? If so, how?'

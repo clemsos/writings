@@ -1,6 +1,6 @@
 ---
 date: '2018-08-28'
-language: fr
+language: en
 original_url: 'https://quora.com/What-is-the-relationship-like-between-China-and-France/answer/Clément-Renaud'
 source: quora
 title: 'What is the relationship like between China and France?'

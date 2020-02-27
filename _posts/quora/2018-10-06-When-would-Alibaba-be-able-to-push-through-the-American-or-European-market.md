@@ -1,6 +1,6 @@
 ---
 date: '2018-10-06'
-language: fr
+language: en
 original_url: 'https://quora.com/When-would-Alibaba-be-able-to-push-through-the-American-or-European-market/answer/Clément-Renaud'
 source: quora
 title: |

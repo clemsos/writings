@@ -1,6 +1,6 @@
 ---
 date: '2018-06-08'
-language: fr
+language: en
 original_url: 'https://quora.com/Why-is-Qingdao-chosen-as-the-venue-for-2018-Summit-of-the-Shanghai-Cooperation-Organization/answer/Clément-Renaud'
 source: quora
 title: |

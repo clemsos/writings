@@ -1,6 +1,6 @@
 ---
 date: '2015-02-13'
-language: fr
+language: en
 original_url: 'https://quora.com/How-do-people-benefit-from-building-free-open-source-frameworks/answer/Clément-Renaud'
 source: quora
 title: 'How do people benefit from building free open source frameworks?'

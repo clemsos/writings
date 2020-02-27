@@ -1,6 +1,6 @@
 ---
 date: '2018-08-22'
-language: fr
+language: en
 original_url: 'https://quora.com/What-is-the-way-to-correct-the-behavior-of-countries-that-dig-under-walls-and-infiltrate-by-sending-spies-Is-force-the-only-way-for-that/answer/Clément-Renaud'
 source: quora
 title: |

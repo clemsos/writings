@@ -1,6 +1,6 @@
 ---
 date: '2017-06-20'
-language: fr
+language: en
 original_url: 'https://quora.com/What-is-your-first-impression-when-you-arrive-in-Shenzhen/answer/Clément-Renaud'
 source: quora
 title: 'What is your first impression when you arrive in Shenzhen?'

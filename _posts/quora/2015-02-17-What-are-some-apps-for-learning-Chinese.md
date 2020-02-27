@@ -1,6 +1,6 @@
 ---
 date: '2015-02-17'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-some-apps-for-learning-Chinese/answer/Clément-Renaud'
 source: quora
 title: 'What are some apps for learning Chinese?'

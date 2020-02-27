@@ -1,6 +1,6 @@
 ---
 date: '2012-12-21'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-the-most-euphoric-songs-of-all-time/answer/Clément-Renaud'
 source: quora
 title: 'What are the most euphoric songs of all time?'

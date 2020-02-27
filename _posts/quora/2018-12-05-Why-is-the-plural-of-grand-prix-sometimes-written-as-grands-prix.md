@@ -1,6 +1,6 @@
 ---
 date: '2018-12-05'
-language: fr
+language: en
 original_url: 'https://quora.com/Why-is-the-plural-of-grand-prix-sometimes-written-as-grands-prix/answer/Clément-Renaud'
 source: quora
 title: |

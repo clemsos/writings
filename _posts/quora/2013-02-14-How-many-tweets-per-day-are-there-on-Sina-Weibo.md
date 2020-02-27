@@ -1,6 +1,6 @@
 ---
 date: '2013-02-14'
-language: fr
+language: en
 original_url: 'https://quora.com/How-many-tweets-per-day-are-there-on-Sina-Weibo/answer/Clément-Renaud'
 source: quora
 title: 'How many tweets per day are there on Sina Weibo?'

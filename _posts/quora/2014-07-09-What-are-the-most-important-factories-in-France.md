@@ -1,6 +1,6 @@
 ---
 date: '2014-07-09'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-the-most-important-factories-in-France/answer/Clément-Renaud'
 source: quora
 title: 'What are the most important factories in France?'

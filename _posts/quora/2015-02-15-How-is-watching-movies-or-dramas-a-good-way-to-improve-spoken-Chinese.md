@@ -1,6 +1,6 @@
 ---
 date: '2015-02-15'
-language: fr
+language: en
 original_url: 'https://quora.com/How-is-watching-movies-or-dramas-a-good-way-to-improve-spoken-Chinese/answer/Clément-Renaud'
 source: quora
 title: 'How is watching movies or dramas a good way to improve spoken Chinese?'

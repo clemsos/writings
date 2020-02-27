@@ -1,6 +1,6 @@
 ---
 date: '2015-08-10'
-language: fr
+language: en
 original_url: 'https://quora.com/What-does-the-typical-meal-in-China-consist-of/answer/Clément-Renaud'
 source: quora
 title: 'What does the typical meal in China consist of?'

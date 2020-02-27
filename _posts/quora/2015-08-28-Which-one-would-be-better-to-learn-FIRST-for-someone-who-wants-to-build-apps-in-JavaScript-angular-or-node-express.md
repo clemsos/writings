@@ -1,6 +1,6 @@
 ---
 date: '2015-08-28'
-language: fr
+language: en
 original_url: 'https://quora.com/Which-one-would-be-better-to-learn-FIRST-for-someone-who-wants-to-build-apps-in-JavaScript-angular-or-node-express/answer/Clément-Renaud'
 source: quora
 title: |

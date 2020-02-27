@@ -1,6 +1,6 @@
 ---
 date: '2018-09-29'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-the-complementary-roles-Guangzhou-Shenzhen-Dongguan-Hong-Kong-and-Macao-will-play-in-the-Greater-Bay-Area-as-proposed-by-the-State-Council-of-China/answer/Clément-Renaud'
 source: quora
 title: |

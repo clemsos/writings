@@ -1,6 +1,6 @@
 ---
 date: '2015-08-05'
-language: fr
+language: en
 original_url: 'https://quora.com/I-want-to-start-learning-about-MEAN-what-are-some-great-projects-to-start-with-or-some-advanced-projects/answer/Clément-Renaud'
 source: quora
 title: |

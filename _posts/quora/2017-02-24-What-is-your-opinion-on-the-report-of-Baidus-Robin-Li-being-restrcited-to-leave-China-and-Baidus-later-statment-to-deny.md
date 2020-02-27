@@ -1,6 +1,6 @@
 ---
 date: '2017-02-24'
-language: fr
+language: en
 original_url: 'https://quora.com/What-is-your-opinion-on-the-report-of-Baidus-Robin-Li-being-restrcited-to-leave-China-and-Baidus-later-statment-to-deny/answer/Clément-Renaud'
 source: quora
 title: |

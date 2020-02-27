@@ -1,6 +1,6 @@
 ---
 date: '2015-08-28'
-language: fr
+language: en
 original_url: 'https://quora.com/Which-country-of-the-world-has-the-least-problems/answer/Clément-Renaud'
 source: quora
 title: 'Which country of the world has the least problems?'

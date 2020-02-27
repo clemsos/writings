@@ -1,6 +1,6 @@
 ---
 date: '2015-02-21'
-language: fr
+language: en
 original_url: 'https://quora.com/If-you-have-the-opportunity-to-work-at-investment-banking-in-mainland-China-Hong-Kong-and-Taiwan-which-one-would-you-choose-Why/answer/Clément-Renaud'
 source: quora
 title: |

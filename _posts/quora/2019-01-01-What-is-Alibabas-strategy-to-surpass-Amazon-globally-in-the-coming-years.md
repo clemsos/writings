@@ -1,6 +1,6 @@
 ---
 date: '2019-01-01'
-language: fr
+language: en
 original_url: 'https://quora.com/What-is-Alibabas-strategy-to-surpass-Amazon-globally-in-the-coming-years/answer/Clément-Renaud'
 source: quora
 title: |

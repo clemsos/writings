@@ -1,6 +1,6 @@
 ---
 date: '2017-06-18'
-language: fr
+language: en
 original_url: 'https://quora.com/Why-cant-Facebook-copy-WeChat-faster/answer/Clément-Renaud'
 source: quora
 title: 'Why can ''t Facebook copy WeChat faster?'

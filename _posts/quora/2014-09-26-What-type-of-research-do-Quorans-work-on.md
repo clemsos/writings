@@ -1,6 +1,6 @@
 ---
 date: '2014-09-26'
-language: fr
+language: en
 original_url: 'https://quora.com/What-type-of-research-do-Quorans-work-on/answer/Clément-Renaud'
 source: quora
 title: 'What type of research do Quorans work on?'

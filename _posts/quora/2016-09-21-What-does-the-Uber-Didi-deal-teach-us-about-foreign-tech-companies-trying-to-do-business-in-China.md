@@ -1,6 +1,6 @@
 ---
 date: '2016-09-21'
-language: fr
+language: en
 original_url: 'https://quora.com/What-does-the-Uber-Didi-deal-teach-us-about-foreign-tech-companies-trying-to-do-business-in-China/answer/Clément-Renaud'
 source: quora
 title: |

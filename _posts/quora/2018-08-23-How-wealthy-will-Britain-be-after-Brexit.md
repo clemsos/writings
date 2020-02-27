@@ -1,6 +1,6 @@
 ---
 date: '2018-08-23'
-language: fr
+language: en
 original_url: 'https://quora.com/How-wealthy-will-Britain-be-after-Brexit/answer/Clément-Renaud'
 source: quora
 title: 'How wealthy will Britain be after Brexit?'

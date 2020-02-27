@@ -1,6 +1,6 @@
 ---
 date: '2014-07-21'
-language: fr
+language: en
 original_url: 'https://quora.com/Given-the-same-exact-text-in-English-and-Chinese-which-would-take-less-time-to-read/answer/Clément-Renaud'
 source: quora
 title: |

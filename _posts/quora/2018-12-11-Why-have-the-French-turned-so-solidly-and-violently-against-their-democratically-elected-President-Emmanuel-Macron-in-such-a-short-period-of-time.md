@@ -1,6 +1,6 @@
 ---
 date: '2018-12-11'
-language: fr
+language: en
 original_url: 'https://quora.com/Why-have-the-French-turned-so-solidly-and-violently-against-their-democratically-elected-President-Emmanuel-Macron-in-such-a-short-period-of-time/answer/Clément-Renaud'
 source: quora
 title: |

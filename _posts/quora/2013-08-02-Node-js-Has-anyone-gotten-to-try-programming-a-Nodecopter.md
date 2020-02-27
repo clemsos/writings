@@ -1,6 +1,6 @@
 ---
 date: '2013-08-02'
-language: fr
+language: en
 original_url: 'https://quora.com/Node-js-Has-anyone-gotten-to-try-programming-a-Nodecopter/answer/Clément-Renaud'
 source: quora
 title: 'Node.js: Has anyone gotten to try programming a Nodecopter?'

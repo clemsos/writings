@@ -1,6 +1,6 @@
 ---
 date: '2018-08-31'
-language: fr
+language: en
 original_url: 'https://quora.com/What-do-French-people-think-about-Indians-who-are-studying-and-working-in-France/answer/Clément-Renaud'
 source: quora
 title: |

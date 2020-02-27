@@ -1,6 +1,6 @@
 ---
 date: '2016-12-12'
-language: fr
+language: en
 original_url: 'https://quora.com/What-is-it-like-to-live-in-the-M50-art-district-in-Shanghai-vs-living-in-Xuhui-Is-it-even-common-for-people-to-live-in-that-area-M50/answer/Clément-Renaud'
 source: quora
 title: |

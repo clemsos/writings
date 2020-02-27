@@ -1,6 +1,6 @@
 ---
 date: '2014-03-31'
-language: fr
+language: en
 original_url: 'https://quora.com/How-does-one-get-started-with-the-Chinese-web/answer/Clément-Renaud'
 source: quora
 title: 'How does one get started with the Chinese web?'

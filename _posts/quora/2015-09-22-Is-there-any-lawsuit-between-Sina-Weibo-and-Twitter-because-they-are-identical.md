@@ -1,6 +1,6 @@
 ---
 date: '2015-09-22'
-language: fr
+language: en
 original_url: 'https://quora.com/Is-there-any-lawsuit-between-Sina-Weibo-and-Twitter-because-they-are-identical/answer/Clément-Renaud'
 source: quora
 title: |

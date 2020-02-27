@@ -1,6 +1,6 @@
 ---
 date: '2018-09-07'
-language: fr
+language: en
 original_url: 'https://quora.com/Has-the-rise-of-the-gig-economy-contributed-to-greater-wealth-disparity-and-inequality-as-Thomas-Piketty-suggests-in-this-chart/answer/Clément-Renaud'
 source: quora
 title: |

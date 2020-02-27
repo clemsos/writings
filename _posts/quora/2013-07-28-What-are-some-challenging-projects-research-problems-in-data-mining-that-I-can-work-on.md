@@ -1,6 +1,6 @@
 ---
 date: '2013-07-28'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-some-challenging-projects-research-problems-in-data-mining-that-I-can-work-on/answer/Clément-Renaud'
 source: quora
 title: |

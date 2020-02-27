@@ -1,6 +1,6 @@
 ---
 date: '2013-02-14'
-language: fr
+language: en
 original_url: 'https://quora.com/Web-Censorship-in-China-What-are-the-statistics-of-tweets-censored-and-taken-down-on-Sina-Weibo-Is-there-a-way-just-to-keep-a-history-of-that/answer/Clément-Renaud'
 source: quora
 title: |

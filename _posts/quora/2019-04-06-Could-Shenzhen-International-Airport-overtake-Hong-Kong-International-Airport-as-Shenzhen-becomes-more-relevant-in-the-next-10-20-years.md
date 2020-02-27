@@ -1,6 +1,6 @@
 ---
 date: '2019-04-06'
-language: fr
+language: en
 original_url: 'https://quora.com/Could-Shenzhen-International-Airport-overtake-Hong-Kong-International-Airport-as-Shenzhen-becomes-more-relevant-in-the-next-10-20-years/answer/Clément-Renaud'
 source: quora
 title: |

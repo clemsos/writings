@@ -1,6 +1,6 @@
 ---
 date: '2015-08-15'
-language: fr
+language: en
 original_url: 'https://quora.com/What-are-some-travel-tips-for-visiting-China/answer/Clément-Renaud'
 source: quora
 title: 'What are some travel tips for visiting China?'

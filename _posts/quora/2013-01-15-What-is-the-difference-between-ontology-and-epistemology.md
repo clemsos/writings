@@ -1,6 +1,6 @@
 ---
 date: '2013-01-15'
-language: fr
+language: en
 original_url: 'https://quora.com/What-is-the-difference-between-ontology-and-epistemology/answer/Clément-Renaud'
 source: quora
 title: 'What is the difference between  ''ontology '' and  ''epistemology ''?'

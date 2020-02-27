@@ -1,6 +1,6 @@
 ---
 date: '2017-01-05'
-language: fr
+language: en
 original_url: 'https://quora.com/How-many-hours-a-day-should-I-learn-Chinese-to-be-fluent-in-a-year/answer/Clément-Renaud'
 source: quora
 title: 'How many hours a day should I learn Chinese to be fluent in a year?'

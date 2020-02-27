@@ -1,6 +1,6 @@
 ---
 date: '2017-09-13'
-language: fr
+language: en
 original_url: 'https://quora.com/Why-does-China-prohibit-foreigners-from-staying-in-low-class-hotels-Is-there-any-other-country-that-does-this/answer/Clément-Renaud'
 source: quora
 title: |

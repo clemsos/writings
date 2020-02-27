@@ -1,6 +1,6 @@
 ---
 date: '2017-09-13'
-language: fr
+language: en
 original_url: 'https://quora.com/What-food-industry-opportunities-do-you-see-in-China/answer/Clément-Renaud'
 source: quora
 title: 'What food industry opportunities do you see in China?'

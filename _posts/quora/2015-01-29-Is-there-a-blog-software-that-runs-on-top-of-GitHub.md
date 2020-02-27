@@ -1,6 +1,6 @@
 ---
 date: '2015-01-29'
-language: fr
+language: en
 original_url: 'https://quora.com/Is-there-a-blog-software-that-runs-on-top-of-GitHub/answer/Clément-Renaud'
 source: quora
 title: 'Is there a blog software that runs on top of GitHub?'

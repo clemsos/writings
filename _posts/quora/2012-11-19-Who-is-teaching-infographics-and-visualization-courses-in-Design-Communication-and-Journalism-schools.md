@@ -1,6 +1,6 @@
 ---
 date: '2012-11-19'
-language: fr
+language: en
 original_url: 'https://quora.com/Who-is-teaching-infographics-and-visualization-courses-in-Design-Communication-and-Journalism-schools/answer/Clément-Renaud'
 source: quora
 title: |

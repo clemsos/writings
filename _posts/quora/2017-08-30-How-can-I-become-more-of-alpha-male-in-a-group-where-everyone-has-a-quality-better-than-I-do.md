@@ -1,6 +1,6 @@
 ---
 date: '2017-08-30'
-language: fr
+language: en
 original_url: 'https://quora.com/How-can-I-become-more-of-alpha-male-in-a-group-where-everyone-has-a-quality-better-than-I-do/answer/Clément-Renaud'
 source: quora
 title: |

@@ -1,6 +1,6 @@
 ---
 date: '2015-07-07'
-language: fr
+language: en
 original_url: 'https://quora.com/Whats-an-acceptable-email-signature-for-a-startup-CEO-in-Silicon-Valley/answer/Clément-Renaud'
 source: quora
 title: |
