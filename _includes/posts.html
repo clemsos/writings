@@ -1,6 +1,6 @@
 <ul>
 {% for post in site.posts %}
-  <li data-language="{{post.title}}" data-date="{{post.date}}">
+  <li data-language="{{post.language}}" data-date="{{post.date}}">
     {{post.date | date_to_string }} <a href="{{post.url | prepend:site.baseurl }}"> {{post.title | xml_escape | textilize}}</a>
   </li>
 {% endfor %}
