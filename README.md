@@ -22,7 +22,7 @@ The goals are :
   - [x] Ecriture Exemplaire
   - [x] twitter (not worth it ?)
   - [x] facebook (not worth it ?)
-  - [x] Media archives from https://clementrenaud.com/cv
+  - [x] Media archives from https://clementrenaud.com/write
   - [x] Instagram
   - [ ] Scientific papers and conferences
   - [ ] Quora fr (require some date conversion)

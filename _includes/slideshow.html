@@ -1,0 +1,71 @@
+<div id="slideshow-{{include.id}}" class="slideshow-display-container">
+
+  {% for img in include.images %}
+  <img class="mySlides" src="{{img}}" style="width:100%">
+  {% endfor %}
+
+  <button class="slideshow-button slideshow-black slideshow-display-left" onclick="plusDivs_{{include.id}}(-1)">&#10094;</button>
+  <button class="slideshow-button slideshow-black slideshow-display-right" onclick="plusDivs_{{include.id}}(1)">&#10095;</button>
+</div>
+
+
+<style media="screen">
+.slideshow-display-container {
+      position: relative;
+}
+.slideshow-black {
+  color: #fff!important;
+  background-color: #000!important;
+  border: none
+}
+
+.slideshow-display-left {
+  position: absolute;
+  top: 50%;
+  left: 0%;
+  transform: translate(0%,-50%);
+}
+
+.slideshow-display-right {
+    position: absolute;
+    top: 50%;
+    right: 0%;
+    transform: translate(0%,-50%);
+    -ms-transform: translate(0%,-50%);
+}
+.slideshow-button {
+  user-select: none;
+}
+
+</style>
+
+
+<script>
+
+var slideIndex_{{include.id}} = 1;
+showDivs_{{include.id}}(slideIndex_{{include.id}});
+
+function plusDivs_{{include.id}}(n) {
+  showDivs_{{include.id}}(slideIndex_{{include.id}} += n);
+}
+
+function showDivs_{{include.id}}(n) {
+  var i;
+
+  var slideshow = document.getElementById("slideshow-{{include.id}}")
+  var x = slideshow.getElementsByClassName("mySlides");
+
+
+  if (n > x.length) {
+    slideIndex_{{include.id}} = 1
+  }
+  if (n < 1) {
+    slideIndex_{{include.id}} = x.length
+  }
+  for (i = 0; i < x.length; i++) {
+     x[i].style.display = "none";
+  }
+  x[slideIndex_{{include.id}}-1].style.display = "block";
+
+}
+</script>
