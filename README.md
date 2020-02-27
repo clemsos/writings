@@ -20,13 +20,13 @@ The goals are :
   - [x] Jekyll RW
   - [x] old Wordpress Blog
   - [x] Ecriture Exemplaire
-  - [x] Instagram
-  - [ ] Scientific papers and conferences
-  - [ ] Media archives from https://clementrenaud.com/cv
-  - [ ] Quora fr (require some date conversion)
-  - [ ] other github repos
   - [x] twitter (not worth it ?)
   - [x] facebook (not worth it ?)
+  - [x] Media archives from https://clementrenaud.com/cv
+  - [x] Instagram
+  - [ ] Scientific papers and conferences
+  - [ ] Quora fr (require some date conversion)
+  - [ ] other github repos
 - Convert
   - [x] Define proper meta format: date, title, source, original_url
   - [x] HTML > markdown
