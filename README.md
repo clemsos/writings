@@ -20,12 +20,13 @@ The goals are :
   - [x] Jekyll RW
   - [x] old Wordpress Blog
   - [x] Ecriture Exemplaire
+  - [x] Instagram
   - [ ] Scientific papers and conferences
   - [ ] Media archives from https://clementrenaud.com/cv
   - [ ] Quora fr (require some date conversion)
   - [ ] other github repos
-  - [ ] twitter (not worth it ?)
-  - [ ] facebook (not worth it ?)
+  - [x] twitter (not worth it ?)
+  - [x] facebook (not worth it ?)
 - Convert
   - [x] Define proper meta format: date, title, source, original_url
   - [x] HTML > markdown
@@ -86,3 +87,13 @@ ruby -r rubygems -e 'require "jekyll-import";
     })'
 
 ```
+
+### Backup Instagram
+
+The new registration process to use Instagram API (aka Facebook Developer Application) is so fastidious that I gave up altogether. Only in China I remembered having to submit such long and detailed application to get an API key.
+
+Anyway, you can request your data in your profile page (web version only), then from that you will need some reformat.
+
+### Backup Twitter & Facebook
+
+Twitter and Facebook both offer a fairly complete data takeaway. You can request all your data from our profile, then process it as you wish. To reduce the noise I'll keep these but as archive only. I am pretty sure there are some interesting posts with original writings there but I don't have the courage to go through all this today. Maybe someday I will...
