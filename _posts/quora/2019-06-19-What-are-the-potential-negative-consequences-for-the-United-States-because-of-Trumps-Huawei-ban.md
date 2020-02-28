@@ -18,5 +18,6 @@ So the unintended consequence is that by using raw force, the scientific communi
 
 **Footnotes**
 
-[1] [Huawei employees banned from peer review of research](https://www.scmp.com/tech/big-tech/article/3012336/worlds-largest-technical-professional-society-bans-huawei-staff-peer)
+[1] [Huawei employees banned from peer review of research](https://www.scmp.com/tech/big-tech/article/3012336/worlds-largest-technical-professional-society-bans-huawei-staff-peer)   
+
 [2] [Science publisher IEEE ends ban on Huawei employees after protest · TechNode](https://technode.com/2019/06/03/science-publisher-ieee-raises-ban-on-huawei-employees-after-protest/)

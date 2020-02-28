@@ -11,7 +11,7 @@ The romantic appeal of isolated protestors fighting alone a giant oppressive war
 
 What was called “radical violence” during the yellow vests movement is now framed as “creative technics” in HK. Journalists are getting all worked up about the brutality of the HK police, while what has been happening in the streets of France in the last months has been much more extreme - with dozens of beaten journalists, thousands of “preventive” arrests and 10+ casualties[1] .
 
-![](/img/quora/main-qimg-6b424f75f90d1b45fc1df3822c821f35)
+![](/img/quora/main-qimg-6b424f75f90d1b45fc1df3822c821f35.jpeg)
 
 *This is an image that circulated on social media, comparing coverage from protestors in HK and France by the French news agency.*
 
