@@ -1,0 +1,11 @@
+---
+---
+{
+  "words" : [
+  {% for item in site.posts %}{% unless item.published == false %}{% assign wordCount = item.content | number_of_words %}{
+    "count" : "{{wordCount}}",
+    "title" : {{ item.title | jsonify }},
+    "date" : "{{ item.date | date_to_xmlschema}}"
+  }{% if forloop.last == false %},{% endif %}{% endunless %}{% endfor %}
+  ]
+}
